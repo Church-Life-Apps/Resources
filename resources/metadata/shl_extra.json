@@ -1824,22 +1824,93 @@
       "title": "At The Name Of Jesus",
       "songNumber": 36,
       "pages": "38, 39",
-      "author": "Thomas O. Chisholm",
-      "music": "",
-      "presentation": "v1",
+      "author": "Caroline M. Noel",
+      "music": "William H. Monk",
+      "presentation": "v1, v2, v3, v3, v5, v6, v7",
       "key": "",
       "guitar": "",
-      "time": "",
-      "meter": "",
+      "time": "4/4",
+      "meter": "6.5.6.5.D.",
       "scripture": "",
-      "theme": "",
+      "theme": "Praise and Worship",
       "theme2": "",
       "urlLink": "",
       "notes": "",
       "ccli": "",
       "dateComposed": "",
       "misc": "",
-      "lyrics": { "v1": ["Incomplete"] }
+      "lyrics": {
+        "v1": [
+          "At the Name of Jesus",
+          "Every knee shall bow,",
+          "Every tongue confess Him",
+          "King of glory now;",
+          "'Tis the Father's pleasure",
+          "We should call Him Lord,",
+          "Who from the beginning",
+          "Was the Mighty Word."
+        ],
+        "v2": [
+          "At His voice creation",
+          "Sprang at once to sight:",
+          "All the angel faces,",
+          "All the hosts of light,",
+          "Thrones and dominations,",
+          "Stars upon their way,",
+          "All the heav'nly orders,",
+          "In their great array."
+        ],
+        "v3": [
+          "Humbled for a season,",
+          "To receive a Name",
+          "From the lips of sinners",
+          "Unto whom He came,",
+          "Faithfully He bore it",
+          "Spotless to the last,",
+          "Brought it back victorious,",
+          "When from death He passed;"
+        ],
+        "v4": [
+          "Bore it up triumphant,",
+          "With its human light,",
+          "Through all ranks of creatures,",
+          "To the central height,",
+          "To the throne of Godhead,",
+          "To the Father's breast,",
+          "Filled it with the glory",
+          "Of that perfect rest."
+        ],
+        "v5": [
+          "Name Him, brothers, name Him,",
+          "With love strong as death,",
+          "But with awe and wonder,",
+          "And with bated breath;",
+          "He is God the Savior,",
+          "He is Christ the Lord,",
+          "Ever to be worshiped,",
+          "Trusted, and adored."
+        ],
+        "v6": [
+          "In your hearts enthrone Him;",
+          "There let Him subdue",
+          "All that is not holy,",
+          "All that is not true;",
+          "Crown Him as your Captain",
+          "In temptation's hour;",
+          "Let His will enfold you",
+          "In its light and power."
+        ],
+        "v7": [
+          "Brothers, this Lord Jesus",
+          "Shall return again,",
+          "With His Father's glory,",
+          "With His angel train;",
+          "For all wreaths of empire",
+          "Meet upon His brow,",
+          "And our hearts confess Him",
+          "King of glory now."
+        ]
+      }
     },
     {
       "title": "Jesus, The Name High Over All",

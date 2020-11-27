@@ -56,12 +56,7 @@
       "meter": "8.5.8.3.",
       "theme": "Blessing of the Trinity",
       "lyrics": {
-        "v1": [
-          "Glory be to God the Father,",
-          "And to Christ the Son,",
-          "Glory to the Holy Spirit\u2014",
-          "Ever One."
-        ],
+        "v1": ["Glory be to God the Father,", "And to Christ the Son,", "Glory to the Holy Spirit\u2014", "Ever One."],
         "v2": [
           "As we view the vast creation,",
           "Planned with wondrous skill,",
@@ -179,7 +174,7 @@
       "title": "Come, Thou Almighty King",
       "songNumber": 6,
       "pages": "6",
-      "author": "anonymous",
+      "author": "Anonymous",
       "music": "Felice de Giardini (1716-1796)",
       "presentation": "v1 v2 v3 v4",
       "time": "3/4",
@@ -1510,12 +1505,83 @@
       "songNumber": 36,
       "pages": "38, 39",
       "author": "Caroline M. Noel",
-      "music": "",
-      "presentation": "v1",
-      "time": "",
-      "meter": "",
-      "theme": "",
-      "lyrics": { "v1": ["Incomplete"] }
+      "music": "William H. Monk",
+      "presentation": "v1, v2, v3, v3, v5, v6, v7",
+      "time": "4/4",
+      "meter": "6.5.6.5.D.",
+      "theme": "Praise and Worship",
+      "lyrics": {
+        "v1": [
+          "At the Name of Jesus",
+          "Every knee shall bow,",
+          "Every tongue confess Him",
+          "King of glory now;",
+          "'Tis the Father's pleasure",
+          "We should call Him Lord,",
+          "Who from the beginning",
+          "Was the Mighty Word."
+        ],
+        "v2": [
+          "At His voice creation",
+          "Sprang at once to sight:",
+          "All the angel faces,",
+          "All the hosts of light,",
+          "Thrones and dominations,",
+          "Stars upon their way,",
+          "All the heav'nly orders,",
+          "In their great array."
+        ],
+        "v3": [
+          "Humbled for a season,",
+          "To receive a Name",
+          "From the lips of sinners",
+          "Unto whom He came,",
+          "Faithfully He bore it",
+          "Spotless to the last,",
+          "Brought it back victorious,",
+          "When from death He passed;"
+        ],
+        "v4": [
+          "Bore it up triumphant,",
+          "With its human light,",
+          "Through all ranks of creatures,",
+          "To the central height,",
+          "To the throne of Godhead,",
+          "To the Father's breast,",
+          "Filled it with the glory",
+          "Of that perfect rest."
+        ],
+        "v5": [
+          "Name Him, brothers, name Him,",
+          "With love strong as death,",
+          "But with awe and wonder,",
+          "And with bated breath;",
+          "He is God the Savior,",
+          "He is Christ the Lord,",
+          "Ever to be worshiped,",
+          "Trusted, and adored."
+        ],
+        "v6": [
+          "In your hearts enthrone Him;",
+          "There let Him subdue",
+          "All that is not holy,",
+          "All that is not true;",
+          "Crown Him as your Captain",
+          "In temptation's hour;",
+          "Let His will enfold you",
+          "In its light and power."
+        ],
+        "v7": [
+          "Brothers, this Lord Jesus",
+          "Shall return again,",
+          "With His Father's glory,",
+          "With His angel train;",
+          "For all wreaths of empire",
+          "Meet upon His brow,",
+          "And our hearts confess Him",
+          "King of glory now."
+        ]
+      }
     },
     {
       "title": "Jesus, The Name High Over All",
@@ -1601,12 +1667,7 @@
           "Who in each sorrow bears a part,",
           "That none can bear below."
         ],
-        "c1": [
-          "Oh, how I love Jesus,",
-          "Oh, how I love Jesus,",
-          "Oh, how I love Jesus,",
-          "Because He first loved me!"
-        ]
+        "c1": ["Oh, how I love Jesus,", "Oh, how I love Jesus,", "Oh, how I love Jesus,", "Because He first loved me!"]
       }
     },
     {
@@ -2360,10 +2421,7 @@
           "Final Adam from above,",
           "Reinstate us in Thy love."
         ],
-        "c1": [
-          "Hark! the herald angels sing,",
-          "\"Glory to the newborn King.\""
-        ]
+        "c1": ["Hark! the herald angels sing,", "\"Glory to the newborn King.\""]
       }
     },
     {
@@ -2996,24 +3054,9 @@
       "meter": "Peculiar Meter.",
       "theme": "Praise of the Lord",
       "lyrics": {
-        "v1": [
-          "Low in the grave He lay,",
-          "Jesus, my Savior!",
-          "Waiting the coming day,",
-          "Jesus, my Lord!"
-        ],
-        "v2": [
-          "Vainly they watch His bed,",
-          "Jesus, my Savior!",
-          "Vainly they seal the dead,",
-          "Jesus, my Lord!"
-        ],
-        "v3": [
-          "Death cannot keep his prey,",
-          "Jesus, my Savior!",
-          "He tore the bars away,",
-          "Jesus, my Lord!"
-        ],
+        "v1": ["Low in the grave He lay,", "Jesus, my Savior!", "Waiting the coming day,", "Jesus, my Lord!"],
+        "v2": ["Vainly they watch His bed,", "Jesus, my Savior!", "Vainly they seal the dead,", "Jesus, my Lord!"],
+        "v3": ["Death cannot keep his prey,", "Jesus, my Savior!", "He tore the bars away,", "Jesus, my Lord!"],
         "c1": [
           "Up from the grave He arose,",
           "With a mighty triumph o'er His foes;",
@@ -3249,10 +3292,7 @@
           "We at His feet may fall!",
           "We'll join the everlasting song,"
         ],
-        "c1": [
-          "And crown Him, crown Him, crown Him, crown Him,",
-          "And crown Him Lord of all."
-        ]
+        "c1": ["And crown Him, crown Him, crown Him, crown Him,", "And crown Him Lord of all."]
       }
     },
     {
@@ -3570,10 +3610,7 @@
           "Let the Church with gladness, hymns of triumph sing,",
           "For her Lord now liveth, death hath lost its sting."
         ],
-        "c1": [
-          "Thine be the glory, risen, conqu'ring Son,",
-          "Endless is the vict'ry Thou o'er death hast won."
-        ]
+        "c1": ["Thine be the glory, risen, conqu'ring Son,", "Endless is the vict'ry Thou o'er death hast won."]
       }
     },
     {
@@ -3937,22 +3974,13 @@
           "All these once were sinners, defiled in His sight,",
           "Now arrayed in pure garments, in praise they unite."
         ],
-        "v3": [
-          "He maketh the rebel a priest and a king,",
-          "He hath bought us, and taught us this new song to sing."
-        ],
+        "v3": ["He maketh the rebel a priest and a king,", "He hath bought us, and taught us this new song to sing."],
         "v4": [
           "How helpless and hopeless we sinners had been,",
           "If He never had loved us till cleansed from our sin."
         ],
-        "v5": [
-          "Aloud in His praises our voices shall ring,",
-          "So that others, believing, this new song shall sing."
-        ],
-        "c1": [
-          "Unto Him Who hath loved us and washed us from sin,",
-          "Unto Him be the glory forever! Amen!"
-        ]
+        "v5": ["Aloud in His praises our voices shall ring,", "So that others, believing, this new song shall sing."],
+        "c1": ["Unto Him Who hath loved us and washed us from sin,", "Unto Him be the glory forever! Amen!"]
       }
     },
     {
@@ -5446,12 +5474,7 @@
           "And my hopes are anchored",
           "Safe within the veil."
         ],
-        "c1": [
-          "All in all forever,",
-          "Only Christ I'll sing;",
-          "Everything is in Christ,",
-          "And Christ is everything."
-        ]
+        "c1": ["All in all forever,", "Only Christ I'll sing;", "Everything is in Christ,", "And Christ is everything."]
       }
     },
     {
@@ -5520,10 +5543,7 @@
           "The Godhead, three in one, Father, Spirit, Son,",
           "the Lion and the Lamb, the Lion and the Lamb."
         ],
-        "v3": [
-          "Name above all names, worthy of all praise.",
-          "My heart will sing: How great is our God!"
-        ],
+        "v3": ["Name above all names, worthy of all praise.", "My heart will sing: How great is our God!"],
         "c1": [
           "How great is our God! Sing with me:",
           "How great is our God! And all will see how great, how great is our God!"
@@ -6235,11 +6255,7 @@
           "Plunge in today, and be made complete;",
           "Glory to His name!"
         ],
-        "c1": [
-          "Glory to His name, Glory to His name;",
-          "There to my sin was the blood applied;",
-          "Glory to His name!"
-        ]
+        "c1": ["Glory to His name, Glory to His name;", "There to my sin was the blood applied;", "Glory to His name!"]
       }
     },
     {
@@ -7170,12 +7186,7 @@
           "I cannot doubt Thy word,",
           "I know that I am Thine."
         ],
-        "c1": [
-          "Mine! Mine! Mine!",
-          "I know Thou art mine;",
-          "Savior, dear Savior,",
-          "I know Thou art mine."
-        ]
+        "c1": ["Mine! Mine! Mine!", "I know Thou art mine;", "Savior, dear Savior,", "I know Thou art mine."]
       }
     },
     {
@@ -7283,7 +7294,7 @@
       "title": "Drinking At The Fountain",
       "songNumber": 161,
       "pages": "186, 187",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "",
       "presentation": "v1 c v2 c v3 c v4 c",
       "time": "",
@@ -7665,10 +7676,7 @@
           "As on the wondrous thought I dwell",
           "That Christ liveth in me."
         ],
-        "c1": [
-          "Christ liveth in me, Christ liveth in me;",
-          "Oh! what a salvation this, That Christ liveth in me."
-        ]
+        "c1": ["Christ liveth in me, Christ liveth in me;", "Oh! what a salvation this, That Christ liveth in me."]
       }
     },
     {
@@ -7914,7 +7922,7 @@
       "title": "Flow Through Me, Lord",
       "songNumber": 175,
       "pages": "204, 205",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "",
       "presentation": "v1 v2 v3 v4 v5 v6",
       "time": "",
@@ -9654,12 +9662,7 @@
           "Love unquestioning will follow,",
           "Love will triumph, love will dare."
         ],
-        "c1": [
-          "Let me love Thee, Savior,",
-          "Take my heart forever;",
-          "Nothing but Thy favor",
-          "My soul can satisfy."
-        ]
+        "c1": ["Let me love Thee, Savior,", "Take my heart forever;", "Nothing but Thy favor", "My soul can satisfy."]
       }
     },
     {
@@ -9808,30 +9811,12 @@
       "meter": "",
       "theme": "",
       "lyrics": {
-        "v1": [
-          "How I desire to love You with all my heart",
-          "So that my spirit is flooded with love for You."
-        ],
-        "v2": [
-          "How I desire to taste the sweetness of love",
-          "So satisfied in love's wonderful melody."
-        ],
-        "v3": [
-          "How I desire to know Your most loving Self",
-          "So my heart can be united with heav'nly love."
-        ],
-        "v4": [
-          "How I desire to fully belong to You",
-          "So I will only abide in Your love's sweet rest."
-        ],
-        "v5": [
-          "How I desire to love You with all my being",
-          "So I can share in the secret of love fore'er."
-        ],
-        "v6": [
-          "How I desire to mingle with You in love",
-          "So fully one in the journey of love with You."
-        ]
+        "v1": ["How I desire to love You with all my heart", "So that my spirit is flooded with love for You."],
+        "v2": ["How I desire to taste the sweetness of love", "So satisfied in love's wonderful melody."],
+        "v3": ["How I desire to know Your most loving Self", "So my heart can be united with heav'nly love."],
+        "v4": ["How I desire to fully belong to You", "So I will only abide in Your love's sweet rest."],
+        "v5": ["How I desire to love You with all my being", "So I can share in the secret of love fore'er."],
+        "v6": ["How I desire to mingle with You in love", "So fully one in the journey of love with You."]
       }
     },
     {
@@ -9951,7 +9936,7 @@
       "title": "O, Who's Like Our Jesus",
       "songNumber": 219,
       "pages": "254",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "",
       "presentation": "v1 v2 v3 v4",
       "time": "",
@@ -10357,36 +10342,11 @@
       "meter": "",
       "theme": "",
       "lyrics": {
-        "v1": [
-          "I need Thee every hour,",
-          "Most gracious Lord;",
-          "No tender voice like Thine",
-          "Can peace afford."
-        ],
-        "v2": [
-          "I need Thee every hour,",
-          "Stay Thou near by;",
-          "Temptations lose their pow'r",
-          "When Thou art nigh."
-        ],
-        "v3": [
-          "I need Thee every hour,",
-          "In joy or pain;",
-          "Come quickly and abide,",
-          "Or life is vain."
-        ],
-        "v4": [
-          "I need Thee every hour,",
-          "Teach me Thy will;",
-          "And Thy rich promises",
-          "In me fulfill."
-        ],
-        "v5": [
-          "I need Thee every hour,",
-          "Most Holy One;",
-          "Oh, make me Thine indeed,",
-          "Thou bless\u00e9d Son."
-        ],
+        "v1": ["I need Thee every hour,", "Most gracious Lord;", "No tender voice like Thine", "Can peace afford."],
+        "v2": ["I need Thee every hour,", "Stay Thou near by;", "Temptations lose their pow'r", "When Thou art nigh."],
+        "v3": ["I need Thee every hour,", "In joy or pain;", "Come quickly and abide,", "Or life is vain."],
+        "v4": ["I need Thee every hour,", "Teach me Thy will;", "And Thy rich promises", "In me fulfill."],
+        "v5": ["I need Thee every hour,", "Most Holy One;", "Oh, make me Thine indeed,", "Thou bless\u00e9d Son."],
         "c1": [
           "I need Thee, Oh, I need Thee;",
           "Every hour I need Thee;",
@@ -11452,48 +11412,18 @@
       "meter": "",
       "theme": "",
       "lyrics": {
-        "v1": [
-          "I belong to Jesus;",
-          "I am not my own;",
-          "All I have and all I am",
-          "Shall be His alone."
-        ],
-        "v2": [
-          "I belong to Jesus;",
-          "He is Lord and King,",
-          "Reigning in my inmost heart",
-          "Over everything."
-        ],
-        "v3": [
-          "I belong to Jesus;",
-          "What can hurt or harm,",
-          "When He folds around my soul",
-          "His almighty arm?"
-        ],
+        "v1": ["I belong to Jesus;", "I am not my own;", "All I have and all I am", "Shall be His alone."],
+        "v2": ["I belong to Jesus;", "He is Lord and King,", "Reigning in my inmost heart", "Over everything."],
+        "v3": ["I belong to Jesus;", "What can hurt or harm,", "When He folds around my soul", "His almighty arm?"],
         "v4": [
           "I belong to Jesus;",
           "Blessed, blessed thought!",
           "With His own most precious blood",
           "Has my soul been bought."
         ],
-        "v5": [
-          "I belong to Jesus;",
-          "He has died for me;",
-          "I am His and He is mine",
-          "Through eternity."
-        ],
-        "v6": [
-          "I belong to Jesus;",
-          "He will keep my soul,",
-          "If the deathly waters dark",
-          "Round about me roll."
-        ],
-        "v7": [
-          "I belong to Jesus;",
-          "And ere long I'll be",
-          "With my precious Savior there",
-          "In His royalty."
-        ]
+        "v5": ["I belong to Jesus;", "He has died for me;", "I am His and He is mine", "Through eternity."],
+        "v6": ["I belong to Jesus;", "He will keep my soul,", "If the deathly waters dark", "Round about me roll."],
+        "v7": ["I belong to Jesus;", "And ere long I'll be", "With my precious Savior there", "In His royalty."]
       }
     },
     {
@@ -11877,7 +11807,7 @@
       "title": "Utterly Abandoned",
       "songNumber": 260,
       "pages": "296, 297",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "",
       "presentation": "v1 c v2 c v3 c v4 c v5 c v6 c v7 c",
       "time": "",
@@ -11954,12 +11884,7 @@
           "While abandoned ever,",
           "Living unto Him!"
         ],
-        "c1": [
-          "Utterly abandoned",
-          "To the Lord of all,",
-          "Seeking all His fulness,",
-          "Answ'ring His dear call."
-        ]
+        "c1": ["Utterly abandoned", "To the Lord of all,", "Seeking all His fulness,", "Answ'ring His dear call."]
       }
     },
     {
@@ -12058,11 +11983,7 @@
           "Oh, the joy of full salvation!",
           "Glory, glory to His name!"
         ],
-        "c1": [
-          "I surrender all, I surrender all.",
-          "All to Thee, my blessed Savior,",
-          "I surrender all."
-        ]
+        "c1": ["I surrender all, I surrender all.", "All to Thee, my blessed Savior,", "I surrender all."]
       }
     },
     {
@@ -12219,12 +12140,7 @@
       "meter": "",
       "theme": "",
       "lyrics": {
-        "v1": [
-          "Under an eastern sky,",
-          "Amid a rabble's cry,",
-          "A Man went forth to die,",
-          "For me! for me!"
-        ],
+        "v1": ["Under an eastern sky,", "Amid a rabble's cry,", "A Man went forth to die,", "For me! for me!"],
         "v2": [
           "Thorn-crowned His blessed head,",
           "Bloodstained His every tread;",
@@ -12292,12 +12208,7 @@
           "All He has He fully gives thee;",
           "Let thy love His portion be."
         ],
-        "c1": [
-          "I am not my own,",
-          "I am not my own.",
-          "I belong to Jesus,",
-          "And I am not my own."
-        ]
+        "c1": ["I am not my own,", "I am not my own.", "I belong to Jesus,", "And I am not my own."]
       }
     },
     {
@@ -13123,10 +13034,7 @@
           "The trump shall resound and the Lord shall descend,",
           "\"Even so\" it is well with my soul."
         ],
-        "c1": [
-          "It is well with my soul!",
-          "It is well, it is well with my soul!"
-        ]
+        "c1": ["It is well with my soul!", "It is well, it is well with my soul!"]
       }
     },
     {
@@ -13267,7 +13175,7 @@
       "title": "In Nothing Be Anxious",
       "songNumber": 288,
       "pages": "332",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "F. W. Blunt",
       "presentation": "v1 v2 v3",
       "time": "4/4",
@@ -13298,7 +13206,7 @@
       "title": "When Is The Time To Trust?",
       "songNumber": 289,
       "pages": "333",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "Frederick Charles Maker (1844-1927)",
       "presentation": "v1 v2 v3 v4",
       "time": "4/4",
@@ -13338,7 +13246,7 @@
       "title": "Oh, Trust Thyself To Jesus",
       "songNumber": 290,
       "pages": "334",
-      "author": "anonymous",
+      "author": "Anonymous",
       "music": "Alexander C. Ewing",
       "presentation": "v1 v2 v3 v4",
       "time": "4/4",
@@ -13994,10 +13902,7 @@
           "Pressed into life, a life in Christ the Lord,",
           "Pressed into life, the life of Christ outpoured."
         ],
-        "c1": [
-          "God is my hope and God is my joy;",
-          "He is the resurrection life I enjoy."
-        ]
+        "c1": ["God is my hope and God is my joy;", "He is the resurrection life I enjoy."]
       }
     },
     {
@@ -14046,11 +13951,7 @@
           "My steadfast hope shall not remove,",
           "While Jesus intercedes above."
         ],
-        "v8": [
-          "Against me earth and hell combine;",
-          "But on my side is pow'r divine;",
-          "Jesus is all, and He is mine."
-        ]
+        "v8": ["Against me earth and hell combine;", "But on my side is pow'r divine;", "Jesus is all, and He is mine."]
       }
     },
     {
@@ -14753,10 +14654,7 @@
           "Tears cloud my eyes, yet sweetness fills my heart.",
           "May I decrease. May Thou increase in me!"
         ],
-        "c1": [
-          "Lord, Thy afflictions are true gain to me.",
-          "What Thou removest, Lord, replace with Thee!"
-        ]
+        "c1": ["Lord, Thy afflictions are true gain to me.", "What Thou removest, Lord, replace with Thee!"]
       }
     },
     {
@@ -14848,7 +14746,7 @@
       "title": "Many Crowd The Savior's Kingdom",
       "songNumber": 322,
       "pages": "376",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "",
       "presentation": "v1 v2 v3 v4",
       "time": "",
@@ -15402,10 +15300,7 @@
           "My prayer has prevailed, and this moment I know,",
           "The blood is applied, I am whiter than snow."
         ],
-        "c1": [
-          "Whiter than snow; yes, whiter than snow;",
-          "Now wash me and I shall be whiter than snow."
-        ]
+        "c1": ["Whiter than snow; yes, whiter than snow;", "Now wash me and I shall be whiter than snow."]
       }
     },
     {
@@ -15917,7 +15812,7 @@
       "title": "O God, Unblessing And Unblest",
       "songNumber": 344,
       "pages": "408, 409",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "",
       "presentation": "v1 v2 v3 v4 v5 v6",
       "time": "",
@@ -16629,11 +16524,7 @@
           "Life Everlasting, my Day's-man is He,",
           "Blessed Redeemer\u2014 Jesus for me."
         ],
-        "c1": [
-          "Jesus for me, Jesus for me,",
-          "All the time everywhere,",
-          "Jesus for me."
-        ]
+        "c1": ["Jesus for me, Jesus for me,", "All the time everywhere,", "Jesus for me."]
       }
     },
     {
@@ -17271,7 +17162,7 @@
       "title": "We Are Feeding On The Living Bread",
       "songNumber": 372,
       "pages": "444",
-      "author": "unknown, May Agnew Stephens",
+      "author": "Unknown, May Agnew Stephens",
       "music": "",
       "presentation": "v1",
       "time": "",
@@ -17639,12 +17530,7 @@
       "meter": "6.5.6.5.",
       "theme": "Study of the Word",
       "lyrics": {
-        "v1": [
-          "Speak, Lord, in the stillness,",
-          "While I wait on Thee;",
-          "Hush my heart to listen,",
-          "In expectancy."
-        ],
+        "v1": ["Speak, Lord, in the stillness,", "While I wait on Thee;", "Hush my heart to listen,", "In expectancy."],
         "v2": [
           "Speak, O blessed Master,",
           "In this quiet hour;",
@@ -17657,12 +17543,7 @@
           "Living bread from heaven,",
           "Now my spirit feed!"
         ],
-        "v4": [
-          "All to Thee is yielded,",
-          "I am not my own;",
-          "Blissful, glad surrender,",
-          "I am Thine alone!"
-        ],
+        "v4": ["All to Thee is yielded,", "I am not my own;", "Blissful, glad surrender,", "I am Thine alone!"],
         "v5": [
           "Speak, Thy servant heareth!",
           "Be not silent, Lord;",
@@ -17957,7 +17838,7 @@
       "title": "Say To This Mountain \"Go\"",
       "songNumber": 386,
       "pages": "458",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "German melody",
       "presentation": "v1 v2 v3 v4 v5 v6",
       "time": "4/4",
@@ -18988,12 +18869,7 @@
           "Heart and mind ascending,",
           "Let us dwell with Thee."
         ],
-        "c1": [
-          "Looking unto Jesus,",
-          "Never need we yield!",
-          "Over all the armor,",
-          "Faith the battle-shield!"
-        ]
+        "c1": ["Looking unto Jesus,", "Never need we yield!", "Over all the armor,", "Faith the battle-shield!"]
       }
     },
     {
@@ -19235,12 +19111,7 @@
           "Where He sends, we will go,",
           "Never fear, only trust and obey."
         ],
-        "c1": [
-          "Trust and obey,",
-          "For there's no other way",
-          "To be happy in Jesus,",
-          "But to trust and obey."
-        ]
+        "c1": ["Trust and obey,", "For there's no other way", "To be happy in Jesus,", "But to trust and obey."]
       }
     },
     {
@@ -19521,10 +19392,7 @@
           "And preach thee, too, as love knows how,",
           "By kindly words and virtuous life."
         ],
-        "c1": [
-          "Faith of our fathers, holy faith!",
-          "We will be true to thee till death!"
-        ]
+        "c1": ["Faith of our fathers, holy faith!", "We will be true to thee till death!"]
       }
     },
     {
@@ -19938,12 +19806,7 @@
           "Patiently win them;",
           "Tell the poor wand'rer a Savior has died."
         ],
-        "c1": [
-          "Rescue the perishing,",
-          "Care for the dying;",
-          "Jesus is merciful,",
-          "Jesus will save."
-        ]
+        "c1": ["Rescue the perishing,", "Care for the dying;", "Jesus is merciful,", "Jesus will save."]
       }
     },
     {
@@ -19993,10 +19856,7 @@
           "Let none whom He hath ransomed fail to greet Him,",
           "Through your neglect unfit to see His face."
         ],
-        "c1": [
-          "Publish glad tidings, tidings of peace;",
-          "Tidings of Jesus, redemption and release."
-        ]
+        "c1": ["Publish glad tidings, tidings of peace;", "Tidings of Jesus, redemption and release."]
       }
     },
     {
@@ -20230,10 +20090,7 @@
           "The world shall never share a part,",
           "What a wonderful Savior!"
         ],
-        "c1": [
-          "What a wonderful Savior is Jesus my Savior;",
-          "What a wonderful Savior is Jesus my Lord!"
-        ]
+        "c1": ["What a wonderful Savior is Jesus my Savior;", "What a wonderful Savior is Jesus my Lord!"]
       }
     },
     {
@@ -20308,10 +20165,7 @@
           "Then pray that your Savior may bring them to glory,",
           "And prayer will be answered\u2014 'twas answered for you!"
         ],
-        "c1": [
-          "For you I am praying, For you I am praying,",
-          "For you I am praying, I'm praying for you."
-        ]
+        "c1": ["For you I am praying, For you I am praying,", "For you I am praying, I'm praying for you."]
       }
     },
     {
@@ -21057,12 +20911,7 @@
           "Perfect pardon now is offered,",
           "Peace is made."
         ],
-        "v5": [
-          "Now the holiest with boldness",
-          "We may enter in;",
-          "For the open fountain cleanseth",
-          "From all sin."
-        ],
+        "v5": ["Now the holiest with boldness", "We may enter in;", "For the open fountain cleanseth", "From all sin."],
         "v6": [
           "Precious blood, by this we conquer",
           "In the fiercest fight,",
@@ -21652,10 +21501,7 @@
           "They who believe on His name shall rejoice:",
           "Quickly arise, come away!"
         ],
-        "c1": [
-          "Calling today! Calling today!",
-          "Jesus is calling, is tenderly calling today!"
-        ]
+        "c1": ["Calling today! Calling today!", "Jesus is calling, is tenderly calling today!"]
       }
     },
     {
@@ -21766,7 +21612,7 @@
       "title": "Life At Best Is Very Brief",
       "songNumber": 467,
       "pages": "560, 561",
-      "author": "anonymous",
+      "author": "Anonymous",
       "music": "",
       "presentation": "v1 c v2 c v3 c v4 c",
       "time": "",
@@ -21859,12 +21705,7 @@
           "Whom have I on earth beside Thee?",
           "Whom in heav'n but Thee?"
         ],
-        "c1": [
-          "Savior, Savior,",
-          "Hear my humble cry;",
-          "While on others Thou art calling,",
-          "Do not pass me by."
-        ]
+        "c1": ["Savior, Savior,", "Hear my humble cry;", "While on others Thou art calling,", "Do not pass me by."]
       }
     },
     {
@@ -21973,7 +21814,7 @@
       "title": "Jesus Breaks Every Fetter",
       "songNumber": 471,
       "pages": "566",
-      "author": "unknown, Janie West Metzgar",
+      "author": "Unknown, Janie West Metzgar",
       "music": "",
       "presentation": "v1 c v2 c v3 c v4 c",
       "time": "",
@@ -21998,12 +21839,7 @@
           "Nor the world's best elation",
           "Can enslave me now!"
         ],
-        "v4": [
-          "I will sing Hallelujah!",
-          "I will sing Hallelujah!",
-          "I will sing Hallelujah!",
-          "Jesus saves me now!"
-        ],
+        "v4": ["I will sing Hallelujah!", "I will sing Hallelujah!", "I will sing Hallelujah!", "Jesus saves me now!"],
         "c1": [
           "Jesus breaks every fetter!",
           "Jesus breaks every fetter!",
@@ -22052,11 +21888,7 @@
           "He your Savior wants to be\u2014",
           "Be saved today."
         ],
-        "c1": [
-          "Love lifted me! Love lifted me!",
-          "When nothing else could help,",
-          "Love lifted me. (repeat)"
-        ]
+        "c1": ["Love lifted me! Love lifted me!", "When nothing else could help,", "Love lifted me. (repeat)"]
       }
     },
     {
@@ -22485,12 +22317,7 @@
           "Come, feast upon the love of God",
           "And drink everlasting life."
         ],
-        "c1": [
-          "Hear the invitation,",
-          "Come whosoever will;",
-          "Praise God for full salvation",
-          "For whosoever will."
-        ]
+        "c1": ["Hear the invitation,", "Come whosoever will;", "Praise God for full salvation", "For whosoever will."]
       }
     },
     {
@@ -22540,7 +22367,7 @@
       "title": "Come, Ye Sinners, Poor And Needy",
       "songNumber": 483,
       "pages": "583",
-      "author": "Joseph Hart, anonymous",
+      "author": "Joseph Hart, Anonymous",
       "music": "",
       "presentation": "v1 c v2 c v3 c v4 c",
       "time": "",
@@ -23129,12 +22956,7 @@
           "This through countless ages",
           "Men and angels sing."
         ],
-        "c1": [
-          "Onward, Christian soldiers!",
-          "Marching as to war,",
-          "With the cross of Jesus,",
-          "Going on before."
-        ]
+        "c1": ["Onward, Christian soldiers!", "Marching as to war,", "With the cross of Jesus,", "Going on before."]
       }
     },
     {
@@ -23198,12 +23020,7 @@
           "Till the Cross leads upward",
           "To the blood-bought crown."
         ],
-        "c1": [
-          "Cross of Christ! lead onward,",
-          "Through the holy war;",
-          "In this sign we conquer",
-          "Now and evermore."
-        ]
+        "c1": ["Cross of Christ! lead onward,", "Through the holy war;", "In this sign we conquer", "Now and evermore."]
       }
     },
     {
@@ -23783,7 +23600,7 @@
       "title": "We May Not Die, But Rise",
       "songNumber": 507,
       "pages": "612",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "",
       "presentation": "v1 v2 v3 v4 v5 v6",
       "time": "",
@@ -24347,7 +24164,7 @@
       "title": "Our Goal The Holy City",
       "songNumber": 517,
       "pages": "624",
-      "author": "unknown",
+      "author": "Unknown",
       "music": "",
       "presentation": "v1 v2 v3 v4",
       "time": "",
@@ -24824,12 +24641,7 @@
       "meter": "Irregular",
       "theme": "Praise and Worship",
       "lyrics": {
-        "v1": [
-          "There is a Redeemer\u2014",
-          "Jesus, God's own Son;",
-          "Precious Lamb of God, Messiah,",
-          "Holy One."
-        ],
+        "v1": ["There is a Redeemer\u2014", "Jesus, God's own Son;", "Precious Lamb of God, Messiah,", "Holy One."],
         "v2": [
           "Jesus, my Redeemer,",
           "name above all names;",
