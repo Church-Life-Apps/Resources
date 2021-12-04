@@ -1,0 +1,12 @@
+{
+ "songbooks":[
+   {
+     "name":"Songs and Hymns of Life",
+     "abbreviation": "shl"
+   },
+   {
+     "name":"Songs For Our Generation",
+     "abbreviation": "sfog"
+   }
+ ]
+}
