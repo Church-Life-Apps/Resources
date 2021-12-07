@@ -5,12 +5,14 @@
      "bookId": "shl",
      "lyricsUrl": "https://raw.githubusercontent.com/Church-Life-Apps/Resources/master/resources/metadata/shl.json",
      "musicUrl": "https://raw.githubusercontent.com/Church-Life-Apps/Resources/master/resources/images/shl/SHL_"
-   },
+   }
+ ],
+ "testing": [
    {
      "name": "Songs For Our Generation",
      "bookId": "sfog",
      "lyricsUrl": "https://raw.githubusercontent.com/Church-Life-Apps/Resources/master/resources/metadata/sfog.json",
      "musicUrl": "https://raw.githubusercontent.com/Church-Life-Apps/Resources/master/resources/images/sfog/SFOG_"
    }
- ]
+  ]
 }
