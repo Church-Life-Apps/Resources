@@ -1,47 +1,89 @@
 {
   "Songs For Our Generation": [
     {
-      "title": "Red Book #1!!!",
+      "title": "Knowing You",
       "songNumber": 1,
-      "pages": "1",
-      "author": "Horatius Bonar",
-      "music": "Henry Thomas Smart (1813-1879)",
-      "presentation": "v1 v2 v3 v4",
-      "time": "4/4",
-      "meter": "8.7.8.7.8.7.",
-      "theme": "Blessing of the Trinity",
+      "author": "",
+      "music": "",
       "lyrics": {
         "v1": [
-          "Red book song 1,",
-          "Glory be to God the Son,",
-          "Glory be to God the Spirit,",
-          "Great Jehovah, Three in One!",
-          "As it was, is now, and shall be",
-          "While the endless ages run."
+          "All I once held dear built my life upon,",
+          "All this world reveres and wars to own,",
+          "All I once thought gain I have counted loss,",
+          "Spent and worthless now compared to this."
+        ],
+        "c1": [
+          "Knowing You, Jesus, knowing You",
+          "There is no greater thing",
+          "You’re my all, You’re the best,",
+          "You’re my joy, my righteousness,",
+          "And I love You, Lord."
         ],
         "v2": [
-          "Glory be to Him Who loved us,",
-          "Washed us from each spot and stain!",
-          "Glory be to Him Who bought us,",
-          "Made us kings with Him to reign!",
-          "Glory, glory, glory, glory",
-          "To the Lamb that once was slain!"
+          "Now my heart’s desire is to know You more,",
+          "To be found by You and known as Yours,",
+          "To possess by faith what I could not earn:",
+          "All surpassing gift of righteousness"
         ],
         "v3": [
-          "Glory to the King of angels,",
-          "Glory to the Church's King,",
-          "Glory to the King of nations!",
-          "Heav'n and earth, your praises bring;",
-          "Glory, glory, glory, glory",
-          "To the King of glory bring!"
+          "Oh, to know the pow’r of Your risen life,",
+          "And to know You in Your sufferings,",
+          "To become like You in Your death my Lord",
+          "So with You to live and never die."
+        ]
+      }
+    },
+    {
+      "title": "I Offer My Life",
+      "songNumber": 2,
+      "author": "",
+      "music": "",
+      "lyrics": {
+        "v1": [
+          "All that I am, all that I have,",
+          "I lay them down before You, O Lord.",
+          "All my regrets, all my acclaim,",
+          "The joy and the pain, I'm making them Yours."
         ],
-        "v4": [
-          "\"Glory, blessing, praise eternal!\"",
-          "Thus the choir of angels sings;",
-          "\"Honor, riches, pow'r, dominion!\"",
-          "Thus its praise creation brings;",
-          "Glory, glory, glory, glory,",
-          "Glory to the King of kings!"
+        "c1": [
+          "Lord, I offer my life to You,",
+          "Everything I've been through,",
+          "Use it for Your glory.",
+          "Lord, I offer my days to You,",
+          "Lifting my praise to You as a pleasing sacrifice,",
+          "Lord, I offer You my life."
+        ],
+        "v2": [
+          "Things in the past, things yet unseen,",
+          "Wishes and dreams that are yet to come true.",
+          "All of my hopes, all of my plans,",
+          "My heart and my hands are lifted to You."
+        ]
+      }
+    },
+    {
+      "title": "",
+      "songNumber": 123,
+      "author": "",
+      "music": "",
+      "lyrics": {
+        "v1": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "c1": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "v2": [
+          "",
+          "",
+          "",
+          ""
         ]
       }
     }
