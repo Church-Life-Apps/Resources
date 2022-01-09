@@ -5,6 +5,7 @@
       "songNumber": 1,
       "author": "",
       "music": "",
+      "capo": 0,
       "lyrics": {
         "v1": [
           "All I once held dear built my life upon,",
@@ -38,6 +39,7 @@
       "songNumber": 2,
       "author": "",
       "music": "",
+      "capo": 2,
       "lyrics": {
         "v1": [
           "All that I am, all that I have,",
@@ -62,28 +64,276 @@
       }
     },
     {
-      "title": "",
-      "songNumber": 123,
+      "title": "All Who Are Thirsty",
+      "songNumber": 3,
       "author": "",
       "music": "",
+      "capo": 2,
       "lyrics": {
         "v1": [
-          "",
-          "",
-          "",
-          ""
+          "All who are thirsty",
+          "All who are weak",
+          "Come to the fountain",
+          "Dip your heart in the stream of life",
+          "Let the pain and the sorrow",
+          "Be washed away",
+          "In the waves of His mercy",
+          "As deep cries out to deep"
         ],
         "c1": [
-          "",
-          "",
-          "",
-          ""
+          "We sing...",
+          "Come Lord Jesus come",
+          "Come Lord Jesus come"
+        ],
+        "b1": [
+          "Won't You come",
+          "Won't You come",
+          "Nothing but Your will for me",
+          "I am only free when You come"
+        ]
+      }
+    },
+    {
+      "title": "Hallelujah",
+      "songNumber": 4,
+      "author": "",
+      "music": "",
+      "capo": 0,
+      "lyrics": {
+        "v1": [
+          "An earthen vessel I was made",
+          "In me a treasure has been laid",
+          "In order that the glory would be of You.",
+          "In troubled times my soul resists",
+          "Until I find that gold exists",
+          "And finding this I sing my \"Hallelujahs\""
+        ],
+        "c1": [
+          "Hallelujah, Hallelujah",
+          "Hallelujah, Hallelu...jah"
         ],
         "v2": [
-          "",
-          "",
-          "",
-          ""
+          "My vessel is a fragile thing,",
+          "Seemed every day brought suffering",
+          "Until a part of me felt to refuse You.",
+          "I walled You out and turned away",
+          "And I resolved to never pray",
+          "But then I heard You whisper, \"Hallelujah\""
+        ],
+        "v3": [
+          "Of all the tears I've ever cried",
+          "None were so dear as those that pried",
+          "Away the walls I built up to refuse You",
+          "I turned to You and Your embrace",
+          "As I beheld Your lovely face",
+          "Still echoed in my heart Your \"Hallelujah\""
+        ],
+        "v4": [
+          "How could it be, You were so kind",
+          "To make me weak, so I would find",
+          "The glory of the face of Jesus through You?",
+          "I will be made eternally",
+          "To match this gold inside of me,",
+          "And this is why I sing my \"Hallelujahs\""
+        ]
+      }
+    },
+    {
+      "title": "Center",
+      "songNumber": 5,
+      "author": "",
+      "music": "",
+      "capo": 0,
+      "lyrics": {
+        "c1": [
+          "O Christ be the center of our lives",
+          "Be the place we fix our eyes",
+          "Be the center of our lives"
+        ],
+        "v1": [
+          "And You're the center of the universe",
+          "Everything was made in You Jesus",
+          "Breath of every living thing",
+          "Everyone was made for You",
+          "You hold everything together",
+          "You hold everything together"
+        ],
+        "v2": [
+          "We lift our eyes to heaven",
+          "And we wrap our lives around Your life",
+          "We life our eyes to heaven to You"
+        ]
+      }
+    },
+    {
+      "title": "Your Name",
+      "songNumber": 6,
+      "author": "",
+      "music": "",
+      "capo": 0,
+      "lyrics": {
+        "v1": [
+          "As morning dawns and evening fades",
+          "You inspire songs of praise",
+          "That rise from earth to touch Your heart",
+          "And glorify Your Name"
+        ],
+        "c1": [
+          "Your Name is a strong and mighty tower",
+          "You Name is a shelter like no other",
+          "Your Name let the nations sing it louder",
+          "'Cause nothing has the power to save",
+          "But Your Name"
+        ],
+        "v2": [
+          "Jesus in Your Name we pray",
+          "Come and fill our hearts today",
+          "Lord give us strength to live for You",
+          "And glorify Your Name"
+        ]
+      }
+    },
+    {
+      "title": "As The Deer",
+      "songNumber": 7,
+      "author": "",
+      "music": "",
+      "capo": 0,
+      "lyrics": {
+        "v1": [
+          "As the deer panteth for the water",
+          "So my soul longeth after You.",
+          "You alone are my heart's desire",
+          "And I long to worship You."
+        ],
+        "c1": [
+          "You alone are my strength, my shield",
+          "To You alone may my spirit yield",
+          "You alone are my heart's desire",
+          "And I long to worship You"
+        ],
+        "v2": [
+          "You're my friend and You are my brother",
+          "Even though You are a King.",
+          "I want You more than any other,",
+          "So much more than anything."
+        ]
+      }
+    },
+    {
+      "title": "I Life My Hands",
+      "songNumber": 8,
+      "author": "",
+      "music": "",
+      "capo": 2,
+      "lyrics": {
+        "v1": [
+          "Be still, there is a Healer",
+          "His love is deeper than the sea",
+          "His mercy is unfailing",
+          "His arms, a fortress for the weak"
+        ],
+        "pc1": [
+          "Let faith arise, let faith arise"
+        ],
+        "c1": [
+          "I lift my hands to believe again",
+          "You are my refuge, You are my strength",
+          "As I pour out my heart, these things I remember",
+          "You are faithful, God, forever"
+        ],
+        "v2": [
+          "Be still, there is a river",
+          "That flows from Calvary’s tree",
+          "A fountain for the thirsty",
+          "Your grace that washes over me"
+        ],
+        "b1": [
+          "Let faith arise, let faith arise",
+          "Open my eyes, open my eyes",
+          "Let faith arise, let faith arise",
+          "Open my eyes, open my eyes"
+        ]
+      }
+    },
+    {
+      "title": "Be Thou My Vision",
+      "songNumber": 9,
+      "author": "",
+      "music": "",
+      "capo": 0,
+      "lyrics": {
+        "v1": [
+          "Be Thou my vision, O Lord of my heart",
+          "Naught be all else to me, save that Thou art",
+          "Thou my best thought by day or by night",
+          "Waking or sleeping Thy presence my light"
+        ],
+        "v2": [
+          "Be Thou my wisdom and Thou my true Word",
+          "I ever with Thee and Thou with me Lord",
+          "Thou my great Father, I Thy true son",
+          "Thou in me dwelling and I with Thee one"
+        ],
+        "v3": [
+          "Be Thou my shield and my sword for the fight",
+          "Be Thou my dignity be Thou my might",
+          "Thou my soul's shelter and Thou my high tow'r",
+          "Raise Thou me heav'nward, O Pow'r of my pow'r"
+        ],
+        "v4": [
+          "Riches I heed not nor man's empty praise",
+          "Thou mine inheritance now and always",
+          "Thou and Thou only be first in my heart",
+          "High King of heaven my treasure Thou art"
+        ],
+        "v5": [
+          "High King of heaven when vict'ry is won",
+          "May I reach heaven's joys, O bright heaven's Sun",
+          "Heart of my own heart, whatever befall",
+          "Still be my vision, O Ruler of all"
+        ]
+      }
+    },
+    {
+      "title": "Made To Worship",
+      "songNumber": 10,
+      "author": "",
+      "music": "",
+      "capo": 0,
+      "lyrics": {
+        "v1": [
+          "Before the day before the light",
+          "Before the world revolved around the sun",
+          "God on high stepped down into time",
+          "And wrote the story of His love for everyone"
+        ],
+        "pc1": [
+          "He has filled our hearts with wonder",
+          "So that we always remember"
+        ],
+        "c1": [
+          "You and I are made to worship",
+          "You and I are called to love",
+          "You and I are forgiven and free",
+          "When you and I embrace surrender",
+          "When you and I choose to believe",
+          "Then you and I will see",
+          "Who we were meant to be"
+        ],
+        "v2": [
+          "All we are and all we have",
+          "Is all a gift from God that we receive",
+          "Brought to life we open up our eyes",
+          "To see the majesty and glory of the King"
+        ],
+        "b1": [
+          "Even the rocks cry out",
+          "Even the heavens shout",
+          "At the sound of His holy name",
+          "So let ev'ry voice sing out",
+          "Let ev'ry knee bow down",
+          "He's worthy of all our praise"
         ]
       }
     }
