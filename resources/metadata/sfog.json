@@ -767,7 +767,7 @@
       "author": "",
       "music": "",
       "capo": 0,
-      "presentation": "v1 v2 pc1 c1 v3",
+      "presentation": "v1 v2 p1 c1 v3",
       "lyrics": {
         "v1": [
           "I am not skilled to understand",
@@ -781,7 +781,7 @@
           "And in my hearet I fiend a need",
           "Of Him to be my Savior"
         ],
-        "pc": [
+        "p1": [
           "That He would leave His place on high",
           "And come for sinful man to die",
           "You count it strange so once did I",
@@ -807,7 +807,7 @@
       "author": "",
       "music": "",
       "capo": 0,
-      "presentation": "v1 pc c1 v2 pc c1 b1 c1",
+      "presentation": "v1 p1 c1 v2 p1 c1 b1 c1",
       "lyrics": {
         "v1": [
           "I have decided, I have resolved",
@@ -815,7 +815,7 @@
           "My Rock and Redeemer, Shield and Reward",
           "I'll wait upon You, Lord"
         ],
-        "pc": [
+        "p1": [
           "As surely as the sun will rise, You'll come to us",
           "Certain as the dawn appears."
         ],
@@ -840,12 +840,12 @@
       }
     },
     {
-      "title": "My Savior My God",
+      "title": "You'll Come",
       "songNumber": 41,
       "author": "",
       "music": "",
       "capo": 0,
-      "presentation": "v1 pc c1 v2 pc c1 b1 c1",
+      "presentation": "v1 p1 c1 v2 p1 c1 b1 c1",
       "lyrics": {
         "v1": [
           "I have decided, I have resolved",
@@ -853,7 +853,7 @@
           "My Rock and Redeemer, Shield and Reward",
           "I'll wait upon You, Lord"
         ],
-        "pc": [
+        "p1": [
           "As surely as the sun will rise, You'll come to us",
           "Certain as the dawn appears."
         ],
