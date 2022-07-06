@@ -9,7 +9,7 @@
  ],
  "testing": [
    {
-     "name": "Songs For Our Generation",
+     "name": "Songs for Our Generation",
      "bookId": "sfog",
      "lyricsUrl": "https://raw.githubusercontent.com/Church-Life-Apps/Resources/auto-generate-sfog/resources/metadata/sfog.json",
      "musicUrl": "https://raw.githubusercontent.com/Church-Life-Apps/Resources/auto-generate-sfog/resources/images/sfog/SFOG_"
