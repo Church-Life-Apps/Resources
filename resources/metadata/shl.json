@@ -2003,7 +2003,7 @@
       "pages": "49",
       "author": "William H. Clark, Ralph E. Hudson",
       "music": "Ralph E. Hudson",
-      "presentation": "v1",
+      "presentation": "v1 c1 v2 c1 v3 c1 v4 c1",
       "time": "4/4",
       "meter": "8.6.8.6. with chorus.",
       "theme": "",
@@ -2015,29 +2015,29 @@
           "That He might man redeem."
         ],
         "c1": [
-          "Blessed be the name,",
-          "  Blessed be the name,",
-          "Blessed be the name of the Lord.",
-          "  Blessed be the name,",
-          "  Blessed be the name,",
-          "  Blessed be the name of the Lord."
+          "Blessed be the name!",
+          "Blessed be the name!",
+          "Blessed be the name of the Lord!",
+          "Blessed be the name!",
+          "Blessed be the name!",
+          "Blessed be the name of the Lord!"
         ],
         "v2": [
           "His name above all names shall stand,",
           "Exalted more and more,",
-          "At God the Father\u00e2\u20ac\u2122s own right hand,",
+          "At God the Father's own right hand,",
           "Where angel hosts adore."
         ],
         "v3": [
           "Redeemer, Savior, Friend of man",
           "Once ruined by the fall,",
-          "Thou hast devised salvation\u00e2\u20ac\u2122s plan,",
+          "Thou hast devised salvation's plan,",
           "For Thou hast died for all."
         ],
         "v4": [
           "His name shall be the Counsellor,",
           "The mighty Prince of Peace,",
-          "Of all earth\u00e2\u20ac\u2122s kingdoms, Conqueror,",
+          "Of all earth's kingdoms, Conqueror,",
           "Whose reign shall never cease."
         ]
       }
