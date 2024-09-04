@@ -29,6 +29,7 @@
             "So with You to live and never die."
           ],
           "c1": [
+            "Knowing You, Jesus, knowing You",
             "There is no greater thing",
             "You're my all, You're the best",
             "You're my joy, my righteousness",
@@ -248,7 +249,8 @@
           ],
           "v2": [
             "Be still, there is a river",
-            "That flows from Calvary's tree A fountain for the thirsty",
+            "That flows from Calvary's tree",
+            "A fountain for the thirsty",
             "Your grace that washes over me"
           ],
           "c1": [
@@ -258,7 +260,7 @@
             "You are faithful, God, forever"
           ],
           "c2": [
-            "Let faith arise,let faith arise"
+            "Let faith arise, let faith arise"
           ],
           "b1": [
             "Let faith arise, let faith arise",
@@ -285,26 +287,34 @@
             "Waking or sleeping Thy presence my light"
           ],
           "v2": [
-            "Be Thou my wisdom and Thou my true Word I ever with Thee and Thou with me Lord Thou my great Father, I Thy true son",
+            "Be Thou my wisdom and Thou my true Word",
+            "I ever with Thee and Thou with me Lord", 
+            "Thou my great Father, I Thy true son",
             "Thou in me dwelling and I with Thee one"
           ],
           "v3": [
-            "Be Thou my shield and my sword for the fight Be Thou my dignity be Thou my might",
-            "Thou my soul's shelter and Thou my high tow'r Raise Thou me heav'nward, O Pow'r of my pow'r"
+            "Be Thou my shield and my sword for the fight",
+            "Be Thou my dignity be Thou my might",
+            "Thou my soul's shelter and Thou my high tow'r",
+            "Raise Thou me heav'nward, O Pow'r of my pow'r"
           ],
           "v4": [
-            "Riches I heed not nor man's empty praise Thou mine inheritance now and always Thou and Thou only be first in my heart High King of heaven my treasure Thou art"
+            "Riches I heed not nor man's empty praise",
+            "Thou mine inheritance now and always",
+            "Thou and Thou only be first in my heart",
+            "High King of heaven my treasure Thou art"
           ],
           "v5": [
             "High King of heaven when vict'ry is won",
-            "May I reach heaven's joys, O bright heaven's Sun Heart of my own heart, whatever befall",
+            "May I reach heaven's joys, O bright heaven's Sun",
+            "Heart of my own heart, whatever befall",
             "Still be my vision, O Ruler of all"
           ]
         }
       },
       {
         "songNumber": 10,
-        "title": "0\tMade To Worship",
+        "title": "Made To Worship",
         "author": "",
         "music": "",
         "presentation": "v1 c1 c2 v2 c1 b1",
@@ -325,6 +335,10 @@
             "To see the majesty and glory of the King"
           ],
           "c1": [
+            "He has filled our hearts with wonder",
+            "So that we always remember"
+          ],
+          "c2": [
             "You and I are made to worship",
             "You and I are called to love",
             "You and I are forgiven and free",
@@ -332,10 +346,6 @@
             "When you and I choose to believe",
             "Then you and I will see",
             "Who we were meant to be"
-          ],
-          "c2": [
-            "He has filled our hearts with wonder",
-            "So that we always remember"
           ],
           "b1": [
             "Even the rocks cry out",
@@ -396,7 +406,10 @@
             "Before the world was made",
             "Before you spoke it to be",
             "You were the King of Kings",
-            "Yeah You were, yeah You were And now You're reigning still Enthroned above all things Angels and saints cry out",
+            "Yeah You were, yeah You were",
+            "And now You're reigning still",
+            "Enthroned above all things",
+            "Angels and saints cry out",
             "We join them as we sing"
           ],
           "v2": [
@@ -408,46 +421,12 @@
           "c1": [
             "Glory to God",
             "Glory to God",
-            "Glory to God forever(repeat)"
+            "Glory to God forever (repeat)"
           ],
           "b1": [
             "Take my life and let it be",
             "All for You and for Your glory",
             "Take my life and let it be Yours"
-          ]
-        }
-      },
-      {
-        "songNumber": 13,
-        "title": "Blessed Assurance",
-        "author": "",
-        "music": "",
-        "presentation": "v1 c1 v2 c1 b1",
-        "key": "G",
-        "lyrics": {
-          "v1": [
-            "You are my supply, my breath of life",
-            "Still more awesome than I know",
-            "You are my reward worth living for",
-            "Still more awesome than I know"
-          ],
-          "v2": [
-            "You're my sacrifice of greatest price Still more awesome than I know",
-            "You're my coming King. You are everything Still more awesome than I know"
-          ],
-          "c1": [
-            "All of You is more than enough for",
-            "All of me for every thirst and every need",
-            "You satisfy me with Your love",
-            "And all I have in You is more than enough"
-          ],
-          "b1": [
-            "More than all I want",
-            "More than all I need",
-            "You are more than enough for me",
-            "More than all I know",
-            "More than all I can see",
-            "You are more than enough..."
           ]
         }
       },
@@ -468,40 +447,22 @@
             "Born of His Spirit, washed in His blood."
           ],
           "v2": [
-            "Perfect submission, perfect delight, Visions of rapture now burst on my sight; Angels descending, bring from above Echoes of mercy, whispers of love."
+            "Perfect submission, perfect delight,",
+            "Visions of rapture now burst on my sight;",
+            "Angels descending, bring from above",
+            "Echoes of mercy, whispers of love."
           ],
           "v3": [
             "Perfect submission, all is at rest,",
-            "I, in my Savior, am happy and blest; Watching and waiting, looking above, Filled with His goodness, lost in His love"
+            "I, in my Savior, am happy and blest;",
+            "Watching and waiting, looking above,",
+            "Filled with His goodness, lost in His love"
           ],
           "c1": [
             "This is my story, this is my song,",
             "Praising my Savior all the day long.",
             "This is my story, this is my song,",
             "Praising my Savior all the day long."
-          ]
-        }
-      },
-      {
-        "songNumber": 14,
-        "title": "Blessed Be Your Name",
-        "author": "",
-        "music": "",
-        "presentation": "v1 v2",
-        "key": "",
-        "date composed": "",
-        "misc": "Thu, Apr 28, 2016",
-        "lyrics": {
-          "v1": [
-            "I love You, Lord Jesus.",
-            "I love You, Lord, Precious One.",
-            "No other one compares to You.",
-            "(Repeat)"
-          ],
-          "v2": [
-            "Jesus Lord, Jesus,",
-            "Dear Lord, most lovely One,",
-            "No one compares to You."
           ]
         }
       },
@@ -537,6 +498,12 @@
             "Every blessing You pour out I'll turn back to praise",
             "When the darkness closes in Lord still I will say:"
           ],
+          "c2": [
+            "Blessed be the name of the Lord",
+            "Blessed be Your name (Jesus!)",
+            "Blessed be the name of the Lord",
+            "Blessed be Your glorious name"
+          ],
           "b1": [
             "You give and take away",
             "You give and take away",
@@ -567,15 +534,23 @@
             "The Triune God flowing in me?"
           ],
           "v2": [
-            "So I've no cause to frown, As one who received the zoe I know life runs its course And triumphs inevitably",
+            "So I've no cause to frown,",
+            "As one who received the zoe",
+            "I know life runs its course And triumphs inevitably",
             "I'm required just to stay in the flow",
-            "If I do the drinking, then God gives the growth! So there's joy in my heart, and a spring in my step And a smile on my face as I sing—"
+            "If I do the drinking, then God gives the growth!",
+            "So there's joy in my heart, and a spring in my step",
+            "And a smile on my face as I sing—"
           ],
           "v3": [
-            "Yet this life, though it frees Is not meant for mere victory God is full of intent",
+            "Yet this life, though it frees",
+            "Is not meant for mere victory",
+            "God is full of intent",
             "And never could flow aimlessly",
-            "So this life moves and grows within me From my spirit within to my soul and body",
-            "Now His life is expressed, to the world manifest Gushing up unto eternity!"
+            "So this life moves and grows within me",
+            "From my spirit within to my soul and body",
+            "Now His life is expressed, to the world manifest",
+            "Gushing up unto eternity!"
           ],
           "c1": [
             "O I've got rivers of life",
@@ -682,13 +657,24 @@
             "Interposed His precious blood."
           ],
           "v2": [
-            "O to grace how great a debtor Daily I'm constrained to be!",
-            "Let that grace, Lord, like a fetter, Bind my wand'ring heart to Thee.",
-            "Teach me, Lord, some rapturous measure, Meet for me Thy grace to prove,",
-            "While I sing the countless treasure Of my God's unchanging love."
+            "O to grace how great a debtor",
+            "Daily I'm constrained to be!",
+            "Let that grace, Lord, like a fetter,",
+            "Bind my wand'ring heart to Thee.",
+            "Teach me, Lord, some rapturous measure,",
+            "Meet for me Thy grace to prove,",
+            "While I sing the countless treasure",
+            "Of my God's unchanging love."
           ],
           "v3": [
-            "Prone to wander, Lord, I feel it; Prone to leave the God I love: Take my heart, Oh, take and seal it  With Thy Spirit from above. Rescued thus from sin and danger, Purchased by the Savior's blood, May I walk on earth a stranger, As a son and heir of God."
+            "Prone to wander, Lord, I feel it;",
+            "Prone to leave the God I love:",
+            "Take my heart, Oh, take and seal it",
+            "With Thy Spirit from above.",
+            "Rescued thus from sin and danger,",
+            "Purchased by the Savior's blood,",
+            "May I walk on earth a stranger,",
+            "As a son and heir of God."
           ]
         }
       },
@@ -1061,7 +1047,9 @@
             "Lord all I am is Yours"
           ],
           "v2": [
-            "My whole life I place in Your hands God of mercy humbled I bow down In Your presence at Your throne"
+            "My whole life I place in Your hands",
+            "God of mercy humbled I bow down",
+            "In Your presence at Your throne"
           ],
           "c1": [
             "I called You answered",
@@ -1102,7 +1090,8 @@
             "You placed the stars in the sky and You know them by name.",
             "You are amazing God",
             "All powerful, untameable,",
-            "Awestruck we fall to our knees as we humbly proclaim  (You see the depths of my heart and You love me the same)",
+            "Awestruck we fall to our knees as we humbly proclaim",
+            "(You see the depths of my heart and You love me the same)",
             "You are amazing God"
           ]
         }
@@ -1128,10 +1117,16 @@
             "And I know, now I know"
           ],
           "v2": [
-            "Day by day His grace grows dearer; His love has conquered me,",
-            "Never leaving, never ceasing, His Spirit constantly Flooding me, rich and free;",
-            "Higher than the highest heaven, He lifts me up to see",
-            "New Jerusalem descending, His Bride, His love to be; Eternally, it shall be."
+            "Day by day His grace grows dearer;",
+            "His love has conquered me,",
+            "Never leaving, never ceasing,",
+            "His Spirit constantly",
+            "Flooding me, rich and free;",
+            "Higher than the highest heaven,",
+            "He lifts me up to see",
+            "New Jerusalem descending,",
+            "His Bride, His love to be;",
+            "Eternally, it shall be."
           ],
           "c1": [
             "That God is there for me tomorrow, as He is for me today,",
@@ -1156,21 +1151,34 @@
             "Calling up our hearts to Thee!"
           ],
           "v2": [
-            "Loved with love which knows no measure. Save the Father's love to Thee.",
-            "Blessed Lord, our hearts would treasure. All the Father's thoughts of Thee."
+            "Loved with love which knows no measure.",
+            "Save the Father's love to Thee.",
+            "Blessed Lord, our hearts would treasure.",
+            "All the Father's thoughts of Thee."
           ],
           "v3": [
-            "All His joy, His rest, His pleasureû All His deep delight in Theeû  Lord, Thy heart alone can measure What the Father found in Thee."
+            "All His joy, His rest, His pleasure",
+            "All His deep delight in Thee",
+            "Lord, Thy heart alone can measure",
+            "What the Father found in Thee."
           ],
           "v4": [
-            "How He set His love upon Theeû Called Thee His beloved Son:  Yet for us He did not spare Thee, By Thy death our life was won."
+            "How He set His love upon Thee",
+            "Called Thee His beloved Son:",
+            "Yet for us He did not spare Thee,",
+            "By Thy death our life was won."
           ],
           "v5": [
-            "O the joy, the wondrous singing. When we see Thee as Thou art!",
-            "Thy blessed name. Lord Jesus, bringing Sweetest music to God's heart."
+            "O the joy, the wondrous singing.",
+            "When we see Thee as Thou art!",
+            "Thy blessed name. Lord Jesus, bringing",
+            "Sweetest music to God's heart."
           ],
           "v6": [
-            "Notes of gladness, songs unceasing, Hymns of everlasting praise. Psalms of glory, joy increasing. Through God's endless day of days."
+            "Notes of gladness, songs unceasing,",
+            "Hymns of everlasting praise.",
+            "Psalms of glory, joy increasing.",
+            "Through God's endless day of days."
           ]
         }
       },
@@ -1226,7 +1234,7 @@
       },
       {
         "songNumber": 33,
-        "title": "God The Creator Became A God",
+        "title": "God The Creator Became A God-Man",
         "author": "",
         "music": "",
         "presentation": "v1 v2 v3 v4",
@@ -1249,13 +1257,18 @@
             "Lord, I give all for Your masterpiece."
           ],
           "v3": [
-            "Lord, I love You. There is no other. I'll love You always. Lord, I love You,",
+            "Lord, I love You. There is no other.",
+            "I'll love You always.",
+            "Lord, I love You,",
             "My heart is recovered.",
             "Lord, I give all for Your masterpiece."
           ],
           "v4": [
-            "Thank You. Lord Jesus, for capturing me. Thank You, Lord, I now experience Thee. By feasting! Enjoying!",
-            "Your Life would increase. Thank You, Lord,",
+            "Thank You, Lord Jesus, for capturing me.",
+            "Thank You, Lord, I now experience Thee.",
+            "By feasting! Enjoying!",
+            "Your Life would increase.",
+            "Thank You, Lord,",
             "I'm part of God's masterpiece."
           ]
         }
@@ -1279,10 +1292,14 @@
             "One from His side."
           ],
           "v2": [
-            "God wants someone to love Him, Not just someone to fear Him,",
-            "He wants a sweetheart who will Be His bride.",
-            "God wants someone to know Him, Not just to know about Him:",
-            "He wants someone who'll look Him In the eye."
+            "God wants someone to love Him,",
+            "Not just someone to fear Him,",
+            "He wants a sweetheart who will",
+            "Be His bride.",
+            "God wants someone to know Him,",
+            "Not just to know about Him:",
+            "He wants someone who'll look Him",
+            "In the eye."
           ],
           "c1": [
             "For this He came down to us:",
@@ -1348,7 +1365,7 @@
       },
       {
         "songNumber": 37,
-        "title": "Chorus 1",
+        "title": "Great Is Your Love",
         "author": "",
         "music": "",
         "presentation": "c1 v1 c1 v2 c1",
@@ -1367,7 +1384,7 @@
             "Just to come to You to say..."
           ],
           "c1": [
-            "Great is Your love to me, You have delivered me.(2x)"
+            "Great is Your love to me, You have delivered me. (2x)"
           ]
         }
       },
@@ -1484,10 +1501,10 @@
       },
       {
         "songNumber": 41,
-        "title": "You ll Come",
+        "title": "You'll Come",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 c1 c2 v2 c1 c2 b1",
         "key": "E",
         "lyrics": {
           "v1": [
@@ -1497,22 +1514,27 @@
             "I'll wait upon You, Lord"
           ],
           "v2": [
-            "We are not shaken, we are not moved We wait upon You, Lord",
-            "Our Mighty Deliverer, Our Triumph and Truth We wait upon You, Lord."
+            "We are not shaken, we are not moved",
+            "We wait upon You, Lord",
+            "Our Mighty Deliverer, Our Triumph and Truth",
+            "We wait upon You, Lord."
           ],
           "c1": [
+            "As surely as the sun will rise,",
+            "You'll come to us",
+            "Certain as the dawn appears."
+          ],
+          "c2": [
             "You'll come, let Your glory fall",
             "As You respond to us",
             "Spirit reign, flood into our thirsty hearts again",
             "You'll come, You'll come"
           ],
-          "c2": [
-            "As surely as the sun will rise, You'll come to us",
-            "Certain as the dawn appears."
-          ],
           "b1": [
-            "Chains be broken,  lives be healed",
-            "Eyes be opened,  Christ is revealed."
+            "Chains be broken,",
+            "lives be healed",
+            "Eyes be opened,",
+            "Christ is revealed."
           ]
         }
       },
@@ -1537,16 +1559,24 @@
             "And He has made me glad."
           ],
           "v2": [
-            "I heard the voice of Jesus say, Behold, I freely give",
-            "The living water: thirsty one, Stoop down, and drink, and live. I came to Jesus, and I drank",
+            "I heard the voice of Jesus say,",
+            "Behold, I freely give",
+            "The living water: thirsty one,",
+            "Stoop down, and drink, and live.",
+            "I came to Jesus, and I drank",
             "Of that life-giving stream;",
-            "My thirst was quenched, my soul revived, And now I live in Him."
+            "My thirst was quenched, my soul revived,",
+            "And now I live in Him."
           ],
           "v3": [
-            "I heard the voice of Jesus say, I am this dark world's Light;",
-            "Look unto Me, thy morn shall rise, And all thy day be bright.",
-            "I looked to Jesus, and I found In Him my Star, my Sun;",
-            "And in that Light of life I'll walk Till trav'lling days are done."
+            "I heard the voice of Jesus say,",
+            "I am this dark world's Light;",
+            "Look unto Me, thy morn shall rise,",
+            "And all thy day be bright.",
+            "I looked to Jesus, and I found",
+            "In Him my Star, my Sun;",
+            "And in that Light of life I'll walk",
+            "Till trav'lling days are done."
           ]
         }
       },
@@ -1615,7 +1645,9 @@
             "I believe"
           ],
           "v2": [
-            "My shame He's taken away My pain is healed in His name I believe,",
+            "My shame He's taken away",
+            "My pain is healed in His name",
+            "I believe,",
             "I believe"
           ],
           "c1": [
@@ -1653,9 +1685,12 @@
             "I humble all I am, all to You"
           ],
           "v2": [
-            "You are always, always there. Ev'ry how and ev'rywhere.",
-            "Your grace abounds so deeply within me. You will never ever change.",
-            "Yesterday, today the same. Forever 'til forever meets no end."
+            "You are always, always there.",
+            "Ev'ry how and ev'rywhere.",
+            "Your grace abounds so deeply within me.",
+            "You will never ever change.",
+            "Yesterday, today the same.",
+            "Forever 'til forever meets no end."
           ],
           "c1": [
             "One way, Jesus",
@@ -1673,7 +1708,7 @@
         "title": "Marvelous Light",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 c1 c2 v2 c1 c2 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -1683,17 +1718,20 @@
             "By grace now I will come and take this life take Your life"
           ],
           "v2": [
-            "My dead heart now is beating, my deepest stains now clean Your breath fills up my lungs, now I'm free now I'm free"
+            "My dead heart now is beating, my deepest stains now clean",
+            "Your breath fills up my lungs, now I'm free now I'm free.",
+            "My dead heart now is beating, my deepest stains now clean",
+            "Your breath fills up my lungs, now I'm free now I'm free."
           ],
           "c1": [
+            "Sin has lost its power, death has lost its sting",
+            "From the grave You've risen, victoriously"
+          ],
+          "c2": [
             "Into marvelous light I'm running",
             "Out of darkness out of shame",
             "By the cross You are the Truth",
             "You are the Life You are the Way"
-          ],
-          "c2": [
-            "Sin has lost its power, death has lost its sting",
-            "From the grave You've risen, victoriously"
           ],
           "b1": [
             "Lift my hands and spin around",
@@ -1757,7 +1795,10 @@
             "Jesus You're all I need"
           ],
           "v2": [
-            "My life belongs to You You gave Your life for me Your grace is all I need Jesus You're all I need"
+            "My life belongs to You",
+            "You gave Your life for me",
+            "Your grace is all I need",
+            "Jesus You're all I need"
           ],
           "c1": [
             "Now that You're near",
@@ -1792,16 +1833,16 @@
             "Jesus my heart has been changed by You"
           ],
           "c1": [
+            "I couldn't walk away if I tried",
+            "'Cause Your Love is better than life"
+          ],
+          "c2": [
             "The sun's shining bright and it just won't set",
             "'Cause Your Love is alive and it lights my step",
             "My heart is amazed every day to the next",
             "And Your joy overtakes and I can't forget about it",
             "Oh oh oh, Oh oh oh, Oh oh oh I can't forget about it",
             "(Repeat last line)"
-          ],
-          "c2": [
-            "I couldn't walk away if I tried",
-            "'Cause Your Love is better than life"
           ],
           "b1": [
             "All of Your promises won't let go of me  (Echo)",
@@ -1827,9 +1868,11 @@
           ],
           "v2": [
             "Raining day and night",
-            "While waters rise I'm safe inside my Christ, the ark This world is buried 'neath the dark",
+            "While waters rise I'm safe inside my Christ, the ark",
+            "This world is buried 'neath the dark",
             "I've stepped into the light His word I see",
-            "I trace the rainbow through the sky To Christ I come, to Christ I go..."
+            "I trace the rainbow through the sky",
+            "To Christ I come, to Christ I go..."
           ],
           "c1": [
             "I died to this world, but then He raised me,",
@@ -1898,9 +1941,11 @@
             "With the New Jerusalem in sight!"
           ],
           "v2": [
-            "Sometimes, I think that I might leave And wallow in misery.",
+            "Sometimes, I think that I might leave",
+            "And wallow in misery.",
             "But then graciously He comes",
-            "And applies His gentle, soothing touch. 'Tis my story and my fight.",
+            "And applies His gentle, soothing touch.",
+            "'Tis my story and my fight.",
             "To the self I say goodbye. I now walk and live in light",
             "With the coming kingdom full in sight."
           ],
@@ -1935,8 +1980,14 @@
             "For the promise of a new life."
           ],
           "v2": [
-            "I'm giving You my life I'm waiting at the cross All the world holds dear I count it all as loss.",
-            "For the sake of knowing You For the glory of Your name To know Your lasting joy Even sharing in Your pain."
+            "I'm giving You my life",
+            "I'm waiting at the cross",
+            "All the world holds dear",
+            "I count it all as loss.",
+            "For the sake of knowing You",
+            "For the glory of Your name",
+            "To know Your lasting joy",
+            "Even sharing in Your pain."
           ],
           "c1": [
             "And I...",
@@ -1947,7 +1998,7 @@
       },
       {
         "songNumber": 54,
-        "title": "I m Gonna Praise God Unceasingly",
+        "title": "I'm Gonna Praise God Unceasingly",
         "author": "",
         "music": "",
         "presentation": "v1 c1 v2 c1 v3 c1",
@@ -2036,7 +2087,7 @@
       },
       {
         "songNumber": 56,
-        "title": "Spring Up O Well",
+        "title": "Spring Up O Well!",
         "author": "",
         "music": "",
         "presentation": "v1 c1 v2 c1 v3 c1",
@@ -2050,12 +2101,14 @@
           ],
           "v2": [
             "I've got a river of life flowing within me;",
-            "It started gushing up when God set me free. That I keep the flow is my only plea.",
+            "It started gushing up when God set me free.",
+            "That I keep the flow is my only plea.",
             "I've got a river of life springing within me."
           ],
           "v3": [
             "Once I call His name there's a flow within;",
-            "It turns me from my day, makes Him Lord again. As my spirit burns, Satan cannot win.",
+            "It turns me from my day, makes Him Lord again.",
+            "As my spirit burns, Satan cannot win.",
             "Calling, Oh Lord Jesus, keeps the flow within."
           ],
           "c1": [
@@ -2096,14 +2149,23 @@
             "Whither, in my anguish, I might flee?"
           ],
           "v3": [
-            "O what emptiness! —without the Savior 'Mid the sins and sorrows here below! And eternity, how dark without Him! Only night and tears and endless woe!",
-            "What, though I might live without the Savior, When I come to die, how would it be?",
-            "O to face the valley's gloom without Him! And without Him all eternity!"
+            "O what emptiness! —without the Savior",
+            "'Mid the sins and sorrows here below!",
+            "And eternity, how dark without Him!",
+            "Only night and tears and endless woe!",
+            "What, though I might live without the Savior,",
+            "When I come to die, how would it be?",
+            "O to face the valley's gloom without Him!",
+            "And without Him all eternity!"
           ],
           "v4": [
             "O the joy of having all in Jesus!",
-            "What a balm the broken heart to heal! Ne'er a sin so great, but He'll forgive it, Nor a sorrow that He does not feel!",
-            "If I have but Jesus, only Jesus, Nothing else in all the world beside— O then everything is mine in Jesus;",
+            "What a balm the broken heart to heal!",
+            "Ne'er a sin so great, but He'll forgive it,",
+            "Nor a sorrow that He does not feel!",
+            "If I have but Jesus, only Jesus,",
+            "Nothing else in all the world beside—",
+            "O then everything is mine in Jesus;",
             "For my needs and more He will provide."
           ]
         }
@@ -2165,7 +2227,8 @@
             "I'm laying them down for the joy of the Lord"
           ],
           "v2": [
-            "I'm trading my sickness, I'm trading my pain I'm laying them down for the joy of the Lord"
+            "I'm trading my sickness, I'm trading my pain",
+            "I'm laying them down for the joy of the Lord"
           ],
           "c1": [
             "Yes Lord yes Lord yes yes Lord",
@@ -2246,7 +2309,8 @@
           "v1": [
             "In my life I'd have to say",
             "I'd never dreamed there'd come a day",
-            "When God would be so real to me And I knew what it meant to be",
+            "When God would be so real to me",
+            "And I knew what it meant to be",
             "A man, simply loving the Lord"
           ],
           "v2": [
@@ -2265,8 +2329,10 @@
           ],
           "v4": [
             "Lord, Your life is ever new",
-            "My heart bursts forth in praise to You What joy You have to give to man",
-            "And peace the world will never understand Only found in the Son!"
+            "My heart bursts forth in praise to You",
+            "What joy You have to give to man",
+            "And peace the world will never understand",
+            "Only found in the Son!"
           ],
           "c1": [
             "Living, Jesus is living,",
@@ -2323,33 +2389,49 @@
             "To drink this cup for me."
           ],
           "v2": [
-            "By the kiss upon His cheek  He is betrayed, then led away Without a protest to their lies. They curse this man so meek",
-            "As they beat Him and spit on Him. Oh, and He chose",
+            "By the kiss upon His cheek",
+            "He is betrayed, then led away",
+            "Without a protest to their lies.",
+            "They curse this man so meek",
+            "As they beat Him and spit on Him.",
+            "Oh, and He chose",
             "To drink this cup for me."
           ],
           "v3": [
             "And then to Pilate led",
-            "Who knows they lie, but still decides This innocent to crucify.",
+            "Who knows they lie, but still decides",
+            "This innocent to crucify.",
             "With thorns they crown His head,",
-            "They strip Him bare and scourge Him there. Oh, and He chose",
+            "They strip Him bare and scourge Him there.",
+            "Oh, and He chose",
             "To drink this cup for me."
           ],
           "v4": [
             "While all their pain He bears,",
-            "They just hate Him, and they bate Him, Oh, Son of God come down from there! In love He offers prayers,",
-            "For them refuse the gall which soothes. Oh, and He chose",
+            "They just hate Him, and they bate Him,",
+            "Oh, Son of God come down from there!",
+            "In love He offers prayers,",
+            "For them refuse the gall which soothes.",
+            "Oh, and He chose",
             "To drink this cup for me."
           ],
           "v5": [
-            "But the crisis of His plight Reveals His cry,",
-            "My Father, why is it that You've forsaken Me? Sin in the Father's sight,",
-            "By God denied, by Savior dies Oh, and He chose",
+            "But the crisis of His plight",
+            "Reveals His cry,",
+            "My Father, why is it that You've forsaken Me?",
+            "Sin in the Father's sight,",
+            "By God denied, by Savior dies",
+            "Oh, and He chose",
             "To drink this cup for me."
           ],
           "v6": [
             "Then it was in the end",
-            "That one who saw exclaimed in awe This man the Son of God must be. And what of you, my friend,",
-            "Would you believe? Would you receive? Oh, that He chose to drink this cup for... Oh, that He chose to drink this cup for you."
+            "That one who saw exclaimed in awe",
+            "This man the Son of God must be.",
+            "And what of you, my friend,",
+            "Would you believe? Would you receive?",
+            "Oh, that He chose to drink this cup for...",
+            "Oh, that He chose to drink this cup for you."
           ]
         }
       },
@@ -2517,9 +2599,12 @@
           ],
           "v2": [
             "All of my",
-            "Ambitions, hopes, and plans I surrender these",
-            "Into Your hands All of my",
-            "Ambitions, hopes, and plans I surrender these",
+            "Ambitions, hopes, and plans",
+            "I surrender these",
+            "Into Your hands",
+            "All of my",
+            "Ambitions, hopes, and plans",
+            "I surrender these",
             "Into Your hands"
           ],
           "c1": [
@@ -2551,15 +2636,28 @@
             "Enjoy Thee thoroughly."
           ],
           "v2": [
-            "Jesus, most precious One to me, I want to seek You constantly  So you can spread through me.",
-            "I would just call upon Your name, Open to you; I have no shame Loving You, Jesus Lord.",
-            "Jesus, precious One, Be so real to me.",
-            "You are all I want; I open wide to Thee."
+            "Jesus, most precious",
+            "One to me, I want to seek You constantly",
+            "So you can spread through me.",
+            "I would just call upon Your name,",
+            "Open to you; I have no shame",
+            "Loving You, Jesus Lord.",
+            "Jesus, precious One,",
+            "Be so real to me.",
+            "You are all I want;",
+            "I open wide to Thee."
           ],
           "v3": [
-            "Jesus, O living One in me, Open my eyes that I might see All that You are to me.",
-            "Just let me enter in Your heart, Never from You would I depart, Loving You constantly.",
-            "Jesus, living One, Flood me thoroughly; Take my willing heart And overcome in me."
+            "Jesus, O living One in me,",
+            "Open my eyes that I might see",
+            "All that You are to me.",
+            "Just let me enter in Your heart,",
+            "Never from You would I depart,",
+            "Loving You constantly.",
+            "Jesus, living One,",
+            "Flood me thoroughly;",
+            "Take my willing heart",
+            "And overcome in me."
           ]
         }
       },
@@ -2584,19 +2682,28 @@
             "O Lamb of God, I come, I come!"
           ],
           "v3": [
-            "Just as I am, though tossed about With many a conflict, many a doubt; Fightings within, and fears without, O Lamb of God, I come, I come!"
+            "Just as I am, though tossed about",
+            "With many a conflict, many a doubt;",
+            "Fightings within, and fears without,",
+            "O Lamb of God, I come, I come!"
           ],
           "v4": [
-            "Just as I am, poor, wretched, blind; Sight, riches, healing of the mind; Yes, all I need, in Thee to find,",
+            "Just as I am, poor, wretched, blind;",
+            "Sight, riches, healing of the mind;",
+            "Yes, all I need, in Thee to find,",
             "O Lamb of God, I come, I come!"
           ],
           "v5": [
             "Just as I am, Thou wilt receive,",
-            "Wilt welcome, pardon, cleanse, relieve; Because Thy promise I believe,",
+            "Wilt welcome, pardon, cleanse, relieve;",
+            "Because Thy promise I believe,",
             "O Lamb of God, I come, I come!"
           ],
           "v6": [
-            "Just as I am, Thy love unknown Has broken every barrier down; Now, to be Thine, yea, Thine alone, O Lamb of God, I come, I come!"
+            "Just as I am, Thy love unknown",
+            "Has broken every barrier down;",
+            "Now, to be Thine, yea, Thine alone,",
+            "O Lamb of God, I come, I come!"
           ]
         }
       },
@@ -2624,7 +2731,9 @@
             "If in every place you call O Lord."
           ],
           "v3": [
-            "You'll feel real love coming into your heart; You'll feel real love coming into your heart. You'll sense a flow from God above;",
+            "You'll feel real love coming into your heart;",
+            "You'll feel real love coming into your heart.",
+            "You'll sense a flow from God above;",
             "And you will know you've found real love."
           ],
           "v4": [
@@ -2652,17 +2761,24 @@
             "Or else the sky would fall",
             "And the earth would crumble 'neath my troubles",
             "But I can't have it all. He said to me,",
-            "My grace is all sufficient and it's all you need But it is your decision just to taste and see The manna sent from heav'n",
+            "My grace is all sufficient and it's all you need",
+            "But it is your decision just to taste and see",
+            "The manna sent from heav'n",
             "And the living waters bubbling over Best of all they're free"
           ],
           "v2": [
             "Just last night",
-            "I tossed and turned when I just learned that nothing's right. Why can't my situations be more black and white,",
+            "I tossed and turned when I just learned that nothing's right.",
+            "Why can't my situations be more black and white,",
             "Not various shades of gray?",
-            "And if things continue down this venue, My hair will fall away.",
+            "And if things continue down this venue,",
+            "My hair will fall away.",
             "He said to me,",
-            "My plan is perfect, all-inclusive—don't you see That nothing's accidental but it's all decreed, For you to take My life,",
-            "And to grow in stature, 'till you're raptured To the heavenly."
+            "My plan is perfect, all-inclusive—don't you see",
+            "That nothing's accidental but it's all decreed,",
+            "For you to take My life,",
+            "And to grow in stature, 'till you're raptured",
+            "To the heavenly."
           ],
           "c1": [
             "Ain't my God just swell?",
@@ -2686,7 +2802,8 @@
             "Holy Spirit, we desire, awakening"
           ],
           "v2": [
-            "In Your presence, in Your power, awakening For this moment, for this hour, awakening"
+            "In Your presence, in Your power, awakening",
+            "For this moment, for this hour, awakening"
           ],
           "v3": [
             "Like the rising sun that shines",
@@ -2726,13 +2843,15 @@
             "To see a revolution somehow(2x)"
           ],
           "v2": [
-            "Let hope arise and make the darkness hide My faith is dead",
-            "I need a resurrection somehow(2x)"
+            "Let hope arise and make the darkness hide",
+            "My faith is dead",
+            "I need a resurrection somehow (2x)"
           ],
           "c1": [
             "My God's not dead",
             "He's surely alive",
-            "He's living on the inside Roaring like a lion"
+            "He's living on the inside",
+            "Roaring like a lion"
           ],
           "c2": [
             "Now I'm lost in Your freedom",
@@ -2757,10 +2876,13 @@
             "Let me drink from the living water,",
             "Bringing life to my very core.",
             "In the midst of my desperation, Jesus.",
-            "When I'm dry running on empty, Flow your streams of life through me. You're the life giving water, Jesus."
+            "When I'm dry running on empty,",
+            "Flow your streams of life through me.",
+            "You're the life giving water, Jesus."
           ],
           "v2": [
-            "In this place we have found freedom, Cleansing streams have set us free.",
+            "In this place we have found freedom,",
+            "Cleansing streams have set us free.",
             "You are all that we ever needed, Jesus.(2x)"
           ],
           "c1": [
@@ -2822,7 +2944,9 @@
           ],
           "v2": [
             "King of all days",
-            "O so highly exalted, Glorious in heaven above. Humbly You came",
+            "O so highly exalted,",
+            "Glorious in heaven above.",
+            "Humbly You came",
             "To the earth You created,",
             "All for love's sake became poor."
           ],
@@ -2858,8 +2982,11 @@
           ],
           "v2": [
             "And if my mind from my spirit part,",
-            "If doubts and fears should hold my heart And control my thoughts;",
-            "Then, Lord, press faith into my heart, Seal me and claim me as Your own; By Your blood I'm bought."
+            "If doubts and fears should hold my heart",
+            "And control my thoughts;",
+            "Then, Lord, press faith into my heart,",
+            "Seal me and claim me as Your own;",
+            "By Your blood I'm bought."
           ],
           "c1": [
             "Lord Jesus, take from me all my empty yearnings.",
@@ -3073,7 +3200,11 @@
             "And all your soul and mind And love all mankind..."
           ],
           "v3": [
-            "We've got Christian lives to live We've got Jesus' love to give We've got nothing to hide Because in Him we all find Love...",
+            "We've got Christian lives to live",
+            "We've got Jesus' love to give",
+            "We've got nothing to hide",
+            "Because in Him we all find Love...",
+            "",
             "(All verses can be sung simultaneously)"
           ]
         }
@@ -3124,16 +3255,22 @@
             "Nothing seemed to satisfy."
           ],
           "v2": [
-            "Through the desert land of sin I roam no more, For I find a living Spring,",
-            "And my cup of gladness now is running o'er, Jesus is my Lord and King."
+            "Through the desert land of sin I roam no more,",
+            "For I find a living Spring,",
+            "And my cup of gladness now is running o'er,",
+            "Jesus is my Lord and King."
           ],
           "v3": [
-            "Here is sweet contentment as the days go by, Here is holy peace and rest;",
-            "Here is consolation as the moments fly, Here my heart is always blest."
+            "Here is sweet contentment as the days go by,",
+            "Here is holy peace and rest;",
+            "Here is consolation as the moments fly,",
+            "Here my heart is always blest."
           ],
           "v4": [
-            "Here I find a never ending sure supply, While the endless ages roll;",
-            "To this healing Fountain I would ever fly, There to bathe my weary soul."
+            "Here I find a never ending sure supply,",
+            "While the endless ages roll;",
+            "To this healing Fountain I would ever fly,",
+            "There to bathe my weary soul."
           ],
           "c1": [
             "Drinking at the Fountain that never runs dry,",
@@ -3163,15 +3300,23 @@
             "Let Love be multiplied."
           ],
           "v2": [
-            "Multiply Your love through me To someone in need",
-            "Help me Lord to freely give This grace that I've received Let my single purpose be To live out Your life",
-            "Through my simple words and deeds Let Love be multiplied."
+            "Multiply Your love through me",
+            "To someone in need",
+            "Help me Lord to freely give",
+            "This grace that I've received",
+            "Let my single purpose be To live out Your life",
+            "Through my simple words and deeds",
+            "Let Love be multiplied."
           ],
           "v3": [
-            "Multiply Your Church through us To the ends of the earth",
-            "Where there's only barrenness Let us see new birth",
-            "Use us as Your laborers Working side by side",
-            "Let us see Your harvest come Let Love be multiplied."
+            "Multiply Your Church through us",
+            "To the ends of the earth",
+            "Where there's only barrenness",
+            "Let us see new birth",
+            "Use us as Your laborers",
+            "Working side by side",
+            "Let us see Your harvest come",
+            "Let Love be multiplied."
           ]
         }
       },
@@ -3234,7 +3379,7 @@
       },
       {
         "songNumber": 90,
-        "title": "O Nearer Each Day",
+        "title": "Nearer Each Day",
         "author": "",
         "music": "",
         "presentation": "v1 v2",
@@ -3253,9 +3398,13 @@
             "Jesus my Lord."
           ],
           "v2": [
-            "Even when faith is small When there's no hope at all I hear Him say to me Trust in Me and you'll see",
-            "That I'll supply all your needs If only you will believe.",
-            "All anxious doubts will cease, While trusting in Me."
+            "Even when faith is small",
+            "When there's no hope at all I hear Him say to me",
+            "Trust in Me and you'll see",
+            "That I'll supply all your needs",
+            "If only you will believe.",
+            "All anxious doubts will cease,",
+            "While trusting in Me."
           ]
         }
       },
@@ -3357,12 +3506,16 @@
             "Jesus, I love You."
           ],
           "v2": [
-            "I've seen how they Pierced Your side",
-            "You gave Your all, to win Your bride J-E-S-U-S, I love You"
+            "I've seen how they",
+            "Pierced Your side",
+            "You gave Your all, to win",
+            "Your bride J-E-S-U-S, I love You"
           ],
           "v3": [
-            "Without Your love, Lord I'm so empty",
-            "Life has no meaning, just vanity Jesus, reality"
+            "Without Your love, Lord",
+            "I'm so empty",
+            "Life has no meaning, just vanity",
+            "Jesus, reality"
           ],
           "v4": [
             "Jesus in me",
@@ -3393,15 +3546,25 @@
             "May richer, fuller be."
           ],
           "v2": [
-            "O Light, that followest all my way, I yield my flickering torch to Thee; My heart restores its borrowed ray, That in Thy sunshine's blaze its day May brighter, fairer be."
+            "O Light, that followest all my way,",
+            "I yield my flickering torch to Thee;",
+            "My heart restores its borrowed ray,",
+            "That in Thy sunshine's blaze its day",
+            "May brighter, fairer be."
           ],
           "v3": [
-            "O Joy, that seekest me through pain, I cannot close my heart to Thee;",
-            "I trace the rainbow through the rain, And feel the promise is not vain That morn shall tearless be."
+            "O Joy, that seekest me through pain,",
+            "I cannot close my heart to Thee;",
+            "I trace the rainbow through the rain,",
+            "And feel the promise is not vain",
+            "That morn shall tearless be."
           ],
           "v4": [
-            "O Cross, that liftest up my head, I dare not ask to fly from Thee; I lay in dust life's glory dead,",
-            "And from the ground there blossoms red Life that shall endless be."
+            "O Cross, that liftest up my head,",
+            "I dare not ask to fly from Thee;",
+            "I lay in dust life's glory dead,",
+            "And from the ground there blossoms red",
+            "Life that shall endless be."
           ]
         }
       },
@@ -3554,21 +3717,44 @@
         "ccli": "",
         "lyrics": {
           "v1": [
+            "Out of my bondage, sorrow, and night,",
+            "Jesus, I come! Jesus I come!",
+            "Into thy freedom, gladness, and light",
+            "Jesus, I come to Thee!",
+            "Out of my sickness, into Thy health,",
+            "Out of my want and into Thy wealth,",
+            "Out of my sin and into Thyself",
             "Jesus, I come to Thee!"
           ],
           "v2": [
-            "Out of my shameful failure and loss, Jesus, I come! Jesus, I come!",
-            "Into the glorious gain of Thy cross, Jesus, I come to Thee!",
-            "Out of earth's sorrows into Thy balm, Out of life's storm and into Thy calm, Out of distress to jubilant psalm, Jesus, I come to Thee!"
+            "Out of my shameful failure and loss,",
+            "Jesus, I come! Jesus, I come!",
+            "Into the glorious gain of Thy cross,",
+            "Jesus, I come to Thee!",
+            "Out of earth's sorrows into Thy balm,",
+            "Out of life's storm and into Thy calm,",
+            "Out of distress to jubilant psalm,",
+            "Jesus, I come to Thee!"
           ],
           "v3": [
-            "Out of unrest and arrogant pride, Jesus, I come! Jesus, I come! Into Thy blessed will to abide, Jesus, I come to Thee!",
-            "Out of myself to dwell in Thy love, Out of despair into raptures above, Upward for aye on wings like a dove, Jesus, I come to Thee!"
+            "Out of unrest and arrogant pride,",
+            "Jesus, I come! Jesus, I come!",
+            "Into Thy blessed will to abide,",
+            "Jesus, I come to Thee!",
+            "Out of myself to dwell in Thy love,",
+            "Out of despair into raptures above,",
+            "Upward for aye on wings like a dove,",
+            "Jesus, I come to Thee!"
           ],
           "v4": [
-            "Out of the fear and dread of the tomb, Jesus, I come! Jesus, I come!",
-            "Into the joy and pleasure, Thine own, Jesus, I come to Thee!",
-            "Out of the depths of ruin untold, Into the flock Thy love doth enfold, Ever Thy glorious face to behold, Jesus, I come to Thee!"
+            "Out of the fear and dread of the tomb,",
+            "Jesus, I come! Jesus, I come!",
+            "Into the joy and pleasure, Thine own,",
+            "Jesus, I come to Thee!",
+            "Out of the depths of ruin untold,",
+            "Into the flock Thy love doth enfold,",
+            "Ever Thy glorious face to behold,",
+            "Jesus, I come to Thee!"
           ]
         }
       },
@@ -3618,6 +3804,8 @@
           ],
           "c1": [
             "I could sing of Your love forever,",
+            "I could sing of Your love forever",
+            "I could sing of Your love forever,",
             "I could sing of Your love forever"
           ]
         }
@@ -3635,8 +3823,8 @@
             "Hope is stirring hearts are yearning for You, we long for You"
           ],
           "v2": [
-            "Hear the sound of hearts returning to You, we turn to You In Your kingdom broken lives are made new,",
-            "You make us new"
+            "Hear the sound of hearts returning to You, we turn to You",
+            "In Your kingdom broken lives are made new, You make us new"
           ],
           "c1": [
             "Hosanna hosanna",
@@ -3827,13 +4015,19 @@
             "Mighty King, how beautiful You are",
             "How beautiful",
             "Son of God the Father's gift to us",
-            "You alone were broken on the altar of love Precious lamb our freedom is in Your blood It's in Your blood!"
+            "You alone were broken on the altar of love",
+            "Precious lamb our freedom is in Your blood",
+            "It's in Your blood!"
           ],
           "v2": [
-            "Son of God strength beyond compare You alone the darkness cannot bear",
-            "Lord of love, Your kindness draws me near It draws me.",
-            "Son of God prophecy of old  You alone, redeemer of my soul",
-            "Come again and lead Your people home Come lead us home"
+            "Son of God strength beyond compare",
+            "You alone the darkness cannot bear",
+            "Lord of love, Your kindness draws me near",
+            "It draws me.",
+            "Son of God prophecy of old",
+            "You alone, redeemer of my soul",
+            "Come again and lead Your people home",
+            "Come lead us home"
           ],
           "c1": [
             "Jesus, Oh Holy One",
@@ -3871,13 +4065,15 @@
           "v1": [
             "Splendid church life! His green garden!",
             "He has brought us, praise the Lord,",
-            "To experience the Christ Who's growing here! He is full of rich enjoyment",
+            "To experience the Christ Who's growing here!",
+            "He is full of rich enjoyment",
             "To His saints in one accord;",
             "He is new and fresh, available and near!"
           ],
           "v2": [
             "It is not a school or factory Or a chapel in the air;",
-            "But a garden where our Lord can plant and sow. So He's placed us all here corporately",
+            "But a garden where our Lord can plant and sow.",
+            "So He's placed us all here corporately",
             "To be His garden fair,",
             "Where He's free to cultivate and make us grow."
           ],
@@ -3942,7 +4138,10 @@
             "And trembles at His voice, trembles at His voice"
           ],
           "v2": [
-            "Age to age He stands, and time is in His hands Beginning and the End, Beginning and the End The Godhead, three in one; Father, Spirit, Son The Lion and the Lamb, the Lion and the Lamb"
+            "Age to age He stands, and time is in His hands",
+            "Beginning and the End, Beginning and the End",
+            "The Godhead, three in one; Father, Spirit, Son",
+            "The Lion and the Lamb, the Lion and the Lamb"
           ],
           "c1": [
             "How great is our God, sing with me",
@@ -4081,7 +4280,7 @@
       },
       {
         "songNumber": 114,
-        "title": "There s A Life That s Deeper",
+        "title": "There s A Life That's Deeper",
         "author": "",
         "music": "John Bettis, Richard Carpenter",
         "presentation": "v1 c1 v2 c1 v3 c1",
@@ -4190,11 +4389,14 @@
             "Yearning to sweep all barriers away."
           ],
           "v2": [
-            "Shall I not yield to that constraining power? Shall I not say, O Tide of love, flow in?",
-            "My God, Thy gentleness hath conquered me, Life cannot be as it hath hither been."
+            "Shall I not yield to that constraining power?",
+            "Shall I not say, O Tide of love, flow in?",
+            "My God, Thy gentleness hath conquered me,",
+            "Life cannot be as it hath hither been."
           ],
           "v3": [
-            "Break through my nature, mighty, heavenly love, Clear every avenue of thought and brain,",
+            "Break through my nature, mighty, heavenly love,",
+            "Clear every avenue of thought and brain,",
             "Flood my affections, purify my will,",
             "Let nothing but Thine own pure life remain."
           ],
@@ -4221,8 +4423,10 @@
             "By Your mercy You have saved us"
           ],
           "v2": [
-            "You are the Shepherd King, You lead us by still waters Hallelujah, You are Savior",
-            "You are my only hope, Your kindness is my friend In Your presence You restore us"
+            "You are the Shepherd King, You lead us by still waters",
+            "Hallelujah, You are Savior",
+            "You are my only hope, Your kindness is my friend",
+            "In Your presence You restore us"
           ],
           "c1": [
             "Jesus, You are stronger, more than any other",
@@ -4281,14 +4485,22 @@
             "And be blent into oneness with Him."
           ],
           "v2": [
-            "We have been many years in religion, We have been many years in our mind, We have been many years in emotions, Always seeking, but never to find."
+            "We have been many years in religion,",
+            "We have been many years in our mind,",
+            "We have been many years in emotions,",
+            "Always seeking, but never to find."
           ],
           "v3": [
-            "Now we're learning to turn to our spirit, Now we're learning to take Christ as life; Now we're learning to feed upon Jesus And be freed from all struggling and strife."
+            "Now we're learning to turn to our spirit,",
+            "Now we're learning to take Christ as life;",
+            "Now we're learning to feed upon Jesus",
+            "And be freed from all struggling and strife."
           ],
           "v4": [
-            "Hallelujah for life in the Spirit, Hallelujah for newness within.",
-            "When we turn from our mind to our spirit, We enjoy all the riches of Him."
+            "Hallelujah for life in the Spirit,",
+            "Hallelujah for newness within.",
+            "When we turn from our mind to our spirit,",
+            "We enjoy all the riches of Him."
           ]
         }
       },
@@ -4666,6 +4878,41 @@
         }
       },
       {
+        "songNumber": 129,
+        "title": "Enough",
+        "author": "",
+        "music": "",
+        "presentation": "v1 c1 v2 c1 b1",
+        "key": "G",
+        "lyrics": {
+          "v1": [
+            "You are my supply, my breath of life",
+            "Still more awesome than I know",
+            "You are my reward worth living for",
+            "Still more awesome than I know"
+          ],
+          "v2": [
+            "You're my sacrifice of greatest price",
+            "Still more awesome than I know",
+            "You're my coming King. You are everything Still more awesome than I know"
+          ],
+          "c1": [
+            "All of You is more than enough for",
+            "All of me for every thirst and every need",
+            "You satisfy me with Your love",
+            "And all I have in You is more than enough"
+          ],
+          "b1": [
+            "More than all I want",
+            "More than all I need",
+            "You are more than enough for me",
+            "More than all I know",
+            "More than all I can see",
+            "You are more than enough..."
+          ]
+        }
+      },
+      {
         "songNumber": 130,
         "title": "Always Forever",
         "author": "",
@@ -4680,7 +4927,10 @@
             "You are my love and all of my life"
           ],
           "v2": [
-            "You are the grace that covers my sin You're everything the beginning and end You have my soul, my heart, and my mind You have my love and all of my life"
+            "You are the grace that covers my sin",
+            "You're everything the beginning and end",
+            "You have my soul, my heart, and my mind",
+            "You have my love and all of my life"
           ],
           "c1": [
             "You are the love I need",
@@ -4692,7 +4942,8 @@
             "Always forever"
           ],
           "b1": [
-            "Hallelujah, Hallelujah, Hallelujah, forever"
+            "Hallelujah, Hallelujah,",
+            "Hallelujah, forever"
           ]
         }
       },
@@ -4711,7 +4962,8 @@
             "I will lay hold of you"
           ],
           "v2": [
-            "My heart is Yours, for life I need Your hand in mine No one else will do",
+            "My heart is Yours, for life I need Your hand in mine",
+            "No one else will do",
             "Lord, I put my trust in You"
           ],
           "c1": [
@@ -4743,19 +4995,33 @@
         "misc": "Sat, Aug 20, 2016",
         "lyrics": {
           "v1": [
-            "verse 1"
+            "You fill me Lord Jesus;",
+            "You enlighten my darkness;",
+            "Your life give me freedom;",
+            "Your love heals my pain.",
+            "Your name is my treasure;",
+            "Your majesty awes me;",
+            "You've filled me Lord Jesus,",
+            "Come fill me again."
           ],
           "v2": [
-            "verse 2"
+            "Let Your north wind blow on me.",
+            "Let Your Spirit surround me,",
+            "'Til my being is open,",
+            "Then burn and consume me",
+            "With Your jealous God's fire",
+            "'Til my heart is obedient,",
+            "'Til my soul You have gained."
           ],
           "v3": [
-            "verse 3"
-          ],
-          "c1": [
-            "chorus"
-          ],
-          "b1": [
-            "bridge"
+            "I will turn my heart to You;",
+            "Seal and pledge Youself in me.",
+            "Mingle with me completely;",
+            "Like the fire in the flame;",
+            "'Til my being is glowing,",
+            "Your workmanship showing;",
+            "I will turn my heart to You",
+            "Again and again."
           ]
         }
       },
@@ -4792,7 +5058,7 @@
         "title": "Wonderful Maker",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 v2 c1 c2 v3 c1",
+        "presentation": "v1 v2 c1 c2 v3 c1 c2",
         "key": "C2",
         "lyrics": {
           "v1": [
@@ -4801,15 +5067,17 @@
             "Into a dark and formless world Your light was born."
           ],
           "v2": [
-            "You spread out Your arms over empty hearts Said Let there be light",
-            "Into a dark and hopeless world Your Son was born."
+            "You spread out Your arms over empty hearts",
+            "Said Let there be light",
+            "Into a dark and hopeless world",
+            "Your Son was born."
           ],
           "v3": [
             "No eye has fully seen, how beautiful the cross",
             "And we have only heard",
             "The faintest whispers of how great You are."
           ],
-          "c1": [
+          "c2": [
             "What a wonderful Maker",
             "What a beautiful Savior",
             "How majestic Your whispers",
@@ -4819,7 +5087,7 @@
             "How majestic Your whispers",
             "What a wonderful God"
           ],
-          "c2": [
+          "c1": [
             "You made the world and saw that it was good",
             "You sent Your only Son for You are good"
           ]
@@ -4872,8 +5140,10 @@
           ],
           "v2": [
             "Your cross testifies in grace",
-            "Tells of the Father's heart to make a way for us Now boldly we approach",
-            "Not earthly confidence It's only by Your blood"
+            "Tells of the Father's heart to make a way for us",
+            "Now boldly we approach",
+            "Not earthly confidence",
+            "It's only by Your blood"
           ],
           "c1": [
             "What can wash away our sins?",
@@ -4931,6 +5201,29 @@
             "That all the saints in spirit press on,",
             "Fighting as the one new man,",
             "Fulfilling our Lord's great plan! (Glory Hallelujah!)"
+          ]
+        }
+      },
+      {
+        "songNumber": 139,
+        "title": "I Love You, Lord Jesus",
+        "author": "",
+        "music": "",
+        "presentation": "v1 v2",
+        "key": "",
+        "date composed": "",
+        "misc": "Thu, Apr 28, 2016",
+        "lyrics": {
+          "v1": [
+            "I love You, Lord Jesus.",
+            "I love You, Lord, Precious One.",
+            "No other one compares to You.",
+            "(Repeat)"
+          ],
+          "v2": [
+            "Jesus Lord, Jesus,",
+            "Dear Lord, most lovely One,",
+            "No one compares to You."
           ]
         }
       },
@@ -5062,7 +5355,7 @@
       },
       {
         "songNumber": 146,
-        "title": "What Is Living All About",
+        "title": "What Is Living All About?",
         "author": "",
         "music": "",
         "presentation": "v1 v2",
@@ -5071,7 +5364,7 @@
         "misc": "Thu, Apr 28, 2016",
         "lyrics": {
           "v1": [
-            "Call, Lord Jesus! Taste and see!",
+            "Call, \"Lord Jesus!\" Taste and see!",
             "Christ becomes reality,",
             "Life He gives abundantly",
             "As a river flowing free."
@@ -5122,8 +5415,10 @@
             "To see that You're shaping my life"
           ],
           "v2": [
-            "I need You to soften my heart To break me apart",
-            "I need You to pierce through the dark And cleanse every part of me"
+            "I need You to soften my heart",
+            "To break me apart",
+            "I need You to pierce through the dark",
+            "And cleanse every part of me"
           ],
           "c1": [
             "Give me faith to trust what You say",
@@ -5158,7 +5453,9 @@
             "Forgiveness stands You take me back again"
           ],
           "v2": [
-            "Salvation's strong in Christ alone The Savior King alone in victory I step aside give You my life",
+            "Salvation's strong in Christ alone",
+            "The Savior King alone in victory",
+            "I step aside give You my life",
             "For You to move do what You want to do"
           ],
           "c1": [
@@ -5195,11 +5492,15 @@
             "Raised me to life again"
           ],
           "v2": [
-            "You can calm the oceans Speak peace into my soul Take me as I am",
+            "You can calm the oceans",
+            "Speak peace into my soul",
+            "Take me as I am",
             "Awaken my heart to beat again"
           ],
           "v3": [
-            "You move in the unseen You set the captives free As I stand and sing",
+            "You move in the unseen",
+            "You set the captives free",
+            "As I stand and sing",
             "You're breaking the chains off me"
           ],
           "c1": [
@@ -5243,8 +5544,10 @@
           ],
           "v2": [
             "I worship You and lift You high",
-            "God forever let Your name be glorified I lift my voice and sing Your name",
-            "For you gave Your life to cleanse my sin And took away my shame"
+            "God forever let Your name be glorified",
+            "I lift my voice and sing Your name",
+            "For you gave Your life to cleanse my sin",
+            "And took away my shame"
           ],
           "c1": [
             "You are more than",
@@ -5407,10 +5710,16 @@
             "Let me be singing when the evening comes."
           ],
           "v2": [
-            "You're rich in love, and You're slow to anger. Your name is great, and Your heart is kind. For all Your goodness, I will keep on singing; Ten thousand reasons for my heart to find."
+            "You're rich in love, and You're slow to anger.",
+            "Your name is great, and Your heart is kind.",
+            "For all Your goodness, I will keep on singing;",
+            "Ten thousand reasons for my heart to find."
           ],
           "v3": [
-            "And on that day when my strength is failing, The end draws near, and my time has come; Still my soul will sing Your praise unending: Ten thousand years and then forevermore!"
+            "And on that day when my strength is failing,",
+            "The end draws near, and my time has come;",
+            "Still my soul will sing Your praise unending:",
+            "Ten thousand years and then forevermore!"
           ],
           "c1": [
             "Bless the Lord, O my soul,",
@@ -5496,7 +5805,8 @@
             "Glory to the Lord on high"
           ],
           "v2": [
-            "Early in the morning, I will celebrate the light When I stumble in the darkness,",
+            "Early in the morning, I will celebrate the light",
+            "When I stumble in the darkness,",
             "I will call Your name by night"
           ],
           "c1": [
@@ -5628,13 +5938,18 @@
             "Destined to die, poured out for all mankind"
           ],
           "v2": [
-            "God's only Son, perfect and spotless one He never sinned but suffered as if He did"
+            "God's only Son, perfect and spotless one",
+            "He never sinned but suffered as if He did"
           ],
           "v3": [
-            "Power in hand speaking the Father's plan You're sending us out, light in this broken land"
+            "Power in hand speaking the Father's plan",
+            "You're sending us out, light in this broken land"
           ],
           "c1": [
-            "All authority"
+            "All authority",
+            "Every victory is Yours",
+            "All authority",
+            "Every victory is Yours"
           ],
           "c2": [
             "Savior, worthy of honor and glory",
@@ -5653,7 +5968,7 @@
       },
       {
         "songNumber": 165,
-        "title": "Behold The Lamb (communion Hymn)",
+        "title": "Behold The Lamb (Communion Hymn)",
         "author": "",
         "music": "",
         "presentation": "v1 v2 v3 v4",
@@ -5672,21 +5987,31 @@
             "Around the table of the King."
           ],
           "v2": [
-            "The body of our Savior Jesus Christ, Torn for you - eat and remember",
-            "The wounds that heal, the death that brings us life Paid the price to make us one.",
-            "So we share in this bread of life, And we drink of His sacrifice As a sign of our bonds of love Around the table of the King."
+            "The body of our Savior Jesus Christ,",
+            "Torn for you - eat and remember",
+            "The wounds that heal, the death that brings us life",
+            "Paid the price to make us one.",
+            "So we share in this bread of life,",
+            "And we drink of His sacrifice",
+            "As a sign of our bonds of love",
+            "Around the table of the King."
           ],
           "v3": [
-            "The blood that cleanses every stain of sin, Shed for you - drink and remember",
-            "He drained death's cup that all may enter in To receive the life of God.",
-            "So we share in this bread of life, And we drink of His sacrifice As a sign of our bonds of grace Around the table of the King."
+            "The blood that cleanses every stain of sin,",
+            "Shed for you - drink and remember",
+            "He drained death's cup that all may enter in",
+            "To receive the life of God.",
+            "So we share in this bread of life,",
+            "And we drink of His sacrifice",
+            "As a sign of our bonds of grace",
+            "Around the table of the King."
           ],
           "v4": [
             "And so with thankfulness and faith we rise",
             "To respond, - and to remember",
             "Our call to follow in the steps of Christ",
             "As His body here on earth.",
-            "As we share in His suf - fer - ing",
+            "As we share in His suffering",
             "We proclaim Christ will come again!",
             "And we'll join in the feast of heaven",
             "Around the table of the King"
@@ -5709,8 +6034,10 @@
             "He has done great things"
           ],
           "v2": [
-            "God is with us; God is on our side He will make a way",
-            "Far above all we know Far above all we hope  He has done great things"
+            "God is with us; God is on our side",
+            "He will make a way",
+            "Far above all we know Far above all we hope",
+            "He has done great things"
           ],
           "c1": [
             "Lifted up, He defeated the grave",
@@ -5740,11 +6067,14 @@
         "lyrics": {
           "v1": [
             "In the Father there is freedom",
-            "There is hope in the Name that is Jesus Lay your life down give it all now",
+            "There is hope in the Name that is Jesus",
+            "Lay your life down give it all now",
             "We are found in the love of the Savior"
           ],
           "v2": [
-            "We are sold out to Your calling Everything that we are for Your glory Take our hearts now, have it all now",
+            "We are sold out to Your calling",
+            "Everything that we are for Your glory",
+            "Take our hearts now, have it all now",
             "Let our lives shine Your light like the morning"
           ],
           "c1": [
@@ -5768,7 +6098,7 @@
       },
       {
         "songNumber": 168,
-        "title": "I Have A Friend  Whose Faithful Love",
+        "title": "I Have A Friend, Whose Faithful Love",
         "author": "C. A. Tydeman",
         "music": "Anonymous",
         "presentation": "v1 v2 v3 v4 v5",
@@ -5851,8 +6181,8 @@
             "we will wait upon the Lord (repeat)"
           ],
           "c1": [
-            "Our God You reign for - ev - er",
-            "Our hope Our strong de - liv - rer"
+            "Our God You reign forever",
+            "Our hope Our strong delivrer"
           ],
           "c2": [
             "You are the everlasting God",
@@ -5869,7 +6199,7 @@
         "title": "God Of This City",
         "author": "",
         "music": "",
-        "presentation": "v1 v2",
+        "presentation": "v1 v2 c1 c2",
         "key": "Am7",
         "lyrics": {
           "v1": [
@@ -5879,7 +6209,10 @@
             "You are"
           ],
           "v2": [
-            "You're the light in this darkness You're the hope to the hopeless You're the peace to the restless You are"
+            "You're the light in this darkness",
+            "You're the hope to the hopeless",
+            "You're the peace to the restless",
+            "You are"
           ],
           "c1": [
             "There is no one like our God",
@@ -5958,7 +6291,7 @@
         "title": "Your Great Name",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 b1",
+        "presentation": "v1 c1 v2 c1 b1",
         "key": "Em",
         "lyrics": {
           "v1": [
@@ -5991,27 +6324,30 @@
         "title": "Beautiful Things",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 b1",
+        "presentation": "v1 v2 c1 v3 c2 b1",
         "key": "G",
         "lyrics": {
           "v1": [
             "All this pain",
             "I wonder if I'll ever find my way",
-            "I wonder if I my life could really change at ---  all"
+            "I wonder if I my life could really change at all"
           ],
           "v2": [
             "All this earth",
             "Could all that is lost ever be found",
-            "Could a garden come up from this ground at all?",
-            "Chorus 1",
+            "Could a garden come up from this ground at all?"
+          ],
+          "c1": [
             "You make beautiful things",
             "You make beautiful things out of the dust You make beautiful things",
             "You make beautiful things out of us"
           ],
           "v3": [
             "All around",
-            "Life is springing up from this old ground Out of chaos life is being found in You",
-            "Chorus 2",
+            "Life is springing up from this old ground",
+            "Out of chaos life is being found in You"
+          ],
+          "c2": [
             "You make beautiful things",
             "You make beautiful things out of the dust",
             "You make beautiful things",
@@ -6027,7 +6363,7 @@
         "title": "The One Who Saves",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 b1",
+        "presentation": "v1 v2 c1 v3 c1 b1",
         "key": "C",
         "guitar": "C",
         "misc": "",
@@ -6160,7 +6496,11 @@
             "Freely You've bled for us"
           ],
           "v2": [
-            "Beneath the weight of all our sin   You bowed to none but heaven's will No scheme of hell, no scoffer's crown No burden great can hold You down In strength You reign",
+            "Beneath the weight of all our sin",
+            "You bowed to none but heaven's will",
+            "No scheme of hell, no scoffer's crown",
+            "No burden great can hold You down",
+            "In strength You reign",
             "Forever let Your church proclaim"
           ],
           "c1": [
@@ -6200,7 +6540,8 @@
           ],
           "v2": [
             "You defied reason with love",
-            "Took the fall meant for us, You alone are enough Though we were destined to fail",
+            "Took the fall meant for us, You alone are enough",
+            "Though we were destined to fail",
             "You opened the way and broke every chain"
           ],
           "c1": [
@@ -6274,8 +6615,12 @@
             "I am redeemed"
           ],
           "v2": [
-            "No fear can hold me down  Nor darkness steal my joy For blood has been poured out The enemy destroyed",
-            "Death could not hold Him down The cross was not enough",
+            "No fear can hold me down",
+            "Nor darkness steal my joy",
+            "For blood has been poured out",
+            "The enemy destroyed",
+            "Death could not hold Him down",
+            "The cross was not enough",
             "To steal away His throne For He is God"
           ],
           "c1": [
@@ -6340,10 +6685,10 @@
       },
       {
         "songNumber": 183,
-        "title": "Amazing Grace (my Chains Are Gone)",
+        "title": "Amazing Grace (My Chains Are Gone)",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 v4",
+        "presentation": "v1 v2 c1 v3 c1 v4",
         "key": "D",
         "lyrics": {
           "v1": [
@@ -6358,8 +6703,7 @@
           ],
           "v3": [
             "The Lord has promised good to me His word my hope secures",
-            "He will my shield and portion be As long as life endures",
-            "(Chorus)"
+            "He will my shield and portion be As long as life endures"
           ],
           "v4": [
             "The earth shall soon dissolve like snow The sun forbear to shine",
@@ -6377,7 +6721,7 @@
         "title": "The Stand",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3",
+        "presentation": "v1 v2 p1 c1 v3 p1 c1",
         "key": "A/C#",
         "lyrics": {
           "v1": [
@@ -6388,17 +6732,21 @@
           ],
           "v2": [
             "You stood before my failure",
-            "And carried the cross for my shame My sin weighed upon Your shoulders My soul now to stand"
+            "And carried the cross for my shame",
+            "My sin weighed upon Your shoulders",
+            "My soul now to stand"
           ],
           "v3": [
-            "So I'll walk upon salvation Your Spirit alive in me",
-            "My life to declare Your promise My soul now to stand"
+            "So I'll walk upon salvation",
+            "Your Spirit alive in me",
+            "My life to declare Your promise",
+            "My soul now to stand"
           ],
-          "c1": [
+          "p1": [
             "So what can I say, and what can I do",
             "But offer this heart O God, completely to You"
           ],
-          "c2": [
+          "c1": [
             "So I'll stand, with arms high and heart abandoned",
             "In awe of the One who gave it all",
             "I'll stand, my soul Lord to You surrendered",
@@ -6411,7 +6759,7 @@
         "title": "In A Low Dungeon",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3",
+        "presentation": "v1 c1 v2 c1 v3 c1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -6423,12 +6771,16 @@
           ],
           "v2": [
             "Born into Adam, dying we were;",
-            "We had a sickness no one could cure. God, His Son sending, old Adam ending; He is dead, we are free!",
+            "We had a sickness no one could cure.",
+            "God, His Son sending, old Adam ending;",
+            "He is dead, we are free!",
             "He is dead, we are free!"
           ],
           "v3": [
-            "Now we're rejoicing, standing in grace, Oh hallelujah! Sin is erased!",
-            "God, in us flowing, in our hearts growing, We are saved in His life!",
+            "Now we're rejoicing, standing in grace,",
+            "Oh hallelujah! Sin is erased!",
+            "God, in us flowing, in our hearts growing,",
+            "We are saved in His life!",
             "We are saved in His life!"
           ],
           "c1": [
@@ -6445,7 +6797,7 @@
         "title": "Glorious Day",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 b1",
+        "presentation": "v1 c1 v2 c1 v3 c2 b1 c3",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -6457,18 +6809,20 @@
             "His glory revealed"
           ],
           "v2": [
-            "One day they led him up Calvary's mountain One day they nailed Him to die on a tree Suffering anguish despised and rejected Bearing our sins my Redeemer is He",
-            "Hands that healed nations, stretched out on a tree, And took the nails for me"
+            "One day they led him up Calvary's mountain",
+            "One day they nailed Him to die on a tree",
+            "Suffering anguish despised and rejected",
+            "Bearing our sins my Redeemer is He",
+            "Hands that healed nations, stretched out on a tree,",
+            "And took the nails for me"
           ],
           "v3": [
-            "One day the grave could conceal Him no longer One day the stone rolled away from the door Then He arose over death He had conquered Now has ascended my Lord ever more",
-            "Death could not hold Him the grave could not keep Him From rising again",
-            "Chorus 2",
-            "Living He loved me, dying He saved me",
-            "Buried He carried my sins far away",
-            "Rising He justified freely forever",
-            "One day He's coming, oh glorious day,",
-            "Oh glorious da - y, oh glorious da - y"
+            "One day the grave could conceal Him no longer",
+            "One day the stone rolled away from the door",
+            "Then He arose over death He had conquered",
+            "Now has ascended my Lord ever more",
+            "Death could not hold Him the grave could not keep Him",
+            "From rising again"
           ],
           "c1": [
             "Living He loved me, dying He saved me",
@@ -6476,17 +6830,25 @@
             "Rising He justified freely forever",
             "One day He's coming, oh glorious day, oh glorious day"
           ],
+          "c2": [
+            "Living He loved me, dying He saved me",
+            "Buried He carried my sins far away",
+            "Rising He justified freely forever",
+            "One day He's coming, oh glorious day,",
+            "Oh glorious day, oh glorious day"
+          ],
+          "c3": [
+            "Living He loved me, dying He saved me",
+            "Buried He carried my sins far away",
+            "Rising He justified freely forever",
+            "One day He's coming, oh glorious day, oh glorious day",
+            "Oh glorious day, oh glorious day"
+          ],
           "b1": [
             "One day the trumpet will sound for His coming",
             "One day the skies with His glory will shine",
             "Wonderful day my Beloved One bringing",
-            "My savior Jesus is mine",
-            "Chorus 3 (End)",
-            "Living He loved me, dying He saved me",
-            "Buried He carried, my sins far away",
-            "Rising He justified, freely forever",
-            "One day He's coming, oh glorious day, oh glorious da - y,",
-            "Oh glorious da - y, oh glorious day"
+            "My savior Jesus is mine"
           ]
         }
       },
@@ -6495,7 +6857,7 @@
         "title": "Jesus Paid It All",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 b1",
+        "presentation": "v1 c1 v2 c1 v3 c1 b1",
         "key": "D",
         "lyrics": {
           "v1": [
@@ -6505,11 +6867,16 @@
             "Find in Me Thine all in all"
           ],
           "v2": [
-            "Lord now indeed I find Thy power and Thine alone",
-            "Can change the leper's spots And melt the heart of stone"
+            "Lord now indeed I find",
+            "Thy power and Thine alone",
+            "Can change the leper's spots",
+            "And melt the heart of stone"
           ],
           "v3": [
-            "And when before the throne I stand in Him complete Jesus died my soul to save My lips shall still repeat"
+            "And when before the throne",
+            "I stand in Him complete",
+            "Jesus died my soul to save",
+            "My lips shall still repeat"
           ],
           "c1": [
             "Jesus paid it all",
@@ -6538,7 +6905,8 @@
             "Because You died and rose again"
           ],
           "v2": [
-            "You are my King,(2x)"
+            "You are my King, (2x)",
+            "Jesus, You are my King (2x)"
           ],
           "c1": [
             "Amazing love, how can it be",
@@ -6566,8 +6934,11 @@
             "You are my all in all."
           ],
           "v2": [
-            "Taking my sin, my cross, my shame, Rising again, I bless Your name. You are my all in all.",
-            "When I fall down You pick me up, When I am dry You fill my cup.",
+            "Taking my sin, my cross, my shame,",
+            "Rising again, I bless Your name.",
+            "You are my all in all.",
+            "When I fall down You pick me up,",
+            "When I am dry You fill my cup.",
             "You are my all in all."
           ],
           "c1": [
@@ -6615,7 +6986,7 @@
         "title": "Revelation Song",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3",
+        "presentation": "v1 c1 v2 c1 v3 c1",
         "key": "D",
         "lyrics": {
           "v1": [
@@ -6625,12 +6996,16 @@
             "Heaven's mercy seat"
           ],
           "v2": [
-            "Clothed in rainbows of living color Flashes of lightning, rolls of thunder",
-            "Blessing and honor, strength and glory and power be To You the only wise King"
+            "Clothed in rainbows of living color",
+            "Flashes of lightning, rolls of thunder",
+            "Blessing and honor, strength and glory and power be",
+            "To You the only wise King"
           ],
           "v3": [
-            "Filled with wonder, awestruck wonder At the mention of Your name",
-            "Jesus Your name is power, breath and living water Such a marvelous mystery"
+            "Filled with wonder, awestruck wonder",
+            "At the mention of Your name",
+            "Jesus Your name is power, breath and living water",
+            "Such a marvelous mystery"
           ],
           "c1": [
             "Holy, Holy, Holy is the Lord God Almighty",
@@ -6645,7 +7020,7 @@
         "title": "Give Me Jesus",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3",
+        "presentation": "v1 c1 v2 c1 v3 c1",
         "key": "C",
         "lyrics": {
           "v1": [
@@ -6678,7 +7053,7 @@
         "title": "Jesus Lover Of My Soul",
         "author": "",
         "music": "",
-        "presentation": "v1",
+        "presentation": "v1 c1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -6702,7 +7077,7 @@
         "title": "God Is Love",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3",
+        "presentation": "v1 c1 v2 c2 v3",
         "key": "C   Am  Em",
         "lyrics": {
           "v1": [
@@ -6711,23 +7086,29 @@
             "But You sent Your dear Son.",
             "God commends His kindness and love toward us,",
             "In that, while we were yet sinners,",
-            "Christ died for us.",
-            "Chorus 1",
+            "Christ died for us."
+          ],
+          "c1":[
             "God, You did not spare Him, Your beloved Son.",
             "Father, how we thank You for this precious One!"
           ],
           "v2": [
-            "Who can know the love from our Father's being? Ears have never heard, eyes have never seen,  But Lord, I've been redeemed.",
+            "Who can know the love from our Father's being?",
+            "Ears have never heard, eyes have never seen,",
+            "But Lord, I've been redeemed.",
             "God is love. O God, a man You became;",
-            "A cursed man to be, God, You died for me. Lord, You hung from a tree.",
-            "Chorus 2",
+            "A cursed man to be, God, You died for me. Lord, You hung from a tree."
+          ],
+          "c2": [
             "Father, You have sent Him, Your beloved Son.",
             "He shed His blood on Calvary; Your love reached me."
           ],
           "v3": [
-            "God so loved the world that He gave us His Son. Just believe in Him. Be not perishing,",
+            "God so loved the world that He gave us His Son.",
+            "Just believe in Him. Be not perishing,",
             "But have eternal life.",
-            "Just believe in Him. Be not perishing, But have eternal life."
+            "Just believe in Him. Be not perishing,",
+            "But have eternal life."
           ]
         }
       },
@@ -6736,7 +7117,7 @@
         "title": "Boldly I Approach",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 b1",
+        "presentation": "v1 v2 c1 v3 c1 b1",
         "key": "F#m",
         "lyrics": {
           "v1": [
@@ -6748,14 +7129,20 @@
             "Into His everlasting arms."
           ],
           "v2": [
-            "When condemnation grips my heart And Satan tempts me to despair,",
-            "I hear the voice that scatters fear; The Great I Am, the Lord is here. O praise the One who fights for me, And shields my soul eternally!"
+            "When condemnation grips my heart",
+            "And Satan tempts me to despair,",
+            "I hear the voice that scatters fear;",
+            "The Great I Am, the Lord is here.",
+            "O praise the One who fights for me,",
+            "And shields my soul eternally!"
           ],
           "v3": [
             "Behold the bright and risen Son;",
-            "More beauty than this world has known. I'm face to face with Love Himself,",
+            "More beauty than this world has known.",
+            "I'm face to face with Love Himself,",
             "His perfect spotless righteousness.",
-            "A thousand years, a thousand tongues Are not enough to sing His praise."
+            "A thousand years, a thousand tongues",
+            "Are not enough to sing His praise."
           ],
           "c1": [
             "Boldly I approach Your throne,",
@@ -6775,20 +7162,24 @@
         "title": "Christ Is Enough",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 b1",
+        "presentation": "v1 p1 c1 v2 p2 c1 b1",
         "key": "C#m",
         "lyrics": {
           "v1": [
             "Christ is my reward and all of my devotion",
-            "Now there's nothing in this world that could ever satisfy",
-            "Pre-Chorus 1",
+            "Now there's nothing in this world that could ever satisfy"
+          ],
+          "p1": [
             "Through every trial, my soul will sing",
             "No turning back, I've been set free"
           ],
           "v2": [
-            "Christ my all in all, my joy and my salvation And this hope will never fail, Heaven is our home",
-            "Pre-Chorus 2",
-            "Through every storm, my soul will sing Jesus is here, to God be the glory"
+            "Christ my all in all, my joy and my salvation",
+            "And this hope will never fail, Heaven is our home"
+          ],
+          "p2": [
+            "Through every storm, my soul will sing",
+            "Jesus is here, to God be the glory"
           ],
           "c1": [
             "Christ is enough for me, Christ is enough for me",
@@ -6796,9 +7187,11 @@
           ],
           "b1": [
             "I have decided to follow Jesus, no turning back, no turning back",
-            "I have decided to follow Jesus, no turning back, no turning back The cross before me, the world behind me,",
+            "I have decided to follow Jesus, no turning back, no turning back",
+            "The cross before me, the world behind me,",
             "No turning back, no turning back",
-            "The cross before me, the world behind me, No turning back, no turning back"
+            "The cross before me, the world behind me,",
+            "No turning back, no turning back"
           ]
         }
       },
@@ -6833,10 +7226,14 @@
             "We pray: 'revive this earth.'"
           ],
           "v3": [
-            "Unleash Your kingdom's power, Reaching the near and far,",
-            "No force of hell can stop, Your beauty changing hearts.",
-            "You made us for much more than this, Awake the kingdom seed in us,",
-            "Fill us with the strength and love of Christ, We are Your church,",
+            "Unleash Your kingdom's power,",
+            "Reaching the near and far,",
+            "No force of hell can stop,",
+            "Your beauty changing hearts.",
+            "You made us for much more than this,",
+            "Awake the kingdom seed in us,",
+            "Fill us with the strength and love of Christ,",
+            "We are Your church,",
             "We are the hope on earth."
           ],
           "c1": [
@@ -6848,7 +7245,6 @@
             "Win this nation back;",
             "Change the atmosphere,",
             "Build Your kingdom here",
-            "C    Csus4  c1  Csus2  c1  Csus4  C",
             "We pray."
           ]
         }
@@ -6858,7 +7254,7 @@
         "title": "Cornerstone",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 b1",
+        "presentation": "v1 c1 v2 c1 v3 c1 b1",
         "key": "",
         "lyrics": {
           "v1": [
@@ -6882,7 +7278,8 @@
             "He is Lord, Lord of all"
           ],
           "b1": [
-            "He is Lord,  Lord of all"
+            "He is Lord,",
+            "Lord of all"
           ]
         }
       },
@@ -6891,7 +7288,7 @@
         "title": "Fall Afresh",
         "author": "",
         "music": "",
-        "presentation": "v1 v2",
+        "presentation": "v1 c1 v2 c1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -6901,7 +7298,10 @@
             "And do as You did at first"
           ],
           "v2": [
-            "Awaken my soul, come awake"
+            "Awaken my soul, come awake",
+            "To worship with all your strength",
+            "Awaken my soul, come awake",
+            "To worship with all your strength"
           ],
           "c1": [
             "Spirit of the Living God come fall afresh on me",
@@ -6916,7 +7316,7 @@
         "title": "Deep Cries Out",
         "author": "",
         "music": "",
-        "presentation": "v1",
+        "presentation": "v1 p1 c1 b1 b2",
         "key": "G",
         "guitar": "G",
         "misc": "",
@@ -6927,7 +7327,7 @@
             "It's an open Heaven You're releasing",
             "And we will never be denied"
           ],
-          "c1": [
+          "p1": [
             "Cause we're stirring up deep, deep wells",
             "We're stirring up deep, deep waters",
             "We're going to dance in the river, dance in the river",
@@ -6935,25 +7335,33 @@
             "We're stirring up deep, deep waters",
             "We're going to jump in the river, jump in the river"
           ],
-          "c2": [
+          "c1": [
             "Deep cries out, deep cries out to You",
             "Deep cries out, deep cries out to You",
             "We cry out to, we cry out to",
-            "You Jesus",
-            "Bridge 1",
+            "You Jesus"
+          ],
+          "b1": [
             "We're falling into deeper waters, calling out to You",
-            "We're walking into deeper waters, going after You",
-            "Bridge 2",
+            "We're walking into deeper waters, going after You"
+          ],
+          "b2": [
             "If He goes to the left then we'll go to the left",
             "And if He goes to the right then we'll go to the right",
             "We're gonna jump, jump, jump, jump in the river",
             "Jump, jump, jump, jump, everybody",
             "If He goes to the left then we'll go to the left",
-            "And if He goes to the right then we'll go to the right We're going to dance, dance, dance, dance in the river, Dance, dance, dance, dance everybody",
+            "And if He goes to the right then we'll go to the right",
+            "We're going to dance, dance, dance, dance in the river,",
+            "Dance, dance, dance, dance everybody",
             "If He goes to the left then we'll go to the left",
-            "And if He goes to the right then we'll go to the right We're gonna jump, jump, jump, jump in the river Jump, jump, jump, jump, everybody",
+            "And if He goes to the right then we'll go to the right",
+            "We're gonna jump, jump, jump, jump in the river",
+            "Jump, jump, jump, jump, everybody",
             "If He goes to the left then we'll go to the left",
-            "And if He goes to the right then we'll go to the right We're gonna shout, shout, shout, shout in the river Shout, shout, shout, shout"
+            "And if He goes to the right then we'll go to the right",
+            "We're gonna shout, shout, shout, shout in the river",
+            "Shout, shout, shout, shout"
           ]
         }
       },
@@ -6976,22 +7384,36 @@
             "He has brought us nigh to God."
           ],
           "v2": [
-            "Let us love the Lord Who bought us, Pitied us when enemies,",
-            "Called us by His grace, and taught us, Gave us ears and gave us eyes:",
-            "He has washed us with His blood, He presents our souls to God."
+            "Let us love the Lord Who bought us,",
+            "Pitied us when enemies,",
+            "Called us by His grace, and taught us,",
+            "Gave us ears and gave us eyes:",
+            "He has washed us with His blood,",
+            "He presents our souls to God."
           ],
           "v3": [
-            "Let us sing, though fierce temptation Threaten hard to bear us down!",
-            "For the Lord, our strong Salvation, Holds in view the conqueror's crown: He Who washed us with His blood Soon will bring us home to God."
+            "Let us sing, though fierce temptation",
+            "Threaten hard to bear us down!",
+            "For the Lord, our strong Salvation,",
+            "Holds in view the conqueror's crown:",
+            "He Who washed us with His blood",
+            "Soon will bring us home to God."
           ],
           "v4": [
-            "Let us wonder; grace and justice Join and point to mercy's store;",
-            "When through grace in Christ our trust is, Justice smiles and asks no more:",
-            "He Who washed us with His blood Has secured our way to God."
+            "Let us wonder; grace and justice",
+            "Join and point to mercy's store;",
+            "When through grace in Christ our trust is,",
+            "Justice smiles and asks no more:",
+            "He Who washed us with His blood",
+            "Has secured our way to God."
           ],
           "v5": [
-            "Let us praise, and join the chorus Of the saints enthroned on high; Here they trusted Him before us, Now their praises fill the sky:",
-            "Thou hast washed us with Your blood; Thou art worthy, Lamb of God!"
+            "Let us praise, and join the chorus",
+            "Of the saints enthroned on high;",
+            "Here they trusted Him before us,",
+            "Now their praises fill the sky:",
+            "Thou hast washed us with Your blood;",
+            "Thou art worthy, Lamb of God!"
           ]
         }
       },
@@ -7036,7 +7458,7 @@
         "title": "My God My Portion And My Love",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 v2 c1 v3 c1",
+        "presentation": "v1 v2 v3",
         "key": "D",
         "guitar": "D",
         "misc": "",
@@ -7052,16 +7474,24 @@
             "There's nothing like my God."
           ],
           "v2": [
-            "To Thee I owe my wealth, and friends, And health, and safe abode;",
-            "Thanks to Thy name for meaner things, But they are not my God.",
-            "How vain a toy is glittering wealth, If once compared to Thee!",
-            "Or what's my safety, or my health, Or all my friends to me."
+            "To Thee I owe my wealth, and friends,",
+            "And health, and safe abode;",
+            "Thanks to Thy name for meaner things,",
+            "But they are not my God.",
+            "How vain a toy is glittering wealth,",
+            "If once compared to Thee!",
+            "Or what's my safety, or my health,",
+            "Or all my friends to me."
           ],
           "v3": [
-            "Were I possessor of the earth, And called the stars my own,",
-            "Without Thy graces and Thyself, I were a wretch undone.",
-            "Let others stretch their arms like seas, And grasp in all the shore;",
-            "Grant me the visits of Thy grace, And I desire no more."
+            "Were I possessor of the earth,",
+            "And called the stars my own,",
+            "Without Thy graces and Thyself,",
+            "I were a wretch undone.",
+            "Let others stretch their arms like seas,",
+            "And grasp in all the shore;",
+            "Grant me the visits of Thy grace,",
+            "And I desire no more."
           ]
         }
       },
@@ -7080,7 +7510,10 @@
             "In oceans deep, my faith will stand"
           ],
           "v2": [
-            "Your grace abounds in deepest waters;   Your sovereign hand will be my guide, Where feet may fail and fear surrounds me, You've never failed and You won't start now."
+            "Your grace abounds in deepest waters;",
+            "Your sovereign hand will be my guide,",
+            "Where feet may fail and fear surrounds me,",
+            "You've never failed and You won't start now."
           ],
           "c1": [
             "And I will call upon Your name,",
@@ -7090,9 +7523,8 @@
             "For I am Yours and You are mine"
           ],
           "c2": [
-            "Tag (6x)",
             "Give me faith, to trust what You say",
-            "That You're good, and Your love is great"
+            "That You're good, and Your love is great (2x)"
           ],
           "b1": [
             "Spirit lead me where my trust is without borders",
@@ -7113,22 +7545,28 @@
         "title": "Oh How I Need You",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 v2 c1 b1 b2",
+        "presentation": "v1 c1 v2 c1 b1",
         "key": "D",
         "lyrics": {
           "v1": [
-            "Lord I find You in the seeking, Lord I find You in the doubt",
-            "And to know You is to love You, And to know so little else"
+            "Lord I find You in the seeking,",
+            "Lord I find You in the doubt",
+            "And to know You is to love You,",
+            "And to know so little else"
           ],
           "v2": [
-            "Lord I find You in the morning, Lord I seek You everyday  Let my life be for Your glory, Woven in Your threads of grace"
+            "Lord I find You in the morning,",
+            "Lord I seek You everyday",
+            "Let my life be for Your glory,",
+            "Woven in Your threads of grace"
           ],
           "c1": [
-            "I need You,  Oh how I need You",
-            "Oh how I need You,  Oh how I need You"
+            "I need You,",
+            "Oh how I need You",
+            "Oh how I need You,",
+            "Oh how I need You"
           ],
-          "b1": [],
-          "b2": [
+          "b1": [
             "Light glorious light",
             "I will go where You shine",
             "Break the dawn, crack the skies",
@@ -7143,7 +7581,7 @@
         "title": "Second Chance",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 v2 c1 v3 c1",
+        "presentation": "v1 c1 v2 c2 v3 c1",
         "key": "A",
         "lyrics": {
           "v1": [
@@ -7153,14 +7591,20 @@
             "Reborn, perfect as a child."
           ],
           "v2": [
-            "When sin and ugliness collide with redemption's kiss, Beauty awakens by romance.",
-            "Always, inside this mess, I have found forgiveness, Mercy, as infinite as You.",
+            "When sin and ugliness collide with redemption's kiss,",
+            "Beauty awakens by romance.",
+            "Always, inside this mess, I have found forgiveness,",
+            "Mercy, as infinite as You."
+          ],
+          "c2": [
             "Countless second chances we've been given at the cross,",
             "Countless second chances we've been given at the cross."
           ],
           "v3": [
-            "Fragments of brokenness salvaged by the art of grace, You craft life from our mistakes.",
-            "Black skies of my regrets outshone by this kindness; New life dawns over my soul."
+            "Fragments of brokenness salvaged by the art of grace,",
+            "You craft life from our mistakes.",
+            "Black skies of my regrets outshone by this kindness;",
+            "New life dawns over my soul."
           ],
           "c1": [
             "Oh, Your cross, it changes everything,",
@@ -7185,8 +7629,10 @@
             "We're coming back to our first love, only You."
           ],
           "v2": [
-            "We come with our broken song to You, the perfect One, To worship You in Spirit and truth, only You.",
-            "Give us a child-like heart, lead us to where You are. We're coming back to our first love, only You."
+            "We come with our broken song to You, the perfect One,",
+            "To worship You in Spirit and truth, only You.",
+            "Give us a child-like heart, lead us to where You are.",
+            "We're coming back to our first love, only You."
           ],
           "c1": [
             "You're the reason we sing, the reason we sing.",
@@ -7195,7 +7641,10 @@
             "Yes, our hearts will sing how we love You."
           ],
           "b1": [
-            "How we love You, how we love You,"
+            "How we love You, how we love You,",
+            "How we love You, our first love",
+            "How we love You, how we love You,",
+            "How we love You, our first love"
           ]
         }
       },
@@ -7204,7 +7653,7 @@
         "title": "This Is Amazing Grace",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 v2 c1 v3 c1 v4 c1 b1",
+        "presentation": "v1 c1 v2 c1 v3 c1 v4 c1 b1 c1",
         "key": "",
         "lyrics": {
           "v1": [
@@ -7213,13 +7662,19 @@
             "The King of glory, the King above all kings"
           ],
           "v2": [
-            "Who shakes the whole earth with holy thunder And leaves us breathless in awe and wonder The King of glory, the King above all kings"
+            "Who shakes the whole earth with holy thunder",
+            "And leaves us breathless in awe and wonder",
+            "The King of glory, the King above all kings"
           ],
           "v3": [
-            "Who brings our chaos back into order  Who makes the orphan a son and daughter The King of glory, the King of glory"
+            "Who brings our chaos back into order",
+            "Who makes the orphan a son and daughter",
+            "The King of glory, the King of glory"
           ],
           "v4": [
-            "Who rules the nations with truth and justice Shines like the sun in all of its brilliance The King of glory, the King above all kings"
+            "Who rules the nations with truth and justice",
+            "Shines like the sun in all of its brilliance",
+            "The King of glory, the King above all kings"
           ],
           "c1": [
             "This is amazing grace, this is unfailing love",
@@ -7229,7 +7684,11 @@
           ],
           "b1": [
             "Worthy is the Lamb who was slain",
-            "Worthy is the King who conquered the grave  (3x)",
+            "Worthy is the King who conquered the grave",
+            "Worthy is the Lamb who was slain",
+            "Worthy is the King who conquered the grave",
+            "Worthy is the Lamb who was slain",
+            "Worthy is the King who conquered the grave",
             "Worthy is the Lamb who was slain",
             "Worthy, worthy, worthy"
           ]
@@ -7250,8 +7709,10 @@
             "That I might live and in His name be known"
           ],
           "v2": [
-            "What grace is mine to know His breath alive in me Beneath his wings my wakened soul may soar",
-            "All fear can flee for death's dark night is overcome My Savior lives and reigns forevermore"
+            "What grace is mine to know His breath alive in me",
+            "Beneath his wings my wakened soul may soar",
+            "All fear can flee for death's dark night is overcome",
+            "My Savior lives and reigns forevermore"
           ],
           "c1": [
             "So I will go wherever He is calling me",
@@ -7306,18 +7767,21 @@
         "lyrics": {
           "v1": [
             "In this time of desperation",
-            "Gsus4    Em",
             "When all we know is doubt and fear",
             "There is only One Salvation",
-            "We believe, We believe"
+            "We believe, we believe"
           ],
           "v2": [
             "In this broken generation",
-            "When all is dark, You help us see There is only One Foundation We believe, We believe"
+            "When all is dark, You help us see",
+            "There is only One Foundation",
+            "We believe, we believe"
           ],
           "v3": [
-            "So, let our faith be more than anthems Greater than the songs we sing",
-            "And in our weakness and temptations We believe, We believe!"
+            "So, let our faith be more than anthems",
+            "Greater than the songs we sing",
+            "And in our weakness and temptations",
+            "We believe, we believe!"
           ],
           "c1": [
             "We believe in God the Father,",
@@ -7355,13 +7819,16 @@
             "The whole earth shakes, the whole earth shakes"
           ],
           "v2": [
-            "I see His Love and Mercy, washing over all our sin The people sing, the people sing"
+            "I see His Love and Mercy, washing over all our sin",
+            "The people sing, the people sing"
           ],
           "v3": [
-            "I see a generation, rising up to take their place With selfless faith, with selfless faith"
+            "I see a generation, rising up to take their place",
+            "With selfless faith, with selfless faith"
           ],
           "v4": [
-            "I see a near revival, stirring as we pray and seek We're on our knees, we're on our knees"
+            "I see a near revival, stirring as we pray and seek",
+            "We're on our knees, we're on our knees"
           ],
           "c1": [
             "Hosanna  hosanna, hosanna in the highest",
@@ -7395,8 +7862,10 @@
             "Everything I once held dear I count it all as loss"
           ],
           "v2": [
-            "You were as I tempted and tried Human",
-            "The Word became flesh bore my sin in death Now You're risen",
+            "You were as I tempted and tried",
+            "Human",
+            "The Word became flesh bore my sin in death",
+            "Now You're risen",
             "Everything I once held dear I count it all as loss"
           ],
           "c1": [
@@ -7405,6 +7874,12 @@
             "Rid me of myself I belong to You",
             "O lead me",
             "Lead me to the cross"
+          ],
+          "b1": [
+            "To Your heart",
+            "To Your heart",
+            "Lead me to Your heart",
+            "Lead me to Your heart"
           ]
         }
       },
@@ -7497,20 +7972,28 @@
             "It is well, It is well with my soul!"
           ],
           "v2": [
-            "Though Satan should buffet, though trials should come, Let this blest assurance control,",
-            "That Christ hath regarded my helpless estate. And hath shed His own blood for my soul."
+            "Though Satan should buffet, though trials should come,",
+            "Let this blest assurance control,",
+            "That Christ hath regarded my helpless estate.",
+            "And hath shed His own blood for my soul."
           ],
           "v3": [
-            "My sin— oh, the bliss of this glorious thought— My sin, not in part, but the whole,",
-            "Is nailed to His Cross, and I bear it no more: Praise the Lord, praise the Lord, O my soul!"
+            "My sin— oh, the bliss of this glorious thought—",
+            "My sin, not in part, but the whole,",
+            "Is nailed to His Cross, and I bear it no more:",
+            "Praise the Lord, praise the Lord, O my soul!"
           ],
           "v4": [
-            "For me, be it Christ, be it Christ hence to live: If dark hours about me shall roll,",
-            "No pang shall be mine, for in death as in life Thou wilt whisper Thy peace to my soul."
+            "For me, be it Christ, be it Christ hence to live:",
+            "If dark hours about me shall roll,",
+            "No pang shall be mine, for in death as in life",
+            "Thou wilt whisper Thy peace to my soul."
           ],
           "v5": [
-            "And, Lord, haste the day when my faith shall be sight, The clouds be rolled back as a scroll,",
-            "The trump shall resound, and the Lord shall descend; Even so, it is well with my soul."
+            "And, Lord, haste the day when my faith shall be sight,",
+            "The clouds be rolled back as a scroll,",
+            "The trump shall resound, and the Lord shall descend;",
+            "Even so, it is well with my soul."
           ],
           "c1": [
             "It is well, with my soul!",
@@ -7571,9 +8054,9 @@
         "misc": "Mon, Apr 25, 2016",
         "lyrics": {
           "v1": [
-            "Majesty,  worship His majesty!",
+            "Majesty, worship His majesty!",
             "Unto Jesus be all glory power and praise!",
-            "Majesty,  kingdom authority,",
+            "Majesty, kingdom authority,",
             "Flow from His throne unto His own, His anthem raise.",
             "So exalt, lift up on high the name of Jesus",
             "Magnify, come glorify Christ Jesus the King",
@@ -7674,7 +8157,8 @@
             "You heal our brokenness inside and give us life"
           ],
           "v2": [
-            "You take the faithless one aside And speak the words \"You are mine\"",
+            "You take the faithless one aside",
+            "And speak the words \"You are mine\"",
             "You call the cynic and the proud, \"Come to me now\""
           ],
           "c1": [
@@ -7723,7 +8207,7 @@
         "title": "Hungry",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1",
+        "presentation": "v1 p1 c1 v2 p1 c1",
         "key": "E",
         "lyrics": {
           "v1": [
@@ -7743,7 +8227,7 @@
             "Jesus You're all",
             "This heart is living for"
           ],
-          "c2": [
+          "p1": [
             "So I wait for You",
             "So I wait for You"
           ]
@@ -7754,7 +8238,7 @@
         "title": "As It Is In Heaven",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -7764,11 +8248,13 @@
             "Come and let Your glory, come and let Your glory fall."
           ],
           "v2": [
-            "God give us new every morning mercy as daily bread; In the name of Jesus, in the name of Jesus we pray;",
-            "And lead us not to temptation but deliver us with Your hand; In the name of Jesus, in the name of Jesus we pray,",
+            "God give us new every morning mercy as daily bread;",
+            "In the name of Jesus, in the name of Jesus we pray;",
+            "And lead us not to temptation but deliver us with Your hand;",
+            "In the name of Jesus, in the name of Jesus we pray,",
             "Father we pray."
           ],
-          "c1": [
+          "p1": [
             "Let Your kingdom come,",
             "Let Your will be done",
             "On earth as it is in heaven;",
@@ -7776,7 +8262,7 @@
             "The glory of Your name",
             "On earth as it is in heaven."
           ],
-          "c2": [
+          "c1": [
             "I will sing, sing a new song",
             "I will sing, sing a new song",
             "I will sing, sing a new song to the Lord"
@@ -7799,7 +8285,9 @@
             "My song is love unknown,",
             "My Savior's love to me;",
             "Love to the loveless shown,",
-            "That they might lovely be.",
+            "That they might lovely be."
+          ],
+          "c1": [
             "O who am I,",
             "That for my sake",
             "My Lord should take",
@@ -7872,13 +8360,17 @@
             "I have nothing without You."
           ],
           "v2": [
-            "Take my voice and pour it out. Let it sing the songs",
-            "Of mercy I have found. For I have nothing,",
+            "Take my voice and pour it out.",
+            "Let it sing the songs",
+            "Of mercy I have found.",
+            "For I have nothing,",
             "I have nothing without You."
           ],
           "v3": [
-            "Take my body and build it up; May it be broken as",
-            "An offering of love. For I have nothing,",
+            "Take my body and build it up;",
+            "May it be broken as",
+            "An offering of love.",
+            "For I have nothing,",
             "I have nothing without You."
           ],
           "v4": [
@@ -7889,8 +8381,10 @@
             "And all the strength that I can find"
           ],
           "v5": [
-            "Take my time here on this earth And let it glorify",
-            "All that You are worth. For I am nothing",
+            "Take my time here on this earth",
+            "And let it glorify",
+            "All that You are worth.",
+            "For I am nothing",
             "I am nothing without You."
           ],
           "c1": [
@@ -7916,7 +8410,8 @@
             "I long—Lord, I need Your touch"
           ],
           "v2": [
-            "I long to be washed by the blood of Your mercy I long to be filled with the light of Your glory",
+            "I long to be washed by the blood of Your mercy",
+            "I long to be filled with the light of Your glory",
             "I long for Your presence",
             "I long for Your healing touch"
           ],
@@ -7933,7 +8428,7 @@
       },
       {
         "songNumber": 229,
-        "title": "Sov reign Grace O er Sin Abounding",
+        "title": "Sov'reign Grace O'er Sin Abounding",
         "author": "",
         "music": "",
         "presentation": "v1 c1 v2 c1 v3 c1 v4 c1",
@@ -7950,18 +8445,27 @@
             "Let my soul - forever dwell!"
           ],
           "v2": [
-            "What from Christ the soul can sever, Bound by everlasting bands?",
-            "Once in Him, in Him forever, Thus th' eternal cov'nant stands.",
-            "None shall pluck thee, none shall pluck thee From the Savior's mighty hands!"
+            "What from Christ the soul can sever,",
+            "Bound by everlasting bands?",
+            "Once in Him, in Him forever,",
+            "Thus th' eternal cov'nant stands.",
+            "None shall pluck thee, none shall pluck thee",
+            "From the Savior's mighty hands!"
           ],
           "v3": [
-            "Heirs of God, joint-heirs with Jesus, Long ere time its race begun;",
-            "To His name eternal praises, O what wonders love has done!",
-            "One with Jesus, one with Jesus, By eternal union one."
+            "Heirs of God, joint-heirs with Jesus,",
+            "Long ere time its race begun;",
+            "To His name eternal praises,",
+            "O what wonders love has done!",
+            "One with Jesus, one with Jesus,",
+            "By eternal union one."
           ],
           "v4": [
-            "On such love, my soul, still ponder, Love, so great, so rich, so free; Say, while lost in holy wonder,",
-            "Why, O Lord, such love to me? Hallelujah! Hallelujah!",
+            "On such love, my soul, still ponder,",
+            "Love, so great, so rich, so free;",
+            "Say, while lost in holy wonder,",
+            "Why, O Lord, such love to me?",
+            "Hallelujah! Hallelujah!",
             "Grace shall reign eternally!"
           ]
         }
@@ -8049,8 +8553,47 @@
             "Never fear, only trust and obey."
           ],
           "c1": [
-            "Trust and obey, For there's no other way",
-            "To be happy in Jesus, But to trust and obey."
+            "Trust and obey,",
+            "For there's no other way",
+            "To be happy in Jesus,",
+            "But to trust and obey."
+          ]
+        }
+      },
+      {
+        "songNumber": 232,
+        "title": "Undo",
+        "author": "",
+        "music": "",
+        "presentation": "v1 c1 v2 c1 b1 c1",
+        "key": "D",
+        "lyrics": {
+          "v1": [
+            "I've been here before,",
+            "Now here I am again",
+            "Standing at the door,",
+            "Praying You'll let me back in",
+            "To label me a prodigal would be only scratching the surface",
+            "Of who I've been known to be"
+          ],
+          "v2": [
+            "I focused on the score,",
+            "But I could never win",
+            "Trying to ignore,",
+            "A life of hiding my sin",
+            "To label me a hypocrite would be only scratching the surface",
+            "Of who I've been known to be"
+          ],
+          "c1": [
+            "Turn me around, pick me up, undo what I've become",
+            "Bring me back to the place of forgiveness and grace",
+            "I need you; I need Your help. I can't do this myself",
+            "You're the only One, who can undo what I've become"
+          ],
+          "b1": [
+            "Make ev'ry step",
+            "Lead me back to",
+            "The sov'reign way that You"
           ]
         }
       },
@@ -8140,7 +8683,7 @@
         "title": "Your Grace Is Enough",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1",
+        "presentation": "v1 p1 c1 v2 p1 c1",
         "key": "G",
         "guitar": "G",
         "misc": "",
@@ -8152,15 +8695,17 @@
             "Where nothing can keep us apart"
           ],
           "v2": [
-            "Great is Your love and justice God of Jacob You use the weak to lead the strong",
-            "You lead us in the song of heaven's vict'ry And all Your people sing along"
+            "Great is Your love and justice God of Jacob",
+            "You use the weak to lead the strong",
+            "You lead us in the song of heaven's vict'ry",
+            "And all Your people sing along"
           ],
           "c1": [
             "Your grace is enough",
             "Your grace is enough",
             "Your grace is enough for me"
           ],
-          "c2": [
+          "p1": [
             "So remember Your people",
             "Remember Your children",
             "Remember Your promise O God"
@@ -8169,7 +8714,7 @@
       },
       {
         "songNumber": 236,
-        "title": "Your Christ  My Hope",
+        "title": "Your Christ, My Hope",
         "author": "",
         "music": "",
         "presentation": "v1 c1 v2 c1 v3 c1 v4 c1 v5 c1",
@@ -8184,18 +8729,28 @@
             "You also need Christ lived in me."
           ],
           "v2": [
-            "Oh what a sweet church life have we! Built up in Him, His bride to be!",
-            "In Him steadfast, you help me be Encouraged by Christ whom I see."
+            "Oh what a sweet church life have we!",
+            "Built up in Him, His bride to be!",
+            "In Him steadfast, you help me be",
+            "Encouraged by Christ whom I see."
           ],
           "v3": [
-            "Your faith in Christ helps me pursue; My progress depends upon you!",
-            "As I seek Christ, with you in view My heart, full of prayer, is for you."
+            "Your faith in Christ helps me pursue;",
+            "My progress depends upon you!",
+            "As I seek Christ, with you in view",
+            "My heart, full of prayer, is for you."
           ],
           "v4": [
-            "God's heart longs, desires that we, His lovers, seek Him corporately. On each other spent constantly; My life is for you, and yours for me."
+            "God's heart longs, desires that we,",
+            "His lovers, seek Him corporately.",
+            "On each other spent constantly;",
+            "My life is for you, and yours for me."
           ],
           "v5": [
-            "I want to encourage you all.   Without your supply I would fall. Never think that your Christ is small. Christ needs you, and so do we all."
+            "I want to encourage you all.",
+            "Without your supply I would fall.",
+            "Never think that your Christ is small.",
+            "Christ needs you, and so do we all."
           ],
           "c1": [
             "I live, if you stand firm in the Lord.",
@@ -8210,21 +8765,20 @@
         "title": "Hallelujah For The Cross",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 c1",
+        "presentation": "v1 c1 v2 c1 v3 c1",
         "key": "G",
         "lyrics": {
           "v1": [
             "Up to the hill of Calvary, my Savior went courageously",
             "and there He bled and died for me, Hallelujah for the cross",
-            "And on that day the world was changed,",
-            "a final, perfect Lamb was slain",
+            "And on that day the world was changed, a final, perfect Lamb was slain",
             "Let earth and heaven now proclaim, Hallelujah for the cross"
           ],
           "v2": [
             "What good I've done could never save, my debt too great for deeds to pay",
-            "But God, my Savior, made a way, Hallelujah for the cross A slave to sin, my life was bound,",
-            "but all my chains fell to the ground When Jesus' blood came flowing down,",
-            "Hallelujah for the cross"
+            "But God, my Savior, made a way, Hallelujah for the cross",
+            "A slave to sin, my life was bound, but all my chains fell to the ground",
+            "When Jesus' blood came flowing down, Hallelujah for the cross"
           ],
           "v3": [
             "And when I breathe my final breath,",
@@ -8242,7 +8796,7 @@
         "title": "Reigning  Life",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 v4 v5 c1",
+        "presentation": "v1 c1 v2 c1 v3 c1 v4 c1 v5 c1",
         "key": "D",
         "lyrics": {
           "v1": [
@@ -8252,19 +8806,28 @@
             "As I live before Your face."
           ],
           "v2": [
-            "Sin, you helpless little fellow, Lost your pow'r on Calvary.",
-            "I have made exchange of masters, Now it's Christ who rules in me."
+            "Sin, you helpless little fellow,",
+            "Lost your pow'r on Calvary.",
+            "I have made exchange of masters,",
+            "Now it's Christ who rules in me."
           ],
           "v3": [
-            "World, with all your little trappings, You oppress with doubts and cares. I have found a new provider,",
+            "World, with all your little trappings,",
+            "You oppress with doubts and cares.",
+            "I have found a new provider,",
             "My anxiety He bears."
           ],
           "v4": [
-            "Self, you cruel manipulator, You are wholly crucified,",
-            "I have no more need to struggle, In Christ's vict'ry I abide!"
+            "Self, you cruel manipulator,",
+            "You are wholly crucified,",
+            "I have no more need to struggle,",
+            "In Christ's vict'ry I abide!"
           ],
           "v5": [
-            "Lord, when You return in glory, When You then the kingdom bring; By Your life my Lord then make me Manifested as a king."
+            "Lord, when You return in glory,",
+            "When You then the kingdom bring;",
+            "By Your life my Lord then make me",
+            "Manifested as a king."
           ],
           "c1": [
             "By Your life, Lord, I am reigning.",
@@ -8279,16 +8842,19 @@
         "title": "Pleasing To You",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 c1",
+        "presentation": "v1 c1 v2 c1",
         "key": "D",
         "lyrics": {
           "v1": [
-            "Sanctify me,clean out my closet",
+            "Sanctify me, clean out my closet",
             "Take away anything, that is not pleasing to You",
+            "Purify me, destroy all my anger",
             "Wash away everything, that is not pleasing to You"
           ],
           "v2": [
-            "Sanctify me, You are the light to guide me To the place where I am, only pleasing to You Purify me, I need Your light inside me",
+            "Sanctify me, You are the light to guide me",
+            "To the place where I am, only pleasing to You",
+            "Purify me, I need Your light inside me",
             "So the darkness flees, and I can be pleasing to You"
           ],
           "c1": [
@@ -8310,7 +8876,7 @@
         "title": "Man Of Sorrows",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 v4 c2 b1",
+        "presentation": "v1 c1 v2 c1 v3 c1 v4 c1 b1",
         "key": "D",
         "lyrics": {
           "v1": [
@@ -8318,10 +8884,12 @@
             "The sin of man and wrath of God, has been on Jesus laid"
           ],
           "v2": [
-            "Silent as He stood accused, beaten mocked and scorned Bowing to the Father's will, He took a crown of thorns"
+            "Silent as He stood accused, beaten mocked and scorned",
+            "Bowing to the Father's will, He took a crown of thorns"
           ],
           "v3": [
-            "Sent of heaven God's own Son, to purchase and redeem And reconcile the very ones, who nailed Him to that tree"
+            "Sent of heaven God's own Son, to purchase and redeem",
+            "And reconcile the very ones, who nailed Him to that tree"
           ],
           "v4": [
             "See the stone is rolled away, behold the empty tomb",
@@ -8346,7 +8914,7 @@
         "title": "I Need Thee Every Hour",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 v4 v5 c1",
+        "presentation": "v1 c1 v2 c1 v3 c1 v4 c1 v5 c1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -8356,18 +8924,28 @@
             "Can peace afford."
           ],
           "v2": [
-            "I need Thee every hour, Stay Thou near by; Temptations lose their pow'r              When Thou art nigh."
+            "I need Thee every hour,",
+            "Stay Thou near by;",
+            "Temptations lose their pow'r",
+            "When Thou art nigh."
           ],
           "v3": [
-            "I need Thee every hour, In joy or pain;",
-            "Come quickly and abide, Or life is vain."
+            "I need Thee every hour,",
+            "In joy or pain;",
+            "Come quickly and abide,",
+            "Or life is vain."
           ],
           "v4": [
-            "I need Thee every hour, Teach me Thy will; And Thy rich promises In me fulfill."
+            "I need Thee every hour,",
+            "Teach me Thy will;",
+            "And Thy rich promises",
+            "In me fulfill."
           ],
           "v5": [
-            "I need Thee every hour, Most Holy One;",
-            "Oh, make me Thine indeed, Thou blessΘd Son."
+            "I need Thee every hour,",
+            "Most Holy One;",
+            "Oh, make me Thine indeed,",
+            "Thou blessed Son."
           ],
           "c1": [
             "I need Thee, Oh, I need Thee;",
@@ -8382,7 +8960,7 @@
         "title": "Wake Up",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 c2 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "Bm",
         "lyrics": {
           "v1": [
@@ -8399,13 +8977,20 @@
             "Hands up, hands up, hands up all believers",
             "Take up your cross carry it on"
           ],
-          "c2": [
+          "p1": [
             "'Cause we have seen the hope of Your healing",
             "Rising from our souls is the feeling",
             "We are drawing close Your light is shining through"
           ],
           "b1": [
-            "Here we stand our hearts are Yours;"
+            "Here we stand our hearts are Yours;",
+            "Not our will but Yours be done",
+            "Here we stand our hearts are Yours;",
+            "Not our will but Yours be done",
+            "Here we stand our hearts are Yours;",
+            "Not our will but Yours be done",
+            "Here we stand our hearts are Yours;",
+            "Not our will but Yours be done"
           ]
         }
       },
@@ -8424,24 +9009,40 @@
             "Joyful choose the better part."
           ],
           "v2": [
-            "Idols once they won thee, charmed thee, Lovely things of time and sense;",
-            "Gilded thus does sin disarm thee, Honeyed lest thou turn thee thence."
+            "Idols once they won thee, charmed thee,",
+            "Lovely things of time and sense;",
+            "Gilded thus does sin disarm thee,",
+            "Honeyed lest thou turn thee thence."
           ],
           "v3": [
-            "What has stripped the seeming beauty From the idols of the earth?",
-            "Not a sense of right or duty, But the sight of peerless worth."
+            "What has stripped the seeming beauty",
+            "From the idols of the earth?",
+            "Not a sense of right or duty,",
+            "But the sight of peerless worth."
           ],
           "v4": [
-            "Not the crushing of those idols, With its bitter void and smart; But the beaming of His beauty, The unveiling of His heart."
+            "Not the crushing of those idols,",
+            "With its bitter void and smart;",
+            "But the beaming of His beauty,",
+            "The unveiling of His heart."
           ],
           "v5": [
-            "Who extinguishes their taper Till they hail the rising sun? Who discards the garb of winter Till the summer has begun?"
+            "Who extinguishes their taper",
+            "Till they hail the rising sun?",
+            "Who discards the garb of winter",
+            "Till the summer has begun?"
           ],
           "v6": [
-            "'Tis that look that melted Peter,  'Tis that face that Stephen saw,   'Tis that heart that wept with Mary, Can alone from idols draw:"
+            "'Tis that look that melted Peter,",
+            "'Tis that face that Stephen saw,",
+            "'Tis that heart that wept with Mary,",
+            "Can alone from idols draw:"
           ],
           "v7": [
-            "Draw and win and fill completely, Till the cup o'erflow the brim; What have we to do with idols Who have companied with Him?"
+            "Draw and win and fill completely,",
+            "Till the cup o'erflow the brim;",
+            "What have we to do with idols",
+            "Who have companied with Him?"
           ],
           "c1": [
             "Captivated by His beauty,",
@@ -8456,36 +9057,47 @@
         "title": "Simply Loving Everyday",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 v4 c1",
+        "presentation": "v1 c1 v2 c1 v3 c1 v4 c1",
         "key": "D",
         "lyrics": {
           "v1": [
             "Simply loving everyday;",
             "Loving through a stormy way,",
-            "Em — A",
             "Even when my faith is small,",
             "Loving Jesus, that is all."
           ],
           "v2": [
-            "Brightly doth His Spirit shine Into this poor heart of mine; While He leads I cannot fall, Loving Jesus, that is all."
+            "Brightly doth His Spirit shine",
+            "Into this poor heart of mine;",
+            "While He leads I cannot fall,",
+            "Loving Jesus, that is all."
           ],
           "v3": [
-            "Singing if my way be clear, Praying if the path be drear; If in danger, for Him call, Loving Jesus, that is all."
+            "Singing if my way be clear,",
+            "Praying if the path be drear;",
+            "If in danger, for Him call,",
+            "Loving Jesus, that is all."
           ],
           "v4": [
-            "Loving Him while life shall last, Loving Him till earth is past, Till His gracious advent call, Loving Jesus, that is all."
+            "Loving Him while life shall last,",
+            "Loving Him till earth is past,",
+            "Till His gracious advent call,",
+            "Loving Jesus, that is all."
           ],
           "c1": [
-            "Loving as the moments fly, Loving as the days go by, Loving Him whate'er befall, Loving Jesus, that is all."
+            "Loving as the moments fly,",
+            "Loving as the days go by,",
+            "Loving Him whate'er befall,",
+            "Loving Jesus, that is all."
           ]
         }
       },
       {
         "songNumber": 245,
-        "title": "Multiply Your Love (there s No Height)",
+        "title": "Multiply Your Love (There's No Height)",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 c1 c2",
+        "presentation": "v1 c1 c2 v2 c1 c2 v3 c1 c2",
         "key": "D",
         "lyrics": {
           "v1": [
@@ -8500,23 +9112,37 @@
           ],
           "v2": [
             "Multiply Your love through me To someone in need",
-            "Help me Lord to freely give This grace that I've received Let my single purpose be To live out Your life",
-            "Through my simple words and deeds Let Love be multiplied"
+            "Help me Lord to freely give",
+            "This grace that I've received",
+            "Let my single purpose be",
+            "To live out Your life",
+            "Through my simple words and deeds",
+            "Let Love be multiplied"
           ],
           "v3": [
-            "Multiply Your Church through us To the ends of the earth",
-            "Where there's only barrenness Let us see new birth",
-            "Use us as Your laborers Working side by side",
-            "Let us see Your harvest come Let love be multiplied."
+            "Multiply Your Church through us",
+            "To the ends of the earth",
+            "Where there's only barrenness",
+            "Let us see new birth",
+            "Use us as Your laborers",
+            "Working side by side",
+            "Let us see Your harvest come",
+            "Let love be multiplied."
           ],
           "c1": [
-            "There's no height, there's no depth Tribulation or pow'r",
-            "That can conquer Your love Freely given to all",
+            "There's no height, there's no depth",
+            "Tribulation or pow'r",
+            "That can conquer",
+            "Your love",
+            "Freely given to all",
             "You died our souls to save",
             "There is no greater love than this"
           ],
           "c2": [
-            "Now from darkness to light Sons and daughters now found Oh, You've captured our hearts, Help us live out Your love",
+            "Now from darkness to light",
+            "Sons and daughters now found",
+            "Oh, You've captured our hearts,",
+            "Help us live out Your love",
             "You died our souls to save",
             "There is no greater love than this."
           ]
@@ -8541,21 +9167,34 @@
             "The gladness the Comforter brings."
           ],
           "v2": [
-            "I have come to the Fountain of Blood That for guilt and uncleanness doth flow;",
-            "I have washed in its sin-cleansing flood And my garments are whiter than snow.",
+            "I have come to the Fountain of Blood",
+            "That for guilt and uncleanness doth flow;",
+            "I have washed in its sin-cleansing flood",
+            "And my garments are whiter than snow.",
             "I count not my righteousness mine—",
             "'Tis Jesus that lives in my soul.",
-            "I partake of His nature divine, And in Him I am perfectly whole."
+            "I partake of His nature divine,",
+            "And in Him I am perfectly whole."
           ],
           "v3": [
-            "I have come to the Fountain of Health, A boundless and endless supply;",
-            "'Tis a secret man's wisdom or wealth Can never discover or buy.",
-            "But the secret my Lord hath revealed In the fountain that flows from His side,",
-            "In the stripes by whose pain we are healed, In Himself as He comes to abide."
+            "I have come to the Fountain of Health,",
+            "A boundless and endless supply;",
+            "'Tis a secret man's wisdom or wealth",
+            "Can never discover or buy.",
+            "But the secret my Lord hath revealed",
+            "In the fountain that flows from His side,",
+            "In the stripes by whose pain we are healed,",
+            "In Himself as He comes to abide."
           ],
           "v4": [
-            "I have come to the Fountain of Joy; His joy is the strength of my heart. My delight is unmixed with alloy, My sunshine can never depart. The fig tree may wither and die,",
-            "Earth's pleasures and prospects decline; But my fountains can never be dry— My portion, my joy is divine."
+            "I have come to the Fountain of Joy;",
+            "His joy is the strength of my heart.",
+            "My delight is unmixed with alloy,",
+            "My sunshine can never depart.",
+            "The fig tree may wither and die,",
+            "Earth's pleasures and prospects decline;",
+            "But my fountains can never be dry—",
+            "My portion, my joy is divine."
           ],
           "c1": [
             "Oh, come to the Fountain of Life,",
@@ -8570,7 +9209,7 @@
         "title": "How He Loves",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 c1",
+        "presentation": "v1 p1 c1 v2 p1 c1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -8595,7 +9234,7 @@
             "He loves us, oh how He loves us,",
             "Oh how He loves us, oh how He loves."
           ],
-          "c2": [
+          "p1": [
             "And oh, how He loves us oh",
             "Oh how He loves us,",
             "How He loves us all"
@@ -8607,7 +9246,7 @@
         "title": "Open Up Our Eyes",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 c2 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 v3 p1 c1 b1",
         "key": "Em",
         "lyrics": {
           "v1": [
@@ -8616,7 +9255,9 @@
             "He will never fail"
           ],
           "v2": [
-            "Stronger is the One within us Stronger is the One Who fights for us He will never fail, You will never fail"
+            "Stronger is the One within us",
+            "Stronger is the One Who fights for us",
+            "He will never fail, You will never fail"
           ],
           "v3": [
             "Mighty is the One Who's for us   Mighty is the One Who's strong to save",
@@ -8627,7 +9268,7 @@
             "Surround us with Your light",
             "Your love endures forever"
           ],
-          "c2": [
+          "p1": [
             "For Your love endures forever",
             "Oh, Your love endures forever"
           ],
@@ -8664,22 +9305,31 @@
             "My love and all that I have."
           ],
           "v2": [
-            "As I love You I set my being— My spirit, my soul and body.",
-            "With my heart, my mind, and my strength, Absolutely on Thee.",
+            "As I love You I set my being—",
+            "My spirit, my soul and body.",
+            "With my heart, my mind, and my strength,",
+            "Absolutely on Thee.",
             "Lord, I let my entire being Be occupied by Thee",
             "As I enter in Your heart",
             "I sense a fellowship sweet.",
             "Occupied and lost in You;",
-            "My Lord, You're my everything. Fellowship so intimate;",
+            "My Lord, You're my everything.",
+            "Fellowship so intimate;",
             "In spirit Lord I enjoy Thee."
           ],
           "v3": [
-            "Lord there's none in heav'n nor on earth That I desire but Thee.",
-            "Though my heart and flesh faileth, Lord, Thou ever my portion will be.",
+            "Lord there's none in heav'n nor on earth",
+            "That I desire but Thee.",
+            "Though my heart and flesh faileth, Lord,",
+            "Thou ever my portion will be.",
             "All is vanity, all is dung;",
-            "I count all other things loss; Everything else drains my love But You have captured my heart.",
-            "Lord, I've seen Thy preciousness, Thy worth, Thy reality.",
-            "Now, my Lord, I must confess My heart is only for Thee."
+            "I count all other things loss;",
+            "Everything else drains my love",
+            "But You have captured my heart.",
+            "Lord, I've seen Thy preciousness,",
+            "Thy worth, Thy reality.",
+            "Now, my Lord, I must confess",
+            "My heart is only for Thee."
           ]
         }
       }
