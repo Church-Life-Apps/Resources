@@ -238,7 +238,7 @@
         "title": "I Lift My Hands",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -259,7 +259,7 @@
             "As I pour out my heart, these things I remember",
             "You are faithful, God, forever"
           ],
-          "c2": [
+          "p1": [
             "Let faith arise, let faith arise"
           ],
           "b1": [
@@ -317,7 +317,7 @@
         "title": "Made To Worship",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "hymn": "10",
         "key": "G",
         "capo": "",
@@ -334,11 +334,11 @@
             "Brought to life we open up our eyes",
             "To see the majesty and glory of the King"
           ],
-          "c1": [
+          "p1": [
             "He has filled our hearts with wonder",
             "So that we always remember"
           ],
-          "c2": [
+          "c1": [
             "You and I are made to worship",
             "You and I are called to love",
             "You and I are forgiven and free",
@@ -471,7 +471,7 @@
         "title": "Blessed Be Your Name",
         "author": "",
         "music": "",
-        "presentation": "v1 p c1 v2 p c1 b c1 ]",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1 c1",
         "key": "C",
         "lyrics": {
           "v1": [
@@ -494,11 +494,11 @@
             "Though there's pain in the offering",
             "Blessed be Your name"
           ],
-          "c1": [
+          "p1": [
             "Every blessing You pour out I'll turn back to praise",
             "When the darkness closes in Lord still I will say:"
           ],
-          "c2": [
+          "c1": [
             "Blessed be the name of the Lord",
             "Blessed be Your name (Jesus!)",
             "Blessed be the name of the Lord",
@@ -717,7 +717,7 @@
         "title": "Did You Feel The Mountains Tremble",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 c2 c1 v3 c3 c1",
+        "presentation": "v1 v2 p1 c1 v3 p2 c1",
         "key": "C",
         "lyrics": {
           "v1": [
@@ -751,7 +751,7 @@
             "Fling wide you heavenly gates,",
             "Prepare the way of the risen Lord."
           ],
-          "c3": [
+          "p2": [
             "And here we see that God You're moving.",
             "A time of jubilee is coming.",
             "When young and old return to Jesus.",
@@ -941,7 +941,7 @@
         "title": "You Never Let Go",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "C",
         "lyrics": {
           "v1": [
@@ -965,7 +965,7 @@
             "Oh, no, You never let go",
             "Lord You never let go of me"
           ],
-          "c2": [
+          "p1": [
             "And I will fear no evil",
             "For my God is with me",
             "And if my God is with me",
@@ -1464,7 +1464,7 @@
         "title": "My Savior My God",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 v2 c1 c2 v3 c1",
+        "presentation": "v1 p1 c1 v2 p1 c1 v3 p1 c1",
         "key": "Bm7",
         "lyrics": {
           "v1": [
@@ -1491,7 +1491,7 @@
             "My God He was, my God He is",
             "My God is always gonna be"
           ],
-          "c2": [
+          "p1": [
             "That He would leave His place on high",
             "And come for sinful man to die",
             "You count it strange so once did I",
@@ -1504,7 +1504,7 @@
         "title": "You'll Come",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 c2 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "E",
         "lyrics": {
           "v1": [
@@ -1519,12 +1519,12 @@
             "Our Mighty Deliverer, Our Triumph and Truth",
             "We wait upon You, Lord."
           ],
-          "c1": [
+          "p1": [
             "As surely as the sun will rise,",
             "You'll come to us",
             "Certain as the dawn appears."
           ],
-          "c2": [
+          "c1": [
             "You'll come, let Your glory fall",
             "As You respond to us",
             "Spirit reign, flood into our thirsty hearts again",
@@ -1633,7 +1633,7 @@
         "title": "My Redeemer Lives",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 v2 c1 c2 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "E7",
         "lyrics": {
           "v1": [
@@ -1656,7 +1656,7 @@
             "My Redeemer lives",
             "My Redeemer lives"
           ],
-          "c2": [
+          "p1": [
             "I'll raise a banner",
             "'Cause my Lord has conquered the grave"
           ],
@@ -1708,7 +1708,7 @@
         "title": "Marvelous Light",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 c2 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -1723,11 +1723,11 @@
             "My dead heart now is beating, my deepest stains now clean",
             "Your breath fills up my lungs, now I'm free now I'm free."
           ],
-          "c1": [
+          "p1": [
             "Sin has lost its power, death has lost its sting",
             "From the grave You've risen, victoriously"
           ],
-          "c2": [
+          "c1": [
             "Into marvelous light I'm running",
             "Out of darkness out of shame",
             "By the cross You are the Truth",
@@ -1785,7 +1785,7 @@
         "title": "Now That You re Near",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 v2 c1 c1",
+        "presentation": "v1 p1 c1 v2 p1 c1",
         "key": "Intro  (E   F#m   E/G#  A) 2x E",
         "lyrics": {
           "v1": [
@@ -1809,7 +1809,7 @@
             "I want to be with You",
             "I want to be with You"
           ],
-          "c2": [
+          "p1": [
             "Holding on to You",
             "Never letting go",
             "I'm gonna spend eternity with You"
@@ -1821,7 +1821,7 @@
         "title": "Promises",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 b1",
+        "presentation": "v1 p1 c1 b1",
         "key": "D",
         "lyrics": {
           "v1": [
@@ -1832,11 +1832,11 @@
             "I am seeking the truth every day",
             "Jesus my heart has been changed by You"
           ],
-          "c1": [
+          "p1": [
             "I couldn't walk away if I tried",
             "'Cause Your Love is better than life"
           ],
-          "c2": [
+          "c1": [
             "The sun's shining bright and it just won't set",
             "'Cause Your Love is alive and it lights my step",
             "My heart is amazed every day to the next",
@@ -2056,7 +2056,7 @@
         "title": "Counting On God",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 b1",
+        "presentation": "v1 p1 c1 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -2066,11 +2066,11 @@
             "And I want more",
             "I want all that's Yours"
           ],
-          "c1": [
+          "p1": [
             "I am counting on, I am counting on God",
             "I am counting on, I am counting on God(2x)"
           ],
-          "c2": [
+          "c1": [
             "Joy unspeakable that won't go away",
             "And just enough strength to live for today",
             "So I never have to worry what tomorrow will bring",
@@ -2347,7 +2347,7 @@
         "title": "Our God Saves",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c1",
+        "presentation": "v1 p1 c1",
         "key": "D",
         "lyrics": {
           "v1": [
@@ -2356,13 +2356,13 @@
             "We're gathered together to lift up Your Name",
             "To call on our Savior to fall on Your Grace"
           ],
-          "c1": [
+          "p1": [
             "Our God saves our God saves",
             "There is hope in Your Name",
             "Mourning turns to songs of praise",
             "Our God saves our God saves"
           ],
-          "c2": [
+          "c1": [
             "Hear the joyful sound of our offering",
             "Asus",
             "As Your saints bow down as Your people sing",
@@ -2503,7 +2503,7 @@
         "title": "Hope Of The Nations",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c1",
+        "presentation": "v1 p1 c1",
         "key": "A",
         "lyrics": {
           "v1": [
@@ -2523,7 +2523,7 @@
             "Jesus our hope living for all who will receive",
             "Lord we believe"
           ],
-          "c2": [
+          "p1": [
             "In history You lived and died",
             "You broke the chains You rose to life"
           ]
@@ -2834,7 +2834,7 @@
         "title": "Like A Lion",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "Em",
         "lyrics": {
           "v1": [
@@ -2853,7 +2853,7 @@
             "He's living on the inside",
             "Roaring like a lion"
           ],
-          "c2": [
+          "p1": [
             "Now I'm lost in Your freedom",
             "This world I'll overcome"
           ],
@@ -3151,7 +3151,7 @@
         "title": "Ready For You",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -3168,7 +3168,7 @@
             "I am ready for You",
             "To come and fill my soul."
           ],
-          "c2": [
+          "p1": [
             "Come and take my life.",
             "Make my soul refreshed in truth now"
           ],
@@ -3351,7 +3351,7 @@
         "title": "For All You ve Done",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c1",
+        "presentation": "v1 p1 c1",
         "key": "E",
         "guitar": "E",
         "misc": "",
@@ -3369,7 +3369,7 @@
             "For the world to live again",
             "Hallelujah, for all You've done"
           ],
-          "c2": [
+          "p1": [
             "'Cause You came near",
             "From the everlasting",
             "To the world we live",
@@ -3815,7 +3815,7 @@
         "title": "Hosanna",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -3834,7 +3834,7 @@
             "Come have Your way among us",
             "We welcome You here Lord Jesus"
           ],
-          "c2": [
+          "p1": [
             "'Cause when we see You we find strength to face the day",
             "In Your presence all our fears are washed away, washed away"
           ],
@@ -3849,7 +3849,7 @@
         "title": "Praise The Lord God Sent His Son",
         "author": "",
         "music": "Pete Seeger, 1955",
-        "presentation": "v1 c2 v2 c2 v3 c2 v4 c2",
+        "presentation": "v1 c1 v2 c1 v3 c1 v4 c2",
         "key": "C",
         "guitar": "C",
         "time": "4/4",
@@ -4760,7 +4760,7 @@
         "title": "Heart Of Worship",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1",
+        "presentation": "v1 p1 c1 v2 p1 c1",
         "key": "E",
         "lyrics": {
           "v1": [
@@ -4779,7 +4779,7 @@
             "I'm sorry, Lord, for the thing I've made it",
             "And it's all about You, It's all about You, Jesus"
           ],
-          "c2": [
+          "p1": [
             "I'll bring You more than a song, for a song in itself",
             "Is not what You have required",
             "You search much deeper within, through the way things appear",
@@ -4792,7 +4792,7 @@
         "title": "Who Am I",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -4813,7 +4813,7 @@
             "Lord, You catch me when I'm falling",
             "And You've told me who I am, I am yours..."
           ],
-          "c2": [
+          "p1": [
             "Not because of who I am, but because of what You've done",
             "Not because of what I've done, but because of who You are"
           ],
@@ -4989,7 +4989,7 @@
         "title": "You Fill Me Lord Jesus",
         "author": "",
         "music": "",
-        "presentation": "v1 c2 v2 b1 v3",
+        "presentation": "v1 v2 v3",
         "key": "G",
         "date composed": "",
         "misc": "Sat, Aug 20, 2016",
@@ -5030,7 +5030,7 @@
         "title": "King Of Majesty",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 v2 c1 c1",
+        "presentation": "v1 v2 p1 c1",
         "key": "",
         "lyrics": {
           "v1": [
@@ -5045,7 +5045,7 @@
             "Jesus, You are the Savior of my soul",
             "And forever and ever I'll live my life unto You"
           ],
-          "c2": [
+          "p1": [
             "King of majesty",
             "I have one desire",
             "Just to be with You, my Lord",
@@ -5058,7 +5058,7 @@
         "title": "Wonderful Maker",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 c1 c2 v3 c1 c2",
+        "presentation": "v1 v2 p1 c1 v3 p1 c1",
         "key": "C2",
         "lyrics": {
           "v1": [
@@ -5077,7 +5077,7 @@
             "And we have only heard",
             "The faintest whispers of how great You are."
           ],
-          "c2": [
+          "c1": [
             "What a wonderful Maker",
             "What a beautiful Savior",
             "How majestic Your whispers",
@@ -5087,7 +5087,7 @@
             "How majestic Your whispers",
             "What a wonderful God"
           ],
-          "c1": [
+          "p1": [
             "You made the world and saw that it was good",
             "You sent Your only Son for You are good"
           ]
@@ -5098,7 +5098,7 @@
         "title": "Follow",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 b1",
+        "presentation": "v1 p1 c1 b1",
         "key": "",
         "lyrics": {
           "v1": [
@@ -5112,7 +5112,7 @@
           "c1": [
             "I'll follow, follow You, follow, Jesus"
           ],
-          "c2": [
+          "p1": [
             "And You're the One",
             "And I will live for You, my King"
           ],
@@ -5405,7 +5405,7 @@
         "title": "Give Me Faith",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -5425,7 +5425,7 @@
             "That You're good and Your love is great",
             "I'm broken inside, I give You my life"
           ],
-          "c2": [
+          "p1": [
             "All I am",
             "I surrender"
           ],
@@ -5442,7 +5442,7 @@
         "title": "You Deserve",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "C#m",
         "guitar": "C#m",
         "lyrics": {
@@ -5465,7 +5465,7 @@
             "Now with all we've got, we live",
             "For You our God"
           ],
-          "c2": [
+          "p1": [
             "You've shown me life You've opened my eyes",
             "So I give You my praise Yeah I give You my all",
             "You've shown me life You've opened my eyes",
@@ -5736,7 +5736,7 @@
         "title": "Beautiful The Blood",
         "author": "",
         "music": "",
-        "presentation": "v1 c1 c2 v2 c1",
+        "presentation": "v1 p1 c1 v2 p1 c1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -5759,7 +5759,7 @@
             "The King of Glory poured out.",
             "Victorious are we now."
           ],
-          "c2": [
+          "p1": [
             "Now I sing freedom for all of my days",
             "It's only by the power of the cross I'm raised",
             "The King of Glory rescued me."
@@ -5930,7 +5930,7 @@
         "title": "Overcome",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 v3 b1",
+        "presentation": "v1 v2 p1 c1 v3 p1 c1 b1",
         "key": "G",
         "lyrics": {
           "v1": [
@@ -5945,13 +5945,13 @@
             "Power in hand speaking the Father's plan",
             "You're sending us out, light in this broken land"
           ],
-          "c1": [
+          "p1": [
             "All authority",
             "Every victory is Yours",
             "All authority",
             "Every victory is Yours"
           ],
-          "c2": [
+          "c1": [
             "Savior, worthy of honor and glory",
             "Worthy of all our praise,",
             "You overcame",
@@ -6060,7 +6060,7 @@
         "title": "Go",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 b1",
+        "presentation": "v1 p1 c1 v2 p1 c1 b1",
         "key": "",
         "date composed": "",
         "misc": "Tue, Apr 26, 2016",
@@ -6082,7 +6082,7 @@
             "Set free to show the truth",
             "Our lives will never be the same"
           ],
-          "c2": [
+          "p1": [
             "We're giving it all away, away",
             "We're giving it all to go Your way"
           ],
@@ -6172,7 +6172,7 @@
         "title": "Everlasting God",
         "author": "",
         "music": "",
-        "presentation": "v1",
+        "presentation": "v1 p1 c1",
         "key": "",
         "lyrics": {
           "v1": [
@@ -6180,11 +6180,11 @@
             "we will wait upon the Lord",
             "we will wait upon the Lord (repeat)"
           ],
-          "c1": [
+          "p1": [
             "Our God You reign forever",
             "Our hope Our strong delivrer"
           ],
-          "c2": [
+          "c1": [
             "You are the everlasting God",
             "the everlasting God",
             "You do not faint You won't grow weary",
@@ -6199,7 +6199,7 @@
         "title": "God Of This City",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 c1 c2",
+        "presentation": "v1 v2 p1 c1",
         "key": "Am7",
         "lyrics": {
           "v1": [
@@ -6214,11 +6214,11 @@
             "You're the peace to the restless",
             "You are"
           ],
-          "c1": [
+          "p1": [
             "There is no one like our God",
             "There is no one like our God"
           ],
-          "c2": [
+          "c1": [
             "Greater things have yet to come",
             "Greater things are still to be done",
             "In this city",
@@ -6529,7 +6529,7 @@
         "title": "The Difference",
         "author": "",
         "music": "",
-        "presentation": "v1 v2 b1",
+        "presentation": "v1 p1 c1 v2 b1",
         "key": "F#m",
         "lyrics": {
           "v1": [
@@ -6544,11 +6544,11 @@
             "Though we were destined to fail",
             "You opened the way and broke every chain"
           ],
-          "c1": [
+          "p1": [
             "Lord, You bring us to life",
             "In You, our hope will arise"
           ],
-          "c2": [
+          "c1": [
             "We are found, there's nothing that can hold us down",
             "With anything against us",
             "We know Your love will be the difference, be the difference",
@@ -6895,7 +6895,7 @@
         "title": "Amazing Love",
         "author": "",
         "music": "",
-        "presentation": "v1 c2 v2 c1",
+        "presentation": "v1 c1 v2 c1",
         "key": "D/F#",
         "lyrics": {
           "v1": [
@@ -6954,7 +6954,7 @@
         "title": "Endlessly",
         "author": "",
         "music": "",
-        "presentation": "v1",
+        "presentation": "v1 p1 c1",
         "key": "E",
         "lyrics": {
           "v1": [
@@ -6965,13 +6965,13 @@
             "Everything You are,",
             "I love You endlessly."
           ],
-          "c1": [
+          "p1": [
             "You love me,",
             "Before I knew of You,",
             "You love me,",
             "Now I give it back to You."
           ],
-          "c2": [
+          "c1": [
             "With Your Majesty here,",
             "I fall to my knees,",
             "I love You endlessly,",
