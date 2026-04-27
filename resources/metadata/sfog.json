@@ -359,9 +359,7 @@
           "When you and I embrace surrender",
           "When you and I choose to believe",
           "Then you and I will see",
-          "G   (To Verse 1 or 2)",
-          "Who we were meant to be",
-          "Am7    (To Verse 3)"
+          "Who we were meant to be"
         ],
         "v2": [
           "All we are and all we have",
@@ -761,7 +759,7 @@
       "pages": "40-41",
       "author": "",
       "music": "",
-      "presentation": "v1 v2 c v3",
+      "presentation": "v1 v2 pc1 c v3 pc2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -776,8 +774,9 @@
           "Did you feel the people tremble?",
           "Did you hear the singers roar?",
           "When the lost began to sing of",
-          "Jesus Christ the saving One.",
-          "Pre-chorus 1",
+          "Jesus Christ the saving One."
+        ],
+        "pc1": [
           "And we can see that God You're moving.",
           "A mighty river through the nations.",
           "And young and old will turn to Jesus.",
@@ -794,8 +793,9 @@
           "Do you feel the darkness tremble,",
           "When all the saints join in one song?",
           "And all the streams flow as one river,",
-          "To wash away our brokenness.",
-          "Pre-chorus 2",
+          "To wash away our brokenness."
+        ],
+        "pc2": [
           "And here we see that God You're moving.",
           "A time of jubilee is coming.",
           "When young and old return to Jesus.",
@@ -949,9 +949,7 @@
           "I wanna sign Your name",
           "To the end of this day",
           "Knowing that my heart was true",
-          "Am               C   G   Em D (To Verse 1 or 2)",
-          "Let my lifesong sing to You",
-          "G (To Verse 3)"
+          "Let my lifesong sing to You"
         ],
         "v2": [
           "Lord I give my life, a living sacrifice",
@@ -1442,17 +1440,19 @@
       "pages": "60",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 v2",
+      "presentation": "c1 c2 v1 v2",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
-        "v1": [
-          "Chorus 1",
+        "c1": [
           "I will praise You, O Lord my God",
-          "With all of my heart I will glorify Your name forever.",
-          "Chorus 2",
-          "Great is Your love to me, You have delivered me.",
+          "With all of my heart I will glorify Your name forever."
+        ],
+        "c2": [
+          "Great is Your love to me, You have delivered me."
+        ],
+        "v1": [
           "Hear the passion of my prayer, O Lord,",
           "All of my life I give to praise Your name.",
           "Your forgiveness and Your mercy are the only way",
@@ -1672,7 +1672,7 @@
       "pages": "66",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 v3",
+      "presentation": "v1 c v2 v3 v4",
       "time": "",
       "meter": "",
       "theme": "",
@@ -1702,13 +1702,19 @@
           "I’d never felt before . . ."
         ],
         "v3": [
-          "4)",
-          "Then as I called on Jesus,                           And now I’m full and happy,",
-          "I felt that I’d been found.                          So satisfied with Him",
-          "I was so full I was calling                          Because He has come and",
-          "“Jesus” right out loud!                                filled me",
-          "I’d never dreamed that I could                       Clear up past the brim!",
-          "Know reality by . . .                                His life is now my portion,",
+          "Then as I called on Jesus,",
+          "I felt that I’d been found.",
+          "I was so full I was calling",
+          "“Jesus” right out loud!",
+          "I’d never dreamed that I could",
+          "Know reality by . . ."
+        ],
+        "v4": [
+          "And now I’m full and happy,",
+          "So satisfied with Him",
+          "Because He has come and filled me",
+          "Clear up past the brim!",
+          "His life is now my portion,",
           "I’ll go on all my life, just . . ."
         ]
       }
@@ -1882,19 +1888,16 @@
       "pages": "71",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 v2 pc c",
+      "presentation": "v1 v2 pc c",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro (E F#m E/G# A) 2x",
           "I stand before You Lord",
           "And give You all my praise",
           "Your love is all I need",
-          "B                       E   (To Verse 2)",
-          "Jesus You're all I need",
-          "C#m         (To Verse 3)"
+          "Jesus You're all I need"
         ],
         "v2": [
           "My life belongs to You",
@@ -2233,13 +2236,12 @@
       "pages": "80-81",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 v2 v3 v4",
+      "presentation": "v1 v2 v3 v4",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "(Tune 1)",
           "If I gained the world, but lost the Savior,",
           "Were my life worth living for a day?",
           "Could my yearning heart find rest and comfort?",
@@ -2247,8 +2249,7 @@
           "If I gained the world, but lost the Savior",
           "Would my gain be worth the life-long strife?",
           "Are all earthly pleasures worth comparing",
-          "For a moment with a Christ-filled life?",
-          "(Tune 2)"
+          "For a moment with a Christ-filled life?"
         ],
         "v2": [
           "Had I wealth and love in fullest measure,",
@@ -2302,7 +2303,6 @@
           "That’s all you have to do!",
           "We’ve found that calling on Jesus fills us within.",
           "He came as food, so now we take Him in!",
-          "CM7                              F9",
           "No doctrines or forms that you have to learn",
           "To come and be with us,",
           "Just enjoy the Lord Jesus!"
@@ -2809,18 +2809,16 @@
       "pages": "94",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 v2 v3 v4 v5 v6",
+      "presentation": "v1 v2 v3 v4 v5 v6",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "(New Tune)",
           "Just as I am, without one plea,",
           "But that Thy blood was shed for me,",
           "And that Thou bid'st me come to Thee,",
-          "O Lamb of God, I come! I come!",
-          "(Original Tune) (Capo 1)"
+          "O Lamb of God, I come! I come!"
         ],
         "v2": [
           "Just as I am, and waiting not",
@@ -3026,13 +3024,12 @@
       "pages": "99",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 c v2 b",
+      "presentation": "v1 c v2 b",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: Am - F - C - G",
           "Let me drink from the living water,",
           "Bringing life to my very core.",
           "In the midst of my desperation, Jesus.",
@@ -3813,13 +3810,12 @@
       "pages": "120",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 c v2 b v3",
+      "presentation": "v1 c v2 b v3",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: C#m - A - A - E",
           "Oh how strong the power of Jesus’ name",
           "It is stronger than any other name",
           "How sweet the victory that bore my shame",
@@ -4067,7 +4063,7 @@
       "pages": "127",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 v3 v4",
+      "presentation": "v1 c v2 v3 v4 c2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -4098,8 +4094,9 @@
           "Call on Him from deep within, Hallelujah!",
           "Just by calling, He comes in, Glory to God!",
           "Once you call upon His name,",
-          "Nevermore you’ll be the same.",
-          "Chorus 2",
+          "Nevermore you’ll be the same."
+        ],
+        "c2": [
           "We all (we all) must call on Him,",
           "We give (we give) our all to Him."
         ]
@@ -4591,15 +4588,13 @@
       "pages": "141",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 v2 v3 v4",
+      "presentation": "v1 v2 v3 v4",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "A           AM7                            Bm",
           "Thy mighty love, O God, constraineth me",
-          "A                   AM7                Bm",
           "As some strong tide it presseth on its way,",
           "Seeking a channel in my self-bound soul,",
           "Yearning to sweep all barriers away."
@@ -4860,7 +4855,7 @@
       "pages": "148-149",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 v3 v4 v5",
+      "presentation": "v1 c v2 v3 v4 c2 v5",
       "time": "",
       "meter": "",
       "theme": "",
@@ -4895,8 +4890,9 @@
           "I was a man who was just sin,",
           "Which issued in a life full of sins.",
           "My heart toward You was in rebellion,",
-          "But, Lord, You touched me with Your compassion.",
-          "Chorus 2",
+          "But, Lord, You touched me with Your compassion."
+        ],
+        "c2": [
           "Your love has conquered me,",
           "Even Your enemy.",
           "In love, dear Lord, You came to me.",
@@ -5033,13 +5029,12 @@
       "pages": "153",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 pc c v2 b",
+      "presentation": "v1 pc c v2 b",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: G C Em D (x2)",
           "Who am I, that the Lord of all the earth",
           "Would care to know my name, would care to feel my hurt",
           "Who am I, that the bright and morning star",
@@ -5188,13 +5183,12 @@
       "pages": "157",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 c v2 b",
+      "presentation": "v1 c v2 b",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: Em G/B C",
           "You are the source of life",
           "I can’t be left behind",
           "No one else will do",
@@ -5273,13 +5267,12 @@
       "pages": "159",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 v2 pc c",
+      "presentation": "v1 v2 pc c",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: G C Em C (x2)",
           "You know that I love You",
           "You know that I want to",
           "Know You so much more, more than I have before"
@@ -5349,13 +5342,12 @@
       "pages": "161",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 pc c b",
+      "presentation": "v1 pc c b",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: A E F#m D",
           "You’ve got me singing",
           "I’m gonna give You all my praise",
           "And all will know that",
@@ -5473,7 +5465,6 @@
           "I love You, Lord Jesus.",
           "I love You, Lord, Precious One.",
           "No other one compares to You.",
-          "(Repeat)",
           "Jesus Lord, Jesus,",
           "Dear Lord, most lovely One,",
           "No one compares to You."
@@ -5743,13 +5734,12 @@
       "pages": "170-171",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 v2 c v3 b",
+      "presentation": "v1 v2 c v3 b",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: G Em C",
           "You can take my dry bones",
           "Breathe life into this skin",
           "You called me by name",
@@ -5867,13 +5857,12 @@
       "pages": "174",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 v2 v3",
+      "presentation": "v1 v2 v3",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Order: 1, 2, 1, 2, 3",
           "Behold how good and how pleasant it is,",
           "For brethren to dwell together in unity!",
           "Behold how good and how pleasant it is,",
@@ -6022,13 +6011,12 @@
       "pages": "178",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 pc c v2",
+      "presentation": "v1 pc c v2",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro (x2): Em, C, G, D/F#",
           "I never knew death could be so sweet.",
           "I never knew surrender could feel so free.",
           "I’ve never seen such meekness in majesty",
@@ -6090,13 +6078,12 @@
       "pages": "180",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 c v2 b",
+      "presentation": "v1 c v2 b",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: (Dsus Em7 C2 )2x Dsus",
           "Lord of all creation, of water, earth, and sky",
           "The heavens are Your tabernacle,",
           "Glory to the Lord on high"
@@ -6476,13 +6463,12 @@
       "pages": "192",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 pc c",
+      "presentation": "v1 pc c",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: Am – G/B – F",
           "Strength will rise as we wait upon the Lord,",
           "we will wait upon the Lord",
           "we will wait upon the Lord (repeat)"
@@ -6543,13 +6529,12 @@
       "pages": "194",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 c i",
+      "presentation": "v1 c i",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: Am – Em – F - C - Csus2",
           "You gave me hope",
           "You made me whole at the cross",
           "You took my place",
@@ -6563,9 +6548,7 @@
           "Hear the angels cry, singing",
           "Holy is the Lord"
         ],
-        "i": [
-          "C – G - Am- F (x2)"
-        ]
+        "i": []
       }
     },
     {
@@ -6656,7 +6639,7 @@
       "pages": "197",
       "author": "",
       "music": "",
-      "presentation": "v1 v2 v3 b",
+      "presentation": "v1 v2 c1 v3 c2 b",
       "time": "",
       "meter": "",
       "theme": "",
@@ -6669,8 +6652,9 @@
         "v2": [
           "All this earth",
           "Could all that is lost ever be found",
-          "Could a garden come up from this ground at all?",
-          "Chorus 1",
+          "Could a garden come up from this ground at all?"
+        ],
+        "c1": [
           "You make beautiful things",
           "You make beautiful things out of the dust",
           "You make beautiful things",
@@ -6679,13 +6663,13 @@
         "v3": [
           "All around",
           "Life is springing up from this old ground",
-          "Out of chaos life is being found in You",
-          "Chorus 2",
+          "Out of chaos life is being found in You"
+        ],
+        "c2": [
           "You make beautiful things",
           "You make beautiful things out of the dust",
           "You make beautiful things",
-          "You make beautiful things out of us",
-          "Instrumental"
+          "You make beautiful things out of us"
         ],
         "b": [
           "You make me new, You are making me new"
@@ -6730,8 +6714,7 @@
           "Jesus, the Son of God",
           "Lord over all, He is good",
           "And His mercy endures, always, always",
-          "(chorus)",
-          "Instrumental"
+          "(chorus)"
         ],
         "b": [
           "His love endures",
@@ -7177,7 +7160,7 @@
       "pages": "212-213",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 v3 b",
+      "presentation": "v1 c v2 v3 c2 b",
       "time": "",
       "meter": "",
       "theme": "",
@@ -7210,8 +7193,9 @@
           "Then He arose over death He had conquered",
           "Now has ascended my Lord ever more",
           "Death could not hold Him the grave could not keep Him",
-          "From rising again",
-          "Chorus 2",
+          "From rising again"
+        ],
+        "c2": [
           "Living He loved me, dying He saved me",
           "Buried He carried my sins far away",
           "Rising He justified freely forever",
@@ -7298,7 +7282,7 @@
           "In all I do, I honor You"
         ],
         "v2": [
-          "You are my King,                  (2x)",
+          "You are my King,",
           "Jesus, You are my King"
         ]
       }
@@ -7416,13 +7400,12 @@
       "pages": "219",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 c v2 v3",
+      "presentation": "v1 c v2 v3",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: C Csus C Csus",
           "In the morning when I rise",
           "In the morning when I rise",
           "In the morning when I rise",
@@ -7480,7 +7463,7 @@
       "pages": "221",
       "author": "",
       "music": "",
-      "presentation": "v1 v2 v3",
+      "presentation": "v1 c1 v2 c2 v3",
       "time": "",
       "meter": "",
       "theme": "",
@@ -7491,8 +7474,9 @@
           "But You sent Your dear Son.",
           "God commends His kindness and love toward us,",
           "In that, while we were yet sinners,",
-          "Christ died for us.",
-          "Chorus 1",
+          "Christ died for us."
+        ],
+        "c1": [
           "God, You did not spare Him, Your beloved Son.",
           "Father, how we thank You for this precious One!"
         ],
@@ -7502,8 +7486,9 @@
           "But Lord, I've been redeemed.",
           "God is love. O God, a man You became;",
           "A cursed man to be, God, You died for me.",
-          "Lord, You hung from a tree.",
-          "Chorus 2",
+          "Lord, You hung from a tree."
+        ],
+        "c2": [
           "Father, You have sent Him, Your beloved Son.",
           "He shed His blood on Calvary; Your love reached me."
         ],
@@ -7570,15 +7555,16 @@
       "pages": "223",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 b",
+      "presentation": "v1 pc1 c v2 pc2 b",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
           "Christ is my reward and all of my devotion",
-          "Now there's nothing in this world that could ever satisfy",
-          "Pre-Chorus 1",
+          "Now there's nothing in this world that could ever satisfy"
+        ],
+        "pc1": [
           "Through every trial, my soul will sing",
           "No turning back, I've been set free"
         ],
@@ -7588,8 +7574,9 @@
         ],
         "v2": [
           "Christ my all in all, my joy and my salvation",
-          "And this hope will never fail, Heaven is our home",
-          "Pre-Chorus 2",
+          "And this hope will never fail, Heaven is our home"
+        ],
+        "pc2": [
           "Through every storm, my soul will sing",
           "Jesus is here, to God be the glory"
         ],
@@ -7667,13 +7654,12 @@
       "pages": "226",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 c v2 b v3",
+      "presentation": "v1 c v2 b v3",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: E C#m A - B",
           "My hope is built on nothing less",
           "Than Jesus' blood and righteousness",
           "I dare not trust the sweetest frame",
@@ -7738,7 +7724,7 @@
       "pages": "228-229",
       "author": "",
       "music": "",
-      "presentation": "v1 pc c",
+      "presentation": "v1 pc c b1 b2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -7761,11 +7747,13 @@
           "Deep cries out, deep cries out to You",
           "Deep cries out, deep cries out to You",
           "We cry out to, we cry out to",
-          "You Jesus",
-          "Bridge 1",
+          "You Jesus"
+        ],
+        "b1": [
           "We're falling into deeper waters, calling out to You",
-          "We're walking into deeper waters, going after You",
-          "Bridge 2",
+          "We're walking into deeper waters, going after You"
+        ],
+        "b2": [
           "If He goes to the left then we'll go to the left",
           "And if He goes to the right then we'll go to the right",
           "We're gonna jump, jump, jump, jump in the river",
@@ -7930,13 +7918,12 @@
       "pages": "234-235",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 c v2 b",
+      "presentation": "v1 c v2 b",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro: C#m (B/D#) E          B       A",
           "You call me out upon the waters;",
           "The great unknown where feet may fail",
           "And there I find You in the mystery,",
@@ -7953,8 +7940,7 @@
           "Your grace abounds in deepest waters;",
           "Your sovereign hand will be my guide,",
           "Where feet may fail and fear surrounds me,",
-          "You've never failed and You won't start now.",
-          "Instrumental: C#m (B/D#) E B F#m"
+          "You've never failed and You won't start now."
         ],
         "b": [
           "Spirit lead me where my trust is without borders",
@@ -8090,13 +8076,12 @@
       "pages": "239",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 v2 c v3 v4 b",
+      "presentation": "v1 v2 c v3 v4 b",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro/turnaround: G C G C",
           "Who breaks the power of sin and darkness",
           "Whose love is mighty and so much stronger",
           "The King of glory, the King above all kings"
@@ -8585,7 +8570,7 @@
       "pages": "251",
       "author": "",
       "music": "",
-      "presentation": "v1 v2",
+      "presentation": "v1 v2 v3",
       "time": "",
       "meter": "",
       "theme": "",
@@ -8597,10 +8582,16 @@
           "Mine in life’s common days."
         ],
         "v2": [
-          "True, in the time of care,   3) Secret of joy untold,",
-          "Fairest, when all is fair,      Changeless, as years unfold;",
-          "Strength of my helplessness,    Nearest of all is He;",
-          "Always at hand to bless.        Dearest of all to me!"
+          "True, in the time of care,",
+          "Fairest, when all is fair,",
+          "Strength of my helplessness,",
+          "Always at hand to bless."
+        ],
+        "v3": [
+          "Secret of joy untold,",
+          "Changeless, as years unfold;",
+          "Nearest of all is He;",
+          "Dearest of all to me!"
         ]
       }
     },
@@ -8650,13 +8641,12 @@
       "pages": "253",
       "author": "",
       "music": "",
-      "presentation": "v1 v1 c",
+      "presentation": "v1 c",
       "time": "",
       "meter": "",
       "theme": "",
       "lyrics": {
         "v1": [
-          "Intro/Outro: E Bsus C#m7 A2",
           "You took, You take our sins away oh God",
           "You give and gave Your life away for us",
           "You came down, You saved us through the cross",
@@ -9504,8 +9494,7 @@
         ],
         "v2": [
           "All that You reveal with light",
-          "In us will come to life and start breathing",
-          "Interlude: Bm A G Em7"
+          "In us will come to life and start breathing"
         ],
         "b": [
           "Here we stand our hearts are Yours;",
@@ -9623,7 +9612,7 @@
       "pages": "278-279",
       "author": "",
       "music": "",
-      "presentation": "v1 v2 v3",
+      "presentation": "v1 c1 c2 v2 v3",
       "time": "",
       "meter": "",
       "theme": "",
@@ -9636,15 +9625,17 @@
           "May our single purpose be",
           "To live out Your life",
           "Through our simple words and deeds",
-          "Let Love be multiplied.",
-          "Chorus 1",
+          "Let Love be multiplied."
+        ],
+        "c1": [
           "There’s no height, there’s no depth",
           "Tribulation or pow’r",
           "That can conquer Your love",
           "Freely given to all",
           "You died our souls to save",
-          "There is no greater love than this",
-          "Chorus 2",
+          "There is no greater love than this"
+        ],
+        "c2": [
           "Now from darkness to light",
           "Sons and daughters now found",
           "Oh, You’ve captured our hearts,",
@@ -10079,7 +10070,7 @@
       "pages": "292-293",
       "author": "",
       "music": "",
-      "presentation": "v1 pc v2",
+      "presentation": "v1 pc c1 v2 c2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -10096,8 +10087,9 @@
         ],
         "pc": [
           "I will not waste this day You've made,",
-          "I will be glad.",
-          "Chorus 1",
+          "I will be glad."
+        ],
+        "c1": [
           "Rejoice, rejoice,",
           "In the sunshine, in the sorrow,",
           "Oh, my soul rejoice."
@@ -10110,8 +10102,9 @@
           "You take my sin and all of the mess,",
           "As far as the east is from the west.",
           "Everything changed, I stand amazed.",
-          "My every breath is grace.",
-          "Chorus 2",
+          "My every breath is grace."
+        ],
+        "c2": [
           "Rejoice, rejoice,",
           "In the trial, in the trouble,",
           "Oh, my soul rejoice.",
@@ -10317,7 +10310,7 @@
       "pages": "299",
       "author": "",
       "music": "",
-      "presentation": "v1 v3 b t",
+      "presentation": "v1 c1 v3 c2 b t",
       "time": "",
       "meter": "",
       "theme": "",
@@ -10326,8 +10319,9 @@
           "Who am I, that the highest King,",
           "Would welcome me?",
           "I was lost, but He brought me in.",
-          "Oh, His love for me. (x2)",
-          "Chorus 1",
+          "Oh, His love for me. (x2)"
+        ],
+        "c1": [
           "Who the Son sets free, oh, is free indeed.",
           "I'm a child of God; yes I am."
         ],
@@ -10336,8 +10330,9 @@
           "His grace runs deep.",
           "While I was a slave to sin,",
           "Jesus died for me.",
-          "Yes, He died for me.",
-          "Chorus 2",
+          "Yes, He died for me."
+        ],
+        "c2": [
           "Who the Son sets free, oh, is free indeed.",
           "I'm a child of God; yes I am.",
           "In my Father's house, there's a place for me.",
@@ -10598,7 +10593,7 @@
       "pages": "308-309",
       "author": "",
       "music": "",
-      "presentation": "v1 v2 v3 v4 t",
+      "presentation": "v1 c1 v2 c2 v3 c3 v4 c4 t",
       "time": "",
       "meter": "",
       "theme": "",
@@ -10607,8 +10602,9 @@
           "What gift of grace is Jesus my redeemer!",
           "There is no more for heaven now to give.",
           "He is my joy, my righteousness, and freedom.",
-          "My steadfast love, my deep and boundless peace.",
-          "Chorus 1",
+          "My steadfast love, my deep and boundless peace."
+        ],
+        "c1": [
           "To this I hold; my hope is only Jesus.",
           "C/ E       F       C                      G",
           "For my life is wholly bound to His.",
@@ -10619,8 +10615,9 @@
           "The night is dark, but I am not forsaken",
           "For by my side, the Savior, He will stay.",
           "I labor on in weakness and rejoicing",
-          "For in my need, His power is displayed.",
-          "Chorus 2",
+          "For in my need, His power is displayed."
+        ],
+        "c2": [
           "To this I hold; my Shepherd will defend me.",
           "Through the deepest valley He will lead.",
           "Oh, the night has been won, and I shall overcome,",
@@ -10630,8 +10627,9 @@
           "No fate I dread; I know I am forgiven.",
           "The future sure, the price it has been paid.",
           "For Jesus bled and suffered for my pardon,",
-          "And He was raised to overthrow the grave.",
-          "Chorus 3",
+          "And He was raised to overthrow the grave."
+        ],
+        "c3": [
           "To this I hold; my sin has been defeated.",
           "Jesus now and ever is my plea.",
           "Oh, the chains are released! I can sing; I am",
@@ -10642,8 +10640,9 @@
           "With every breath I long to follow Jesus,",
           "For He has said that He will bring me home.",
           "And day by day I know He will renew me,",
-          "Until I stand with joy before the throne.",
-          "Chorus 4",
+          "Until I stand with joy before the throne."
+        ],
+        "c4": [
           "To this I hold; my hope is only Jesus.",
           "All the glory evermore to Him.",
           "When the race is complete, still my lips shall",
@@ -10665,7 +10664,7 @@
       "pages": "310-311",
       "author": "",
       "music": "",
-      "presentation": "v1 c t",
+      "presentation": "v1 c b1 b2 t b3",
       "time": "",
       "meter": "",
       "theme": "",
@@ -10679,8 +10678,9 @@
         ],
         "c": [
           "A - men, Amen, Amen.",
-          "(repeat verse, then chorus 2x)",
-          "Bridge 1",
+          "(repeat verse, then chorus 2x)"
+        ],
+        "b1": [
           "May His favor be upon you,",
           "And a thousand generations,",
           "And your family and your children,",
@@ -10688,8 +10688,9 @@
           "May His favor be upon you,",
           "And a thousand generations,",
           "And your family and your children,",
-          "And their children and their children.",
-          "Bridge 2",
+          "And their children and their children."
+        ],
+        "b2": [
           "May His presence go before you,",
           "And behind you and beside you,",
           "All around you and within you.",
@@ -10704,8 +10705,9 @@
           "He is for you; He is for you.",
           "He is for you; He is for you.",
           "He is for you; He is for you.",
-          "(Chorus, then Bridge 3)",
-          "Bridge 3",
+          "(Chorus, then Bridge 3)"
+        ],
+        "b3": [
           "May His favor be upon you,",
           "And a thousand generations,",
           "And your family and your children,",
@@ -11036,7 +11038,7 @@
       "pages": "322-323",
       "author": "",
       "music": "",
-      "presentation": "v1 pc c v2 b",
+      "presentation": "v1 pc c v2 pc2 b",
       "time": "",
       "meter": "",
       "theme": "",
@@ -11063,8 +11065,9 @@
           "Death, where is your sting?",
           "Your power is as dead as my sin.",
           "The Cross has taught me to live,",
-          "And mercy, my heart now to sing.",
-          "Pre-Chorus 2",
+          "And mercy, my heart now to sing."
+        ],
+        "pc2": [
           "The day and its troubles shall come.",
           "I know that Your strength is enough.",
           "The scandal of grace, You died in my place",
@@ -11084,7 +11087,7 @@
       "pages": "324-325",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 b v3",
+      "presentation": "v1 c v2 c2 b v3",
       "time": "",
       "meter": "",
       "theme": "",
@@ -11107,8 +11110,9 @@
           "Like the arrows of the enemy,",
           "I will run again to Calvary,",
           "That rugged hill of hell’s defeat,",
-          "My fortress and my victory.",
-          "Chorus 2",
+          "My fortress and my victory."
+        ],
+        "c2": [
           "My sin is nailed to the cross.",
           "My soul is healed by the scars.",
           "The weight of guilt, I bear no more.",
