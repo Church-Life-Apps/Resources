@@ -976,7 +976,6 @@
         "v1": [
           "Everyone needs compassion, Love that's never failing",
           "Let mercy fall on me, Everyone needs forgiveness",
-          "F#m                  E                 DEDE",
           "The kindness of a Savior, The hope of nations"
         ],
         "c": [
@@ -2641,11 +2640,9 @@
       "lyrics": {
         "v1": [
           "Jesus hope of the nations",
-          "D/A                                   F#m7 (add 4)",
           "Jesus comfort for all who mourn",
           "You are the source of heaven's hope on earth",
           "Jesus light in the darkness",
-          "D/A                                           F#m7 (add 4)",
           "Jesus truth in each circumstance",
           "You are the source of heaven's light on earth"
         ],
@@ -6094,7 +6091,6 @@
           "The universe declares Your majesty,",
           "You are holy, holy",
           "Lord of heaven and earth",
-          "D/B               C2     (Dsus Em7 C2) x2",
           "Lord of heaven and earth"
         ],
         "v2": [
@@ -6529,7 +6525,7 @@
       "pages": "194",
       "author": "",
       "music": "",
-      "presentation": "v1 c i",
+      "presentation": "v1 c",
       "time": "",
       "meter": "",
       "theme": "",
@@ -6547,8 +6543,7 @@
           "Oh, look to the skies",
           "Hear the angels cry, singing",
           "Holy is the Lord"
-        ],
-        "i": []
+        ]
       }
     },
     {
@@ -7624,7 +7619,6 @@
           "We pray: 'revive this earth.'"
         ],
         "c": [
-          "[C]                    G          Am",
           "Build Your kingdom here,",
           "Let the darkness fear;",
           "Show Your mighty hand,",
@@ -8972,7 +8966,6 @@
           "Step by step, step by step",
           "I would walk with Jesus,",
           "All the day, all the way,",
-          "G     D            GA D",
           "Keeping step with Jesus."
         ],
         "v2": [
@@ -10131,10 +10124,7 @@
           "Don’t wanna live a lie. Don’t wanna live a lie.",
           "I wanna live alive, and You make me alive.",
           "Turnaround to Verse",
-          "C#m / A /| E /// | C#m / A / | E / B /",
-          "Turnaround to Bridge",
-          "C#m / A / | E / B / | C#m / A / | E / B / |",
-          "E/G# / A / | B / C#m / | C#m / A / | E / B /|"
+          "Turnaround to Bridge"
         ],
         "v1": [
           "Don’t wanna just survive,",
@@ -10148,7 +10138,6 @@
           "You placed inside."
         ],
         "i": [
-          "C#m / A /|E / B / | C#m / A / | E / B /|",
           "Alive                    Alive"
         ],
         "v2": [
@@ -10310,7 +10299,7 @@
       "pages": "299",
       "author": "",
       "music": "",
-      "presentation": "v1 c1 v3 c2 b t",
+      "presentation": "v1 c1 v2 c2 b t",
       "time": "",
       "meter": "",
       "theme": "",
@@ -10325,7 +10314,7 @@
           "Who the Son sets free, oh, is free indeed.",
           "I'm a child of God; yes I am."
         ],
-        "v3": [
+        "v2": [
           "Free at last, He has ransomed me.",
           "His grace runs deep.",
           "While I was a slave to sin,",
@@ -10606,7 +10595,6 @@
         ],
         "c1": [
           "To this I hold; my hope is only Jesus.",
-          "C/ E       F       C                      G",
           "For my life is wholly bound to His.",
           "Oh how strange and divine, I can sing all is mine.",
           "Yet not I, but through Christ in me."
