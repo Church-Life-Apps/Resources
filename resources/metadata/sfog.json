@@ -1765,7 +1765,7 @@
       "pages": "68",
       "author": "",
       "music": "",
-      "presentation": "v1 v2 b",
+      "presentation": "v1 c v2 b",
       "time": "",
       "meter": "",
       "theme": "",
@@ -1776,10 +1776,7 @@
           "I turn to You and You are always there.",
           "In troubled times it’s You I seek.",
           "I put You first, that’s all I need.",
-          "I humble all I am, all to You",
-          "Chorus",
-          "One way, Jesus",
-          "You’re the only One that I could live for. (2x)"
+          "I humble all I am, all to You"
         ],
         "v2": [
           "You are always, always there.",
@@ -1793,6 +1790,10 @@
           "You are the Way, the Truth and the Life.",
           "We live by faith and not by sight for You.",
           "We’re living all for You."
+        ],
+        "c": [
+          "One way, Jesus",
+          "You’re the only One that I could live for. (2x)"
         ]
       }
     },
@@ -2001,7 +2002,7 @@
       "pages": "74",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 v3",
+      "presentation": "v1 c v2 v3 e",
       "time": "",
       "meter": "",
       "theme": "",
@@ -2028,8 +2029,9 @@
           "Once a sinner, now a believer,",
           "I am proud to say I’m saved.",
           "I want God in my life forever—",
-          "Loving Him from day to day.",
-          "(Ending (after Chorus))",
+          "Loving Him from day to day."
+        ],
+        "e": [
           "The love only found in the Lord…",
           "Forever, the love in the Lord…",
           "The greatest thing ever…the Lord."
@@ -2083,7 +2085,7 @@
       "pages": "76",
       "author": "",
       "music": "",
-      "presentation": "v1 v2",
+      "presentation": "v1 c v2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -2096,10 +2098,7 @@
           "I’m giving You my dreams",
           "I’m laying down my rights",
           "I’m giving up my pride",
-          "For the promise of a new life.",
-          "Chorus",
-          "And I… surrender",
-          "All to You, all to You. (2x)"
+          "For the promise of a new life."
         ],
         "v2": [
           "I’m giving You my life",
@@ -2110,6 +2109,10 @@
           "For the glory of Your name",
           "To know Your lasting joy",
           "Even sharing in Your pain."
+        ],
+        "c": [
+          "And I… surrender",
+          "All to You, all to You. (2x)"
         ]
       }
     },
