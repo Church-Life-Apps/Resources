@@ -9348,7 +9348,7 @@
       "pages": "272",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2",
+      "presentation": "v1 c v2 c2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -9360,11 +9360,8 @@
           "Wash away everything, that is not pleasing to You"
         ],
         "c": [
-          "(Chorus 2 words)",
           "I will be white as snow",
-          "(So come make me white as snow)",
           "I will be pure as gold",
-          "(Lord make me pure as gold)",
           "Jesus my heart must know",
           "I'm pleasing to You",
           "I give You my life my all",
@@ -9377,6 +9374,16 @@
           "To the place where I am, only pleasing to You",
           "Purify me, I need Your light inside me",
           "So the darkness flees, and I can be pleasing to You"
+        ],
+        "c2": [
+          "So come make me white as snow",
+          "Lord make me pure as gold",
+          "Jesus my heart must know",
+          "I'm pleasing to You",
+          "I give You my life my all",
+          "Taking the cross I will follow",
+          "Jesus my heart must know",
+          "I'm pleasing to You"
         ]
       }
     },
