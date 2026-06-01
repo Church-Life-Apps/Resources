@@ -4000,7 +4000,7 @@
       "pages": "125",
       "author": "",
       "music": "",
-      "presentation": "v1",
+      "presentation": "v1 c",
       "time": "",
       "meter": "",
       "theme": "",
@@ -4011,8 +4011,9 @@
           "And I will open up my heart and let the Savior set me free",
           "I’m happy to be in the truth",
           "And I will daily lift my hands",
-          "For I will always sing of when Your love came down",
-          "Chorus",
+          "For I will always sing of when Your love came down"
+        ],
+        "c": [
           "I could sing of Your love forever,",
           "I could sing of Your love forever (2x)"
         ]
@@ -4661,7 +4662,7 @@
       "pages": "143",
       "author": "",
       "music": "",
-      "presentation": "v1",
+      "presentation": "v1 c1 c2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -4671,12 +4672,14 @@
           "We bend our knees",
           "Oh, Spirit, come, we are humbled",
           "We turn our eyes from empty things",
-          "Oh, Lord, we cast down our idols",
-          "Chorus 1",
+          "Oh, Lord, we cast down our idols"
+        ],
+        "c1": [
           "Give us clean hands",
           "Give us pure hearts",
-          "We will not lift our souls to another (2x)",
-          "Chorus 2",
+          "We will not lift our souls to another (2x)"
+        ],
+        "c2": [
           "Oh, God let us be a generation who seeks",
           "Who seeks Your face, oh, God our Father (2x)"
         ]
@@ -9115,7 +9118,7 @@
       "pages": "266-267",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 b",
+      "presentation": "v1 p1 c v2 p2 c b",
       "time": "",
       "meter": "",
       "theme": "",
@@ -9126,14 +9129,7 @@
           "Onto the crashing waves",
           "To step out of my comfort zone",
           "Into the realm of the unknown",
-          "Where Jesus is, And He's holding out His hand",
-          "Pre-Chorus               (Lyrics Sung After Verse 2)",
-          "But the waves are calling out my name, And they laugh at me",
-          "(giants)                                                      ( he)",
-          "Reminding me of all the times, I've tried before and failed",
-          "The waves the keep on telling me, Time and time again",
-          "(giant keeps)",
-          "Boy, you'll never win, you'll never win"
+          "Where Jesus is, And He's holding out His hand"
         ],
         "c": [
           "But the voice of truth tells me a diff'rent story",
@@ -9160,6 +9156,18 @@
           "I will soar with the wings of eagles",
           "When I stop and listen to the sound",
           "Of Jesus singing over me"
+        ],
+        "p1": [
+          "But the waves are calling out my name, And they laugh at me",
+          "Reminding me of all the times, I've tried before and failed",
+          "The waves the keep on telling me, Time and time again",
+          "Boy, you'll never win, you'll never win"
+        ],
+        "p2": [
+          "But the giants are calling out my name, And he laughs at me",
+          "Reminding me of all the times, I've tried before and failed",
+          "The giant keeps on telling me, Time and time again",
+          "Boy, you'll never win, you'll never win"
         ]
       }
     },
@@ -10066,7 +10074,7 @@
       "pages": "292-293",
       "author": "",
       "music": "",
-      "presentation": "v1 p c1 v2 c2",
+      "presentation": "v1 p c1 v2 c2 b",
       "time": "",
       "meter": "",
       "theme": "",
@@ -10103,10 +10111,11 @@
         "c2": [
           "Rejoice, rejoice,",
           "In the trial, in the trouble,",
-          "Oh, my soul rejoice.",
-          "Bridge (x2)",
+          "Oh, my soul rejoice."
+        ],
+        "b": [
           "Life is beautiful; You are the color.",
-          "Life is wonderful; You are the wonder."
+          "Life is wonderful; You are the wonder. (x2)"
         ]
       }
     },
@@ -10720,7 +10729,7 @@
       "pages": "312",
       "author": "",
       "music": "",
-      "presentation": "v1 p c v2 b",
+      "presentation": "v1 p c v2 b e",
       "time": "",
       "meter": "",
       "theme": "",
@@ -10747,8 +10756,9 @@
           "Here my hope is found, here on holy ground.",
           "Here I bow down; here I bow.",
           "Here arms open wide, here You saved my life.",
-          "Here I bow down; here I bow.",
-          "End",
+          "Here I bow down; here I bow."
+        ],
+        "e": [
           "I owe all to You. I owe all to You, Jesus."
         ]
       }
