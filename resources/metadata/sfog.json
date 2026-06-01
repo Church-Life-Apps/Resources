@@ -7161,7 +7161,7 @@
       "pages": "212-213",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 v3 c2 b",
+      "presentation": "v1 c1 v2 v3 c2 b c3",
       "time": "",
       "meter": "",
       "theme": "",
@@ -7173,12 +7173,6 @@
           "Dwelt among men my example is He",
           "Word became flesh and the light shined among us",
           "His glory revealed"
-        ],
-        "c": [
-          "Living He loved me, dying He saved me",
-          "Buried He carried my sins far away",
-          "Rising He justified freely forever",
-          "One day He’s coming, oh glorious day, oh glorious day"
         ],
         "v2": [
           "One day they led him up Calvary’s mountain",
@@ -7207,13 +7201,20 @@
           "One day the trumpet will sound for His coming",
           "One day the skies with His glory will shine",
           "Wonderful day my Beloved One bringing",
-          "My savior Jesus is mine",
-          "Chorus 3 (End)",
+          "My savior Jesus is mine"
+        ],
+        "c3": [
           "Living He loved me, dying He saved me",
           "Buried He carried, my sins far away",
           "Rising He justified, freely forever",
           "One day He’s coming, oh glorious day, oh glorious da - y,",
           "Oh glorious da - y, oh glorious day"
+        ],
+        "c1": [
+          "Living He loved me, dying He saved me",
+          "Buried He carried my sins far away",
+          "Rising He justified freely forever",
+          "One day He’s coming, oh glorious day, oh glorious day"
         ]
       }
     },
