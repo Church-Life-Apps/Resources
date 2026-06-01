@@ -6014,7 +6014,7 @@
       "pages": "178",
       "author": "",
       "music": "",
-      "presentation": "v1 p c v2",
+      "presentation": "v1 p c v2 e",
       "time": "",
       "meter": "",
       "theme": "",
@@ -6040,8 +6040,9 @@
           "Never knew these nails would love unfold",
           "And never knew these wounds would heal my soul.",
           "I’ve never seen such beauty and sorrow meet",
-          "The blood of Jesus was bled for me.",
-          "End",
+          "The blood of Jesus was bled for me."
+        ],
+        "e": [
           "How beautiful You are, how merciful You are",
           "How glorious You are, Christ our Savior."
         ]
