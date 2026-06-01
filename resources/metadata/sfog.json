@@ -5071,7 +5071,7 @@
       "pages": "154",
       "author": "",
       "music": "",
-      "presentation": "v1 c",
+      "presentation": "v1 c1 c2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -5082,23 +5082,42 @@
           "I will follow (echo), I will listen (echo),",
           "I will love You (echo), all of my days! (echo)"
         ],
-        "c": [
-          "I will sing to                     You’re the Lord of lords",
-          "And worship                        You’re the King of kings",
-          "The King who                       You are Mighty God",
-          "Is worthy                          Lord of everything",
-          "I will love and                    You’re Emmanuel",
-          "Adore Him                          You’re the Great I Am",
-          "I will bow down                    You’re the Prince of Peace",
-          "Before Him                         Who is the Lamb",
-          "I will sing to                     You’re my Living God",
-          "And worship                        You’re my Saving Grace",
-          "The King who                       You will reign forever",
-          "Is worthy                          You are Ancient of Days",
-          "I will love and                    You are Alpha, Omega",
-          "Adore Him                          Beginning and End",
-          "I will bow down                    You’re my Savior, Messiah",
-          "Before Him                         Redeemer and Friend",
+        "c1": [
+          "I will sing to",
+          "And worship",
+          "The King who",
+          "Is worthy",
+          "I will love and",
+          "Adore Him",
+          "I will bow down",
+          "Before Him",
+          "I will sing to",
+          "And worship",
+          "The King who",
+          "Is worthy",
+          "I will love and",
+          "Adore Him",
+          "I will bow down",
+          "Before Him",
+          "You’re my Prince of peace, and I will live my life for You!"
+        ],
+        "c2": [
+          "You’re the Lord of lords",
+          "You’re the King of kings",
+          "You are Mighty God",
+          "Lord of everything",
+          "You’re Emmanuel",
+          "You’re the Great I Am",
+          "You’re the Prince of Peace",
+          "Who is the Lamb",
+          "You’re my Living God",
+          "You’re my Saving Grace",
+          "You will reign forever",
+          "You are Ancient of Days",
+          "You are Alpha, Omega",
+          "Beginning and End",
+          "You’re my Savior, Messiah",
+          "Redeemer and Friend",
           "You’re my Prince of peace, and I will live my life for You!"
         ]
       }
@@ -5947,8 +5966,7 @@
           "You're callin' me to lay aside",
           "The worries of my day",
           "To quiet down my busy mind",
-          "And find a hiding place",
-          "(resting)"
+          "And find a hiding (resting) place"
         ],
         "c": [
           "Worthy You are worthy"
@@ -6014,7 +6032,7 @@
       "pages": "178",
       "author": "",
       "music": "",
-      "presentation": "v1 p c v2",
+      "presentation": "v1 p c v2 e",
       "time": "",
       "meter": "",
       "theme": "",
@@ -6040,8 +6058,9 @@
           "Never knew these nails would love unfold",
           "And never knew these wounds would heal my soul.",
           "I’ve never seen such beauty and sorrow meet",
-          "The blood of Jesus was bled for me.",
-          "End",
+          "The blood of Jesus was bled for me."
+        ],
+        "e": [
           "How beautiful You are, how merciful You are",
           "How glorious You are, Christ our Savior."
         ]
@@ -7161,7 +7180,7 @@
       "pages": "212-213",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 v3 c2 b",
+      "presentation": "v1 c1 v2 v3 c2 b c3",
       "time": "",
       "meter": "",
       "theme": "",
@@ -7173,12 +7192,6 @@
           "Dwelt among men my example is He",
           "Word became flesh and the light shined among us",
           "His glory revealed"
-        ],
-        "c": [
-          "Living He loved me, dying He saved me",
-          "Buried He carried my sins far away",
-          "Rising He justified freely forever",
-          "One day He’s coming, oh glorious day, oh glorious day"
         ],
         "v2": [
           "One day they led him up Calvary’s mountain",
@@ -7207,13 +7220,20 @@
           "One day the trumpet will sound for His coming",
           "One day the skies with His glory will shine",
           "Wonderful day my Beloved One bringing",
-          "My savior Jesus is mine",
-          "Chorus 3 (End)",
+          "My savior Jesus is mine"
+        ],
+        "c3": [
           "Living He loved me, dying He saved me",
           "Buried He carried, my sins far away",
           "Rising He justified, freely forever",
           "One day He’s coming, oh glorious day, oh glorious da - y,",
           "Oh glorious da - y, oh glorious day"
+        ],
+        "c1": [
+          "Living He loved me, dying He saved me",
+          "Buried He carried my sins far away",
+          "Rising He justified freely forever",
+          "One day He’s coming, oh glorious day, oh glorious day"
         ]
       }
     },
@@ -7758,14 +7778,17 @@
           "And if He goes to the right then we'll go to the right",
           "We're gonna jump, jump, jump, jump in the river",
           "Jump, jump, jump, jump, everybody",
+          "",
           "If He goes to the left then we'll go to the left",
           "And if He goes to the right then we'll go to the right",
           "We're going to dance, dance, dance, dance in the river,",
           "Dance, dance, dance, dance everybody",
+          "",
           "If He goes to the left then we'll go to the left",
           "And if He goes to the right then we'll go to the right",
           "We're gonna jump, jump, jump, jump in the river",
           "Jump, jump, jump, jump, everybody",
+          "",
           "If He goes to the left then we'll go to the left",
           "And if He goes to the right then we'll go to the right",
           "We're gonna shout, shout, shout, shout in the river",
@@ -7918,7 +7941,7 @@
       "pages": "234-235",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 b",
+      "presentation": "v1 c v2 b t",
       "time": "",
       "meter": "",
       "theme": "",
@@ -7951,8 +7974,9 @@
           "Let me walk upon the waters wherever You would call me",
           "Take me deeper than my feet could ever wander",
           "And my faith will be made stronger in the presence of my Savior (1x)",
-          "(Chorus)",
-          "Tag",
+          "(Chorus)"
+        ],
+        "t": [
           "Give me faith, to trust what You say",
           "That You’re good, and Your love is great (6x)"
         ]
@@ -9348,7 +9372,7 @@
       "pages": "272",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2",
+      "presentation": "v1 c v2 c2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -9360,11 +9384,8 @@
           "Wash away everything, that is not pleasing to You"
         ],
         "c": [
-          "(Chorus 2 words)",
           "I will be white as snow",
-          "(So come make me white as snow)",
           "I will be pure as gold",
-          "(Lord make me pure as gold)",
           "Jesus my heart must know",
           "I'm pleasing to You",
           "I give You my life my all",
@@ -9377,6 +9398,16 @@
           "To the place where I am, only pleasing to You",
           "Purify me, I need Your light inside me",
           "So the darkness flees, and I can be pleasing to You"
+        ],
+        "c2": [
+          "So come make me white as snow",
+          "Lord make me pure as gold",
+          "Jesus my heart must know",
+          "I'm pleasing to You",
+          "I give You my life my all",
+          "Taking the cross I will follow",
+          "Jesus my heart must know",
+          "I'm pleasing to You"
         ]
       }
     },
@@ -9956,7 +9987,7 @@
       "pages": "288-289",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2",
+      "presentation": "v1 c v2 b",
       "time": "",
       "meter": "",
       "theme": "",
@@ -9981,8 +10012,9 @@
           "This we know; this we know.",
           "And every enemy will flee,",
           "As we declare Your victory.",
-          "This we know; this we know.",
-          "Bridge (x2)",
+          "This we know; this we know."
+        ],
+        "b": [
           "Jesus’ name",
           "Will break every stronghold.",
           "Freedom is ours,",
@@ -9990,7 +10022,7 @@
           "Jesus’ name",
           "Above every other.",
           "All hail the power",
-          "Of Jesus’ name."
+          "Of Jesus’ name. (x2)"
         ]
       }
     },
@@ -10988,7 +11020,7 @@
       "pages": "320-321",
       "author": "",
       "music": "",
-      "presentation": "v1 p c v2 b",
+      "presentation": "v1 p c v2 b p2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -11025,8 +11057,9 @@
           "I can't imagine what it'd be like on my own.",
           "I've made up my heart.",
           "This love is all I've got.",
-          "And You're the only one I know worth living for.",
-          "(Pre-Chorus)",
+          "And You're the only one I know worth living for."
+        ],
+        "p2": [
           "A sweet elevation of praises,",
           "There's no one I love more than You."
         ]
