@@ -7941,7 +7941,7 @@
       "pages": "234-235",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2 b",
+      "presentation": "v1 c v2 b t",
       "time": "",
       "meter": "",
       "theme": "",
@@ -7974,8 +7974,9 @@
           "Let me walk upon the waters wherever You would call me",
           "Take me deeper than my feet could ever wander",
           "And my faith will be made stronger in the presence of my Savior (1x)",
-          "(Chorus)",
-          "Tag",
+          "(Chorus)"
+        ],
+        "t": [
           "Give me faith, to trust what You say",
           "That You’re good, and Your love is great (6x)"
         ]
@@ -9986,7 +9987,7 @@
       "pages": "288-289",
       "author": "",
       "music": "",
-      "presentation": "v1 c v2",
+      "presentation": "v1 c v2 b",
       "time": "",
       "meter": "",
       "theme": "",
@@ -10011,8 +10012,9 @@
           "This we know; this we know.",
           "And every enemy will flee,",
           "As we declare Your victory.",
-          "This we know; this we know.",
-          "Bridge (x2)",
+          "This we know; this we know."
+        ],
+        "b": [
           "Jesus’ name",
           "Will break every stronghold.",
           "Freedom is ours,",
@@ -10020,7 +10022,7 @@
           "Jesus’ name",
           "Above every other.",
           "All hail the power",
-          "Of Jesus’ name."
+          "Of Jesus’ name. (x2)"
         ]
       }
     },
@@ -11018,7 +11020,7 @@
       "pages": "320-321",
       "author": "",
       "music": "",
-      "presentation": "v1 p c v2 b",
+      "presentation": "v1 p c v2 b p2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -11055,8 +11057,9 @@
           "I can't imagine what it'd be like on my own.",
           "I've made up my heart.",
           "This love is all I've got.",
-          "And You're the only one I know worth living for.",
-          "(Pre-Chorus)",
+          "And You're the only one I know worth living for."
+        ],
+        "p2": [
           "A sweet elevation of praises,",
           "There's no one I love more than You."
         ]
