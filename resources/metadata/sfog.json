@@ -5477,7 +5477,7 @@
       "pages": "164",
       "author": "",
       "music": "",
-      "presentation": "v1",
+      "presentation": "v1 v2",
       "time": "",
       "meter": "",
       "theme": "",
@@ -5485,7 +5485,9 @@
         "v1": [
           "I love You, Lord Jesus.",
           "I love You, Lord, Precious One.",
-          "No other one compares to You. (Repeat)",
+          "No other one compares to You. (Repeat)"
+        ],
+        "v2": [
           "Jesus Lord, Jesus,",
           "Dear Lord, most lovely One,",
           "No one compares to You."
@@ -6164,7 +6166,7 @@
       "pages": "182",
       "author": "",
       "music": "",
-      "presentation": "v1 c",
+      "presentation": "v1 v1 c v1",
       "time": "",
       "meter": "",
       "theme": "",
@@ -6172,17 +6174,11 @@
         "v1": [
           "Therefore the redeemed of the Lord shall return,",
           "And come with singing unto Zion;",
-          "And everlasting joy shall be upon their head.",
-          "Therefore the redeemed of the Lord shall return,",
-          "And come with singing unto Zion;",
           "And everlasting joy shall be upon their head."
         ],
         "c": [
           "They shall obtain gladness and joy;",
-          "And sorrow and mourning shall flee away.",
-          "Therefore the redeemed of the Lord shall return,",
-          "And come with singing unto Zion;",
-          "And everlasting joy shall be upon their head."
+          "And sorrow and mourning shall flee away."
         ]
       }
     },
@@ -10166,9 +10162,7 @@
           "I wanna live alive. I wanna live alive.",
           "I wanna live alive. I wanna live alive.",
           "Don’t wanna live a lie. Don’t wanna live a lie.",
-          "I wanna live alive, and You make me alive.",
-          "Turnaround to Verse",
-          "Turnaround to Bridge"
+          "I wanna live alive, and You make me alive."
         ],
         "v1": [
           "Don’t wanna just survive,",
@@ -10999,7 +10993,6 @@
           "(Everybody knows that; everybody knows that.)",
           "But the road less traveled is hard to walk.",
           "(Everybody knows that, everybody knows.)",
-          "(Verse 2 continued)",
           "It takes a soldier,",
           "Who knows his orders,",
           "To walk the walk I’m supposed to walk."
